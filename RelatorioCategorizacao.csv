@@ -1,0 +1,2599 @@
+﻿UF;Município;Região Turística;Domésticos;Internacionais;Estabelecimentos;Empregos;Arrecadação de Impostos;Categoria
+AC;Assis Brasil;Caminhos do Pacífico;27.381;0;1;1;0.0;D
+AC;Cruzeiro do Sul;Caminhos das Aldeias e da Biodiversidade;24.475;481;11;116;241310.0;C
+AC;Epitaciolândia;Caminhos do Pacífico;4.785;0;6;31;0.0;D
+AC;Mâncio Lima;Caminhos das Aldeias e da Biodiversidade;0;0;0;0;0.0;E
+AC;Marechal Thaumaturgo;Caminhos das Aldeias e da Biodiversidade;20.587;263;0;0;0.0;D
+AC;Plácido de Castro;Caminhos da Revolução;0;0;1;2;0.0;D
+AC;Porto Acre;Caminhos da Revolução;0;0;0;0;0.0;E
+AC;Porto Walter;Caminhos das Aldeias e da Biodiversidade;0;0;1;1;0.0;D
+AC;Rio Branco;Caminhos da Revolução;464.108;4.602;30;376;2845034.0;A
+AC;Rodrigues Alves;Caminhos das Aldeias e da Biodiversidade;0;0;0;0;0.0;E
+AC;Tarauacá;Caminhos das Aldeias e da Biodiversidade;19.114;0;8;30;0.0;C
+AC;Xapuri;Caminhos do Pacífico;22.979;0;1;1;0.0;D
+AL;Água Branca;REGIÃO CÂNION DO SÃO FRANCISCO;0;0;0;0;0.0;D
+AL;Arapiraca;REGIÃO DO AGRESTE;113.137;215;25;202;1126796.0;B
+AL;Atalaia;REGIÃO DO QUILOMBO;936;0;1;3;0.0;D
+AL;Barra de Santo Antônio;REGIÃO COSTA DOS CORAIS;0;0;6;28;0.0;D
+AL;Barra de São Miguel;REGIÃO CAMINHO DAS ÁGUAS;8.936;207;11;89;2546565.0;C
+AL;Belo Monte;REGIÃO CÂNION DO SÃO FRANCISCO;0;0;0;0;0.0;E
+AL;Boca da Mata;REGIÃO DO AGRESTE;0;0;1;2;0.0;D
+AL;Campo Alegre;REGIÃO DO AGRESTE;1.005;0;0;0;0.0;D
+AL;Chã Preta;REGIÃO DO QUILOMBO;0;0;0;0;0.0;E
+AL;Coqueiro Seco;REGIÃO CAMINHO DAS ÁGUAS;6.160;0;0;0;0.0;D
+AL;Coruripe;REGIÃO CAMINHO DAS ÁGUAS;40.254;311;8;45;0.0;C
+AL;Delmiro Gouveia;REGIÃO CÂNION DO SÃO FRANCISCO;35.777;0;11;26;59462.0;C
+AL;Feliz Deserto;REGIÃO CAMINHO DAS ÁGUAS;4.293;0;0;0;0.0;D
+AL;Ibateguara;REGIÃO DO QUILOMBO;6.160;0;0;0;0.0;D
+AL;Japaratinga;REGIÃO COSTA DOS CORAIS;42.919;730;21;260;1403838.0;B
+AL;Jequiá da Praia;REGIÃO CAMINHO DAS ÁGUAS;6.553;0;0;0;0.0;D
+AL;Junqueiro;REGIÃO DO AGRESTE;15.574;0;2;8;0.0;D
+AL;Lagoa da Canoa;REGIÃO DO AGRESTE;0;91;0;0;0.0;D
+AL;Limoeiro de Anadia;REGIÃO DO AGRESTE;0;0;0;0;0.0;E
+AL;Maceió;Grande Maceió;1.448.550;78.259;124;3.081;478000000000000,00;A
+AL;Major Isidoro;REGIÃO DA CAATINGA;9.659;0;1;4;0.0;D
+AL;Maragogi;REGIÃO COSTA DOS CORAIS;297.357;19.347;36;1.276;24800000000000,00;A
+AL;Maravilha;REGIÃO DA CAATINGA;0;0;0;0;0.0;E
+AL;Marechal Deodoro;REGIÃO CAMINHO DAS ÁGUAS;22.032;791;11;125;251240.0;C
+AL;Maribondo;REGIÃO DO QUILOMBO;0;0;0;0;0.0;E
+AL;Mar Vermelho;REGIÃO DO QUILOMBO;3.499;0;0;0;0.0;D
+AL;Mata Grande;REGIÃO DA CAATINGA;2.837;0;0;0;0.0;D
+AL;Murici;REGIÃO DO QUILOMBO;6.160;0;1;0;0.0;D
+AL;Olho d'Água das Flores;REGIÃO DA CAATINGA;0;0;0;0;0.0;E
+AL;Olho d'Água do Casado;REGIÃO CÂNION DO SÃO FRANCISCO;0;0;0;0;0.0;E
+AL;Palmeira dos Índios;REGIÃO DO AGRESTE;68.851;182;5;24;0.0;C
+AL;Pão de Açúcar;REGIÃO CÂNION DO SÃO FRANCISCO;794;0;1;1;0.0;D
+AL;Pariconha;REGIÃO CÂNION DO SÃO FRANCISCO;0;439;0;0;0.0;D
+AL;Paripueira;REGIÃO COSTA DOS CORAIS;936;504;4;57;0.0;D
+AL;Passo de Camaragibe;REGIÃO COSTA DOS CORAIS;5.238;0;4;33;0.0;D
+AL;Penedo;REGIÃO CAMINHO DAS ÁGUAS;103.292;449;8;51;0.0;C
+AL;Piaçabuçu;REGIÃO CAMINHO DAS ÁGUAS;37.076;0;1;1;0.0;D
+AL;Pilar;REGIÃO CAMINHO DAS ÁGUAS;0;0;0;0;0.0;D
+AL;Piranhas;REGIÃO CÂNION DO SÃO FRANCISCO;6.070;388;11;37;133577.0;C
+AL;Porto Calvo;REGIÃO COSTA DOS CORAIS;0;0;2;11;0.0;D
+AL;Porto de Pedras;REGIÃO COSTA DOS CORAIS;11.923;188;14;144;882342.0;C
+AL;Porto Real do Colégio;REGIÃO CAMINHO DAS ÁGUAS;3.499;0;0;0;0.0;D
+AL;Quebrangulo;REGIÃO DO QUILOMBO;0;0;0;0;0.0;E
+AL;Roteiro;REGIÃO CAMINHO DAS ÁGUAS;0;0;0;0;0.0;E
+AL;Santana do Ipanema;REGIÃO DA CAATINGA;3.499;0;3;27;0.0;D
+AL;São José da Laje;REGIÃO DO QUILOMBO;0;0;0;0;0.0;E
+AL;São Miguel dos Campos;REGIÃO CAMINHO DAS ÁGUAS;7.096;564;5;13;0.0;D
+AL;São Miguel dos Milagres;REGIÃO COSTA DOS CORAIS;15.449;1.248;15;147;1616566.0;C
+AL;São Sebastião;REGIÃO DO AGRESTE;0;0;2;6;0.0;D
+AL;Teotônio Vilela;REGIÃO DO AGRESTE;6.160;0;2;8;0.0;D
+AL;União dos Palmares;REGIÃO DO QUILOMBO;1.872;0;3;12;0.0;D
+AL;Viçosa;REGIÃO DO QUILOMBO;36.106;0;2;7;0.0;D
+AP;Macapá;Região Turística Meio do Mundo;154.341;5.861;32;295;2137068.0;A
+AP;Mazagão;Região Turística Meio do Mundo;7.507;1.516;1;1;0.0;D
+AP;Oiapoque;Região Turística Cabo Orange;10.251;911;9;32;0.0;C
+AP;Pedra Branca do Amapari;Região Turística Tumucumaque e Cachoeiras;30.367;0;3;3;0.0;D
+AP;Vitória do Jari;Região Turística Vale do Jari;0;0;0;0;0.0;E
+AM;Anori;Polo Médio Solimões;2.685;0;0;0;0.0;D
+AM;Atalaia do Norte;Polo Alto Solimões;946;0;0;0;0.0;D
+AM;Barcelos;Polo Alto Rio Negro;8.821;461;2;3;0.0;D
+AM;Barreirinha;Polo Sateré;103.881;953;0;0;0.0;C
+AM;Benjamin Constant;Polo Alto Solimões;946;0;0;0;0.0;D
+AM;Boa Vista do Ramos;Polo Sateré;8.637;296;1;0;0.0;D
+AM;Borba;Polo Madeira;2.302;0;0;0;0.0;D
+AM;Careiro;Polo Amazônico;20.450;64;1;5;0.0;D
+AM;Coari;Polo Médio Solimões;78.339;0;3;10;0.0;C
+AM;Humaitá;Polo Madeira;4.681;120;5;37;0.0;D
+AM;Iranduba;Polo Amazônico;77.489;101;1;3;0.0;C
+AM;Itacoatiara;Polo Uatumã;94.856;758;7;33;67735.0;C
+AM;Manacapuru;Polo Amazônico;111.358;316;6;33;93388.0;C
+AM;Manaquiri;Polo Amazônico;7.691;0;0;0;0.0;D
+AM;Manaus;Polo Amazônico;1.472.775;88.470;85;1.023;203000000000000,00;A
+AM;Maués;Polo Sateré;80.326;126;1;7;0.0;C
+AM;Nhamundá;Polo Sateré;72.767;0;0;0;0.0;C
+AM;Novo Airão;Polo Amazônico;24.486;631;3;41;0.0;D
+AM;Novo Aripuanã;Polo Madeira;5.015;0;1;1;0.0;D
+AM;Parintins;Polo Sateré;91.100;578;4;37;78591.0;C
+AM;Presidente Figueiredo;Polo Amazônico;65.356;1.813;9;32;100736.0;C
+AM;Rio Preto da Eva;Polo Amazônico;57.707;0;5;67;0.0;C
+AM;São Gabriel da Cachoeira;Polo Alto Rio Negro;4.404;159;1;5;0.0;D
+AM;São Sebastião do Uatumã;Polo Uatumã;6.358;317;0;0;0.0;D
+AM;Tabatinga;Polo Alto Solimões;12.834;1.989;8;39;157571.0;C
+AM;Uarini;Polo Médio Solimões;0;0;0;0;0.0;E
+BA;Abaíra;Chapada Diamantina;0;0;2;5;0.0;D
+BA;Alagoinhas;Caminhos do Sertão;91.504;467;14;129;1295849.0;B
+BA;Alcobaça;Costa das Baleias;91.095;267;12;24;0.0;C
+BA;Amargosa;Caminhos do Jiquiriçá;65.323;64;3;21;0.0;C
+BA;Andaraí;Chapada Diamantina;4.326;1.691;3;19;0.0;D
+BA;Aratuípe;Baía de Todos os Santos;0;0;0;0;0.0;E
+BA;Banzaê;Caminhos do Sertão;0;0;0;0;0.0;E
+BA;Barra da Estiva;Chapada Diamantina;0;207;2;15;0.0;D
+BA;Barra do Mendes;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Barreiras;Caminhos do Oeste;182.508;1.563;29;292;993389.0;B
+BA;Barro Alto;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Belmonte;Costa do Descobrimento;2.236;121;6;19;0.0;D
+BA;Boa Vista do Tupim;Chapada Diamantina;0;0;0;0;0.0;D
+BA;Bom Jesus da Lapa;Caminhos do Oeste;221.079;1.002;26;122;611142.0;B
+BA;Boninal;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Bonito;Chapada Diamantina;0;140;1;0;0.0;D
+BA;Cachoeira;Baía de Todos os Santos;31.752;1.746;9;53;0.0;C
+BA;Caetité;Caminhos do Oeste;2.782;178;9;37;193751.0;C
+BA;Cairu;Costa do Dendê;125.021;93.253;123;981;9104867.0;A
+BA;Camaçari;Costa dos Coqueiros;271.431;9.774;47;839;4092283.0;B
+BA;Camamu;Costa do Dendê;18.514;101;2;16;0.0;D
+BA;Campo Formoso;Chapada Diamantina;17.635;237;4;32;0.0;D
+BA;Canavieiras;Costa do Cacau;35.053;5.512;4;34;0.0;C
+BA;Candeias;Baía de Todos os Santos;24.180;126;4;5;0.0;D
+BA;Caravelas;Costa das Baleias;14.349;373;4;19;0.0;D
+BA;Casa Nova;Vale do São Francisco, Região Norte da Bahia;39.505;88;2;11;0.0;D
+BA;Cipó;Caminhos do Sertão;5.919;352;1;0;0.0;D
+BA;Cocos;Caminhos do Oeste;7.881;64;3;5;0.0;D
+BA;Conde;Costa dos Coqueiros;117.092;655;6;46;238595.0;C
+BA;Coração de Maria;Caminhos do Sertão;20.741;0;0;0;0.0;D
+BA;Correntina;Caminhos do Oeste;96.785;0;10;57;0.0;C
+BA;Cruz das Almas;Caminhos do Jiquiriçá;53.601;267;8;54;0.0;C
+BA;Curaçá;Vale do São Francisco, Região Norte da Bahia;10.601;265;1;1;0.0;D
+BA;Dom Basílio;Chapada Diamantina;0;64;1;1;0.0;D
+BA;Dom Macedo Costa;Caminhos do Jiquiriçá;0;0;1;12;0.0;D
+BA;Entre Rios;Costa dos Coqueiros;80.148;209;12;68;670559.0;C
+BA;Formosa do Rio Preto;Caminhos do Oeste;6.699;0;6;30;0.0;D
+BA;Gentio do Ouro;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Guaratinga;Costa do Descobrimento;0;0;0;0;0.0;E
+BA;Ibicoara;Chapada Diamantina;0;116;2;1;0.0;D
+BA;Iguaí;Caminhos do Sudoeste;5.919;55;1;1;0.0;D
+BA;Ilhéus;Costa do Cacau;469.795;9.781;55;1.073;9180149.0;A
+BA;Iramaia;Chapada Diamantina;0;0;0;0;0.0;D
+BA;Iraquara;Chapada Diamantina;0;0;3;24;0.0;D
+BA;Irará;Caminhos do Sertão;13.521;0;0;0;0.0;D
+BA;Itaberaba;Chapada Diamantina;43.025;0;12;39;274549.0;C
+BA;Itacaré;Costa do Cacau;129.768;17.476;57;515;4439834.0;B
+BA;Itaeté;Chapada Diamantina;14.505;0;1;1;0.0;D
+BA;Itagi;Caminhos do Sudoeste;0;0;2;2;0.0;D
+BA;Itanhém;Costa das Baleias;0;182;0;0;0.0;D
+BA;Itaparica;Baía de Todos os Santos;245.038;8.740;5;19;0.0;B
+BA;Itatim;Caminhos do Jiquiriçá;33.591;502;1;5;0.0;D
+BA;Ituaçu;Chapada Diamantina;0;259;1;1;0.0;D
+BA;Ituberá;Costa do Dendê;10.600;66;3;11;0.0;D
+BA;Jaborandi;Caminhos do Oeste;14.505;0;0;0;0.0;D
+BA;Jacobina;Chapada Diamantina;54.477;849;14;85;793292.0;C
+BA;Jaguaquara;Caminhos do Jiquiriçá;26.376;0;5;21;0.0;D
+BA;Jaguarari;Chapada Diamantina;17.527;234;2;8;0.0;D
+BA;Jaguaripe;Baía de Todos os Santos;5.919;182;4;23;0.0;D
+BA;Jequié;Caminhos do Sudoeste;232.370;501;19;166;707352.0;B
+BA;Jiquiriçá;Caminhos do Jiquiriçá;20.065;35;1;5;0.0;D
+BA;Juazeiro;Vale do São Francisco, Região Norte da Bahia;198.335;1.297;20;134;637248.0;B
+BA;Jussiape;Chapada Diamantina;6.782;0;1;2;0.0;D
+BA;Lauro de Freitas;Costa dos Coqueiros;7.446;1.505;16;134;1267020.0;C
+BA;Lençóis;Chapada Diamantina;79.102;22.307;21;198;1716147.0;B
+BA;Maracás;Caminhos do Sudoeste;14.505;120;2;22;0.0;D
+BA;Maragogipe;Baía de Todos os Santos;82.328;182;3;7;0.0;C
+BA;Mata de São João;Costa dos Coqueiros;228.922;80.017;58;6.171;10300000000000000,00;A
+BA;Miguel Calmon;Chapada Diamantina;4.227;0;0;0;0.0;D
+BA;Monte Santo;Caminhos do Sertão;0;208;2;4;0.0;D
+BA;Morro do Chapéu;Chapada Diamantina;10.846;319;5;25;0.0;D
+BA;Mucugê;Chapada Diamantina;0;737;8;28;126976.0;C
+BA;Mucuri;Costa das Baleias;87.456;1.356;19;72;708793.0;B
+BA;Muniz Ferreira;Baía de Todos os Santos;0;0;0;0;0.0;E
+BA;Muritiba;Baía de Todos os Santos;7.872;104;2;5;0.0;D
+BA;Mutuípe;Caminhos do Jiquiriçá;1.953;0;1;3;0.0;D
+BA;Nazaré;Baía de Todos os Santos;15.275;0;2;8;0.0;D
+BA;Nova Redenção;Chapada Diamantina;1.953;0;0;0;0.0;D
+BA;Nova Viçosa;Costa das Baleias;118.516;1.414;11;51;270929.0;C
+BA;Oliveira dos Brejinhos;Chapada Diamantina;6.316;0;3;6;0.0;D
+BA;Palmeiras;Chapada Diamantina;6.033;2.655;9;30;263206.0;C
+BA;Paramirim;Chapada Diamantina;0;104;0;0;0.0;D
+BA;Paripiranga;Caminhos do Sertão;15.441;0;1;5;0.0;D
+BA;Paulo Afonso;Lagos e Canyons do São Francisco;190.154;1.236;10;137;783666.0;B
+BA;Piatã;Chapada Diamantina;0;182;1;0;0.0;D
+BA;Pindobaçu;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Pojuca;Costa dos Coqueiros;46.713;0;5;19;0.0;C
+BA;Porto Seguro;Costa do Descobrimento;1.192.038;64.066;318;5.046;668000000000000,00;A
+BA;Prado;Costa das Baleias;76.429;1.506;49;273;2344797.0;B
+BA;Quixabeira;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Rio de Contas;Chapada Diamantina;0;95;6;35;0.0;D
+BA;Salinas da Margarida;Baía de Todos os Santos;46.417;0;3;10;0.0;C
+BA;Salvador;Baía de Todos os Santos;4.262.041;326.169;267;4.834;401000000000000,00;A
+BA;Santa Cruz Cabrália;Costa do Descobrimento;13.831;976;27;365;2793553.0;B
+BA;Santa Inês;Caminhos do Jiquiriçá;14.505;0;1;1;0.0;D
+BA;Santa Terezinha;Caminhos do Jiquiriçá;5.919;126;1;0;0.0;D
+BA;Santo Amaro;Baía de Todos os Santos;40.012;222;5;22;0.0;C
+BA;Santo Antônio de Jesus;Caminhos do Jiquiriçá;68.984;88;17;122;858179.0;B
+BA;Santo Estêvão;Caminhos do Sertão;26.609;76;1;0;0.0;D
+BA;São Desidério;Caminhos do Oeste;0;0;2;26;0.0;D
+BA;São Félix;Baía de Todos os Santos;3.905;143;1;1;0.0;D
+BA;São Francisco do Conde;Baía de Todos os Santos;22.377;76;1;3;0.0;D
+BA;Saubara;Baía de Todos os Santos;132.714;0;1;3;0.0;C
+BA;Saúde;Chapada Diamantina;0;88;0;0;0.0;D
+BA;Seabra;Chapada Diamantina;2.345;46;14;41;372065.0;C
+BA;Senhor do Bonfim;Chapada Diamantina;53.905;271;11;73;269831.0;C
+BA;Simões Filho;Baía de Todos os Santos;53.174;106;2;8;0.0;C
+BA;Sobradinho;Vale do São Francisco, Região Norte da Bahia;2.444;0;4;14;0.0;D
+BA;Souto Soares;Chapada Diamantina;0;0;0;0;0.0;E
+BA;Taperoá;Costa do Dendê;1.031;0;0;0;0.0;D
+BA;Tucano;Caminhos do Sertão;46.611;217;7;36;107388.0;C
+BA;Una;Costa do Cacau;18.249;197;4;478;0.0;B
+BA;Uruçuca;Costa do Cacau;36.253;263;7;61;0.0;C
+BA;Valença;Costa do Dendê;123.168;1.689;27;100;506061.0;B
+BA;Varzedo;Caminhos do Jiquiriçá;5.919;0;1;3;0.0;D
+BA;Vera Cruz;Baía de Todos os Santos;139.602;456;13;362;126844.0;B
+BA;Vitória da Conquista;Caminhos do Sudoeste;290.748;3.348;30;354;2785303.0;B
+BA;Wagner;Chapada Diamantina;9.418;0;0;0;0.0;D
+CE;Acaraú;Litoral Oeste;77.567;229;3;9;0.0;C
+CE;Alto Santo;Vale do Jaguaribe;53.981;0;0;0;0.0;C
+CE;Amontada;Litoral Oeste;19.755;3.485;9;22;138226.0;C
+CE;Aquiraz;LITORAL LESTE;111.469;3.191;26;1.122;3864441.0;B
+CE;Aracati;LITORAL LESTE;203.363;12.909;53;275;1734072.0;B
+CE;Barbalha;Cariri;10.682;77;8;92;595627.0;C
+CE;Beberibe;LITORAL LESTE;242.566;3.072;20;256;2991229.0;B
+CE;Camocim;Litoral Extremo Oeste;74.367;2.314;21;93;645317.0;B
+CE;Campos Sales;Cariri;29.693;0;1;1;0.0;D
+CE;Canindé;Sertão Central;416.255;0;10;27;0.0;B
+CE;Carnaubal;Chapada da Ibiapaba;0;0;1;1;0.0;D
+CE;Cascavel;LITORAL LESTE;245.835;846;12;54;264334.0;B
+CE;Caucaia;Litoral Oeste;53.410;14.327;31;633;3325429.0;B
+CE;Chaval;Litoral Extremo Oeste;25.587;64;0;0;0.0;D
+CE;Crato;Cariri;76.978;554;10;70;378088.0;C
+CE;Croatá;Chapada da Ibiapaba;0;77;0;0;0.0;D
+CE;Cruz;Litoral Extremo Oeste;1.329;1.058;11;123;966937.0;C
+CE;Eusébio;Fortaleza;65.919;134;1;14;0.0;C
+CE;Fortaleza;Fortaleza;4.178.305;142.864;163;3.264;830000000000000,00;A
+CE;Fortim;LITORAL LESTE;35.023;677;8;89;0.0;C
+CE;Groaíras;Vale do Acaraú;5.215;0;1;4;0.0;D
+CE;Guaraciaba do Norte;Chapada da Ibiapaba;13.536;64;1;21;0.0;D
+CE;Guaramiranga;Serras de Aratanha e Baturité;58.611;676;10;50;736470.0;C
+CE;Ibiapina;Chapada da Ibiapaba;26.830;88;1;2;0.0;D
+CE;Icapuí;LITORAL LESTE;27.054;2.059;7;39;0.0;C
+CE;Icó;Centro Sul/ Vale do Salgado;3.986;68;1;1;0.0;D
+CE;Ipu;Chapada da Ibiapaba;6.411;54;3;1;0.0;D
+CE;Itapipoca;Litoral Oeste;113.113;229;8;23;163773.0;C
+CE;Itarema;Litoral Oeste;45.282;2.640;6;12;55312.0;C
+CE;Jaguaretama;Vale do Jaguaribe;2.657;0;0;0;0.0;D
+CE;Jaguaribara;Vale do Jaguaribe;14.505;0;0;0;0.0;D
+CE;Jaguaribe;Vale do Jaguaribe;72.051;228;2;29;0.0;C
+CE;Jijoca de Jericoacoara;Litoral Extremo Oeste;94.707;58.592;114;1.158;139000000000000,00;A
+CE;Juazeiro do Norte;Cariri;556.692;915;37;332;1709292.0;B
+CE;Limoeiro do Norte;Vale do Jaguaribe;19.482;384;1;8;0.0;D
+CE;Maracanaú;Fortaleza;17.966;247;5;42;586940.0;C
+CE;Meruoca;Vale do Acaraú;12.070;0;3;12;0.0;D
+CE;Morada Nova;Vale do Jaguaribe;63.873;196;4;6;0.0;C
+CE;Mulungu;Serras de Aratanha e Baturité;3.839;64;1;6;0.0;D
+CE;Nova Olinda;Cariri;0;0;0;0;0.0;E
+CE;Pacajus;Fortaleza;46.127;247;0;0;0.0;D
+CE;Pacoti;Serras de Aratanha e Baturité;4.430;253;1;10;0.0;D
+CE;Palmácia;Serras de Aratanha e Baturité;8.983;0;0;0;0.0;D
+CE;Paracuru;Litoral Oeste;125.547;2.190;16;31;191685.0;B
+CE;Paraipaba;Litoral Oeste;17.370;1.457;4;35;0.0;D
+CE;Pindoretama;LITORAL LESTE;19.885;81;0;0;0.0;D
+CE;Quixadá;Sertão Central;205.728;451;10;54;184847.0;B
+CE;Quixeramobim;Sertão Central;28.277;135;2;14;0.0;D
+CE;Salitre;Cariri;0;0;0;0;0.0;E
+CE;São Benedito;Chapada da Ibiapaba;72.227;382;2;15;0.0;C
+CE;São Gonçalo do Amarante;Litoral Oeste;82.339;3.928;12;54;332177.0;C
+CE;Sobral;Vale do Acaraú;246.103;1.137;13;112;365839.0;B
+CE;Tejuçuoca;Sertão Central;0;0;0;0;0.0;E
+CE;Tianguá;Chapada da Ibiapaba;146.945;261;9;63;352366.0;B
+CE;Trairi;Litoral Oeste;40.354;3.977;14;155;1289604.0;C
+CE;Ubajara;Chapada da Ibiapaba;64.936;570;7;30;0.0;C
+CE;Varjota;Chapada da Ibiapaba;37.798;0;0;0;0.0;D
+CE;Várzea Alegre;Cariri;28.678;204;1;5;0.0;D
+CE;Viçosa do Ceará;Chapada da Ibiapaba;44.198;344;5;25;0.0;C
+DF;Brasília;Brasília, Patrimônio Cultural da Humanidade;4.332.053;112.474;220;3.562;598000000000000,00;A
+ES;Afonso Cláudio;Montanhas Capixabas;13.186;111;4;12;0.0;D
+ES;Águia Branca;Doce Pontões Capixaba;10.411;0;1;3;0.0;D
+ES;Alegre;Caparaó Capixaba;59.601;0;5;15;0.0;C
+ES;Alfredo Chaves;Montanhas Capixabas;10.907;0;2;4;0.0;D
+ES;Anchieta;Costa e da Imigração;71.353;448;21;112;876168.0;B
+ES;Aracruz;Do Verde e das Águas;21.961;810;21;164;856619.0;B
+ES;Atílio Vivácqua;Sul Capixaba dos Vales e Café;10.411;0;0;0;0.0;D
+ES;Baixo Guandu;Doce Pontões Capixaba;14.357;224;4;27;0.0;D
+ES;Barra de São Francisco;Caminhos do Café, Pedras e Cachoeiras - Noroeste;10.042;1.291;5;22;190642.0;D
+ES;Bom Jesus do Norte;Sul Capixaba dos Vales e Café;0;0;2;3;0.0;D
+ES;Brejetuba;Montanhas Capixabas;0;0;2;3;0.0;D
+ES;Cachoeiro de Itapemirim;Sul Capixaba dos Vales e Café;113.059;1.397;15;149;1379087.0;B
+ES;Cariacica;Metropolitana;23.559;312;5;43;1169466.0;C
+ES;Castelo;Montanhas Capixabas;12.031;278;5;30;0.0;D
+ES;Colatina;Doce Pontões Capixaba;62.130;987;15;114;1493866.0;B
+ES;Conceição da Barra;Do Verde e das Águas;32.182;993;17;58;419394.0;C
+ES;Conceição do Castelo;Montanhas Capixabas;0;0;0;0;0.0;E
+ES;Divino de São Lourenço;Caparaó Capixaba;0;0;0;0;0.0;E
+ES;Domingos Martins;Montanhas Capixabas;68.425;281;24;338;3584078.0;B
+ES;Dores do Rio Preto;Caparaó Capixaba;0;130;1;1;0.0;D
+ES;Ecoporanga;Caminhos do Café, Pedras e Cachoeiras - Noroeste;4.988;64;3;13;0.0;D
+ES;Fundão;Metropolitana;1.220;0;9;53;0.0;C
+ES;Governador Lindenberg;Doce Pontões Capixaba;496;233;1;3;0.0;D
+ES;Guaçuí;Caparaó Capixaba;34.537;182;4;43;0.0;C
+ES;Guarapari;Metropolitana;705.254;7.759;42;347;2026859.0;B
+ES;Ibatiba;Caparaó Capixaba;0;0;3;12;0.0;D
+ES;Ibiraçu;Imigrantes;6.543;338;0;0;0.0;D
+ES;Ibitirama;Caparaó Capixaba;0;0;0;0;0.0;E
+ES;Iconha;Costa e da Imigração;0;75;0;0;0.0;D
+ES;Irupi;Caparaó Capixaba;0;0;0;0;0.0;E
+ES;Itaguaçu;Imigrantes;496;143;1;6;0.0;D
+ES;Itapemirim;Costa e da Imigração;23.587;61;4;9;0.0;D
+ES;Itarana;Imigrantes;0;0;2;7;0.0;D
+ES;Iúna;Caparaó Capixaba;52.096;301;3;17;0.0;C
+ES;Jaguaré;Do Verde e das Águas;4.988;0;2;9;0.0;D
+ES;João Neiva;Imigrantes;0;0;5;25;0.0;D
+ES;Laranja da Terra;Montanhas Capixabas;0;0;2;2;0.0;D
+ES;Linhares;Do Verde e das Águas;83.999;1.164;16;163;1600681.0;B
+ES;Mantenópolis;Doce Pontões Capixaba;10.472;413;1;8;0.0;D
+ES;Marataízes;Costa e da Imigração;91.364;839;10;167;702042.0;C
+ES;Marechal Floriano;Montanhas Capixabas;4.988;0;4;14;0.0;D
+ES;Marilândia;Doce Pontões Capixaba;0;0;1;3;0.0;D
+ES;Mimoso do Sul;Sul Capixaba dos Vales e Café;14.987;130;2;9;0.0;D
+ES;Montanha;Doce Terra Morena;10.562;121;3;17;0.0;D
+ES;Mucurici;Doce Terra Morena;0;0;1;2;0.0;D
+ES;Muniz Freire;Caparaó Capixaba;4.713;0;1;5;0.0;D
+ES;Muqui;Sul Capixaba dos Vales e Café;17.904;143;2;11;0.0;D
+ES;Nova Venécia;Caminhos do Café, Pedras e Cachoeiras - Noroeste;10.112;845;6;50;0.0;C
+ES;Pancas;Doce Pontões Capixaba;43.840;112;0;0;0.0;D
+ES;Pedro Canário;Doce Terra Morena;6.543;91;3;19;0.0;D
+ES;Piúma;Costa e da Imigração;145.517;420;13;30;65994.0;B
+ES;Ponto Belo;Doce Terra Morena;0;0;0;0;0.0;E
+ES;Rio Bananal;Do Verde e das Águas;6.298;230;2;7;0.0;D
+ES;Rio Novo do Sul;Costa e da Imigração;0;0;0;0;0.0;E
+ES;Santa Leopoldina;Imigrantes;496;116;3;9;0.0;D
+ES;Santa Maria de Jetibá;Imigrantes;0;121;4;25;0.0;D
+ES;Santa Teresa;Imigrantes;26.093;557;11;45;176401.0;C
+ES;São Domingos do Norte;Doce Pontões Capixaba;1.168;0;3;13;0.0;D
+ES;São Gabriel da Palha;Caminhos do Café, Pedras e Cachoeiras - Noroeste;0;934;3;24;0.0;D
+ES;São José do Calçado;Caparaó Capixaba;0;0;2;9;0.0;D
+ES;São Mateus;Do Verde e das Águas;122.450;1.970;20;148;1064478.0;B
+ES;São Roque do Canaã;Imigrantes;10.411;143;0;0;0.0;D
+ES;Serra;Metropolitana;87.263;1.826;22;182;4456101.0;B
+ES;Vargem Alta;Montanhas Capixabas;0;143;3;33;0.0;D
+ES;Venda Nova do Imigrante;Montanhas Capixabas;4.713;247;7;81;0.0;C
+ES;Viana;Metropolitana;4.988;489;1;7;0.0;D
+ES;Vila Pavão;Caminhos do Café, Pedras e Cachoeiras - Noroeste;0;0;0;0;0.0;E
+ES;Vila Valério;Caminhos do Café, Pedras e Cachoeiras - Noroeste;0;0;0;0;0.0;D
+ES;Vila Velha;Metropolitana;130.166;6.340;24;184;2863164.0;B
+ES;Vitória;Metropolitana;1.107.558;55.348;31;546;8396753.0;A
+GO;Alexânia;Região Turística do Ouro e Cristais;9.550;483;8;48;163254.0;C
+GO;Alto Paraíso de Goiás;Região Turística da Chapada dos Veadeiros;42.941;5.534;36;234;2106191.0;B
+GO;Anápolis;Região Turística dos Negócios e Tradições;162.029;8.401;25;255;3233772.0;B
+GO;Anicuns;Região Turística dos Negócios e Tradições;4.000;111;3;6;0.0;D
+GO;Aragarças;Região Turística Vale do Araguaia;9.900;0;8;46;117412.0;C
+GO;Aruanã;Região Turística Vale do Araguaia;102.682;578;3;4;0.0;C
+GO;Aurilândia;Região Turística Pegadas no Cerrado;2.591;0;0;0;0.0;D
+GO;Baliza;Região Turística Chapada das Emas;9.134;0;1;1;0.0;D
+GO;Bela Vista de Goiás;Região Turística dos Negócios e Tradições;3.064;116;2;6;0.0;D
+GO;Bom Jardim de Goiás;Região Turística Chapada das Emas;9.134;0;0;0;0.0;D
+GO;Bonfinópolis;Região Turística da Estrada de Ferro;3.064;0;0;0;0.0;D
+GO;Britânia;Região Turística Vale do Araguaia;20.070;61;4;13;0.0;D
+GO;Buriti Alegre;Região Turística Lagos do Paranaíba;33.484;111;2;37;0.0;D
+GO;Buriti de Goiás;Região Turística do Ouro e Cristais;3.064;0;0;0;0.0;D
+GO;Buritinópolis;Região Turística das Águas e Cavernas do Cerrado;0;0;0;0;0.0;E
+GO;Cachoeira Dourada;Região Turística Lagos do Paranaíba;6.951;0;0;0;0.0;D
+GO;Caçu;Região Turística Lagos do Paranaíba;11.600;0;4;10;0.0;D
+GO;Caiapônia;Região Turística Chapada das Emas;13.701;0;3;7;0.0;D
+GO;Caldas Novas;Região Turística das Águas Quentes;2.018.964;9.963;74;2.457;321000000000000,00;A
+GO;Campestre de Goiás;Região Turística dos Negócios e Tradições;0;0;1;2;0.0;D
+GO;Campos Verdes;Região Turística do Ouro e Cristais;0;0;0;0;0.0;E
+GO;Cavalcante;Região Turística da Chapada dos Veadeiros;9.021;0;6;26;0.0;D
+GO;Chapadão do Céu;Região Turística Chapada das Emas;16.903;258;5;24;0.0;D
+GO;Cocalzinho de Goiás;Região Turística do Ouro e Cristais;3.092;152;2;16;0.0;D
+GO;Colinas do Sul;Região Turística da Chapada dos Veadeiros;3.289;0;0;0;0.0;D
+GO;Corumbá de Goiás;Região Turística do Ouro e Cristais;39.753;102;2;13;0.0;D
+GO;Cristalina;Região Turística do Ouro e Cristais;27.095;615;18;101;594168.0;C
+GO;Damianópolis;Região Turística das Águas e Cavernas do Cerrado;0;0;0;0;0.0;E
+GO;Divinópolis de Goiás;Região Turística das Águas e Cavernas do Cerrado;0;0;0;0;0.0;D
+GO;Doverlândia;Região Turística Chapada das Emas;3.324;0;2;5;0.0;D
+GO;Flores de Goiás;Região Turística das Águas e Cavernas do Cerrado;6.699;0;1;7;0.0;D
+GO;Formosa;Região Turística das Águas e Cavernas do Cerrado;93.391;911;18;90;777452.0;B
+GO;Goiandira;Região Turística da Estrada de Ferro;5.373;0;0;0;0.0;D
+GO;Goianésia;Região Turística do Ouro e Cristais;116.190;584;20;109;488379.0;B
+GO;Goiânia;Região Turística dos Negócios e Tradições;3.090.431;55.810;148;1.950;255000000000000,00;A
+GO;Goiás;Região Turística do Ouro e Cristais;255.311;1.821;14;72;390409.0;B
+GO;Guarani de Goiás;Região Turística das Águas e Cavernas do Cerrado;0;0;0;0;0.0;D
+GO;Hidrolândia;Região Turística dos Negócios e Tradições;7.063;0;3;18;0.0;D
+GO;Ipameri;Região Turística da Estrada de Ferro;8.094;255;3;25;0.0;D
+GO;Itapuranga;Região Turística do Ouro e Cristais;21.274;251;3;5;0.0;D
+GO;Itumbiara;Região Turística Lagos do Paranaíba;87.054;950;24;227;2196980.0;B
+GO;Jandaia;Região Turística Pegadas no Cerrado;2.591;0;1;1;0.0;D
+GO;Jaraguá;Região Turística do Ouro e Cristais;28.898;682;7;32;0.0;C
+GO;Jataí;Região Turística Pegadas no Cerrado;213.655;441;16;237;1409249.0;B
+GO;Lagoa Santa;Região Turística Lagos do Paranaíba;49.103;119;4;38;0.0;C
+GO;Leopoldo de Bulhões;Região Turística da Estrada de Ferro;0;0;0;0;0.0;E
+GO;Luziânia;Região Turística do Ouro e Cristais;4.818;531;16;83;575260.0;C
+GO;Mambaí;Região Turística das Águas e Cavernas do Cerrado;0;0;2;5;0.0;D
+GO;Maurilândia;Região Turística Pegadas no Cerrado;0;0;2;10;0.0;D
+GO;Minaçu;Região Turística Vale da Serra da Mesa;72.788;120;7;21;0.0;C
+GO;Mineiros;Região Turística Chapada das Emas;53.838;885;15;124;1009218.0;C
+GO;Monte Alegre de Goiás;Região Turística das Águas e Cavernas do Cerrado;9.550;0;0;0;0.0;D
+GO;Mossâmedes;Região Turística do Ouro e Cristais;7.851;0;0;0;0.0;D
+GO;Mundo Novo;Região Turística Vale do Araguaia;0;0;2;6;0.0;D
+GO;Nerópolis;Região Turística dos Negócios e Tradições;45.484;0;4;17;0.0;C
+GO;Niquelândia;Região Turística Vale da Serra da Mesa;90.706;215;9;39;188584.0;C
+GO;Nova Crixás;Região Turística Vale do Araguaia;10.442;0;4;9;0.0;D
+GO;Nova Roma;Região Turística das Águas e Cavernas do Cerrado;3.064;0;1;1;0.0;D
+GO;Nova Veneza;Região Turística dos Negócios e Tradições;1.503;364;1;1;0.0;D
+GO;Novo Gama;Região Turística do Ouro e Cristais;0;0;4;20;0.0;D
+GO;Orizona;Região Turística da Estrada de Ferro;17.994;0;1;5;0.0;D
+GO;Padre Bernardo;Região Turística Vale da Serra da Mesa;19.606;0;5;11;0.0;D
+GO;Palmelo;Região Turística da Estrada de Ferro;10.978;0;3;11;0.0;D
+GO;Paraúna;Região Turística Pegadas no Cerrado;11.465;241;3;11;0.0;D
+GO;Perolândia;Região Turística Pegadas no Cerrado;0;126;0;0;0.0;D
+GO;Piracanjuba;Região Turística das Águas Quentes;4.000;438;4;9;0.0;D
+GO;Piranhas;Região Turística Chapada das Emas;6.312;120;2;11;0.0;D
+GO;Pirenópolis;Região Turística do Ouro e Cristais;222.846;4.412;51;527;4816501.0;B
+GO;Pires do Rio;Região Turística da Estrada de Ferro;27.858;39;6;36;0.0;C
+GO;Planaltina;Região Turística do Ouro e Cristais;31.596;52;4;5;0.0;D
+GO;Porangatu;Região Turística Vale da Serra da Mesa;57.756;577;10;56;332102.0;C
+GO;Portelândia;Região Turística Chapada das Emas;0;0;0;0;0.0;D
+GO;Posse;Região Turística das Águas e Cavernas do Cerrado;38.695;0;6;35;0.0;C
+GO;Quirinópolis;Região Turística Lagos do Paranaíba;13.323;0;10;44;317723.0;C
+GO;Rio Quente;Região Turística das Águas Quentes;122.356;220;3;2.037;0.0;A
+GO;Rio Verde;Região Turística Pegadas no Cerrado;271.653;2.334;32;298;2701698.0;B
+GO;Santa Cruz de Goiás;Região Turística da Estrada de Ferro;0;0;1;0;0.0;D
+GO;Santa Rita do Araguaia;Região Turística Chapada das Emas;0;0;1;7;0.0;D
+GO;São Domingos;Região Turística das Águas e Cavernas do Cerrado;10.442;0;0;0;0.0;D
+GO;São João d'Aliança;Região Turística da Chapada dos Veadeiros;4.567;215;3;17;0.0;D
+GO;São Miguel do Araguaia;Região Turística Vale do Araguaia;45.201;438;10;28;497079.0;C
+GO;São Simão;Região Turística Lagos do Paranaíba;13.228;505;7;64;147877.0;C
+GO;Serranópolis;Região Turística Chapada das Emas;14.856;0;2;5;0.0;D
+GO;Silvânia;Região Turística da Estrada de Ferro;12.425;0;3;7;0.0;D
+GO;Simolândia;Região Turística das Águas e Cavernas do Cerrado;11.697;0;2;11;0.0;D
+GO;Teresina de Goiás;Região Turística da Chapada dos Veadeiros;0;334;2;6;0.0;D
+GO;Três Ranchos;Região Turística Lagos do Paranaíba;16.878;0;1;0;0.0;D
+GO;Trindade;Região Turística dos Negócios e Tradições;193.242;544;36;105;546770.0;B
+GO;Uruaçu;Região Turística Vale da Serra da Mesa;215.680;578;9;68;375239.0;B
+GO;Uruana;Região Turística do Ouro e Cristais;17.351;257;1;1;0.0;D
+GO;Urutaí;Região Turística da Estrada de Ferro;2.591;0;0;0;0.0;D
+GO;Vianópolis;Região Turística da Estrada de Ferro;2.591;345;2;8;0.0;D
+GO;Vila Propício;Região Turística do Ouro e Cristais;0;0;1;1;0.0;D
+MA;Açailândia;Polo Chapada das Mesas;34.643;765;15;90;543567.0;C
+MA;Água Doce do Maranhão;Polo Lençóis & Delta;0;0;0;0;0.0;E
+MA;Alto Parnaíba;Polo Chapada das Mesas;0;186;1;4;0.0;D
+MA;Apicum-Açu;Polo Floresta dos Guarás;1.371;64;0;0;0.0;D
+MA;Arari;Polo Lagos e Campos Floridos;8.554;0;1;2;0.0;D
+MA;Bacabal;Polo Cocais;67.808;370;8;71;0.0;C
+MA;Balsas;Polo Chapada das Mesas;151.181;285;15;133;680983.0;B
+MA;Barra do Corda;Polo Serras Guajajara Timbira e Kanela;67.529;37;6;43;0.0;C
+MA;Barreirinhas;Polo Lençóis & Delta;99.015;15.456;27;151;940417.0;B
+MA;Bequimão;Polo Floresta dos Guarás;5.092;0;0;0;0.0;D
+MA;Cândido Mendes;Polo Amazônia Maranhense;18.344;0;0;0;0.0;D
+MA;Carolina;Polo Chapada das Mesas;30.905;448;8;34;1033867.0;C
+MA;Carutapera;Polo Amazônia Maranhense;2.402;232;2;3;0.0;D
+MA;Cedral;Polo Floresta dos Guarás;0;0;0;0;0.0;E
+MA;Central do Maranhão;Polo Floresta dos Guarás;0;0;0;0;0.0;D
+MA;Centro Novo do Maranhão;Polo Amazônia Maranhense;0;0;0;0;0.0;D
+MA;Conceição do Lago-Açu;Polo Lagos e Campos Floridos;0;0;0;0;0.0;E
+MA;Cururupu;Polo Floresta dos Guarás;17.824;0;2;3;0.0;D
+MA;Estreito;Polo Chapada das Mesas;4.118;0;6;28;0.0;D
+MA;Fortaleza dos Nogueiras;Polo Chapada das Mesas;1.187;81;0;0;0.0;D
+MA;Governador Edison Lobão;Polo Chapada das Mesas;0;0;0;0;0.0;E
+MA;Grajaú;Polo Serras Guajajara Timbira e Kanela;124.849;385;2;10;0.0;C
+MA;Guimarães;Polo Floresta dos Guarás;4.161;130;0;0;0.0;D
+MA;Humberto de Campos;Polo Lençóis & Delta;917;0;1;0;0.0;D
+MA;Icatu;Polo Munim;7.432;0;0;0;0.0;D
+MA;Imperatriz;Polo Chapada das Mesas;227.778;5.249;29;369;2421311.0;B
+MA;Itapecuru Mirim;Polo Munim;29.966;0;6;62;0.0;C
+MA;Itinga do Maranhão;Polo Chapada das Mesas;3.744;0;2;3;0.0;D
+MA;Lago da Pedra;Polo Cocais;30.858;329;1;4;0.0;D
+MA;Luís Domingues;Polo Amazônia Maranhense;0;0;0;0;0.0;E
+MA;Matinha;Polo Lagos e Campos Floridos;8.363;0;0;0;0.0;D
+MA;Morros;Polo Munim;25.029;0;2;51;0.0;D
+MA;Nina Rodrigues;Polo Munim;0;0;0;0;0.0;E
+MA;Paço do Lumiar;Polo  São Luís;3.092;0;2;13;0.0;D
+MA;Paulino Neves;Polo Lençóis & Delta;459;0;0;0;0.0;D
+MA;Pindaré-Mirim;Polo Lagos e Campos Floridos;18.188;272;0;0;0.0;D
+MA;Porto Franco;Polo Chapada das Mesas;19.801;165;1;7;0.0;D
+MA;Porto Rico do Maranhão;Polo Floresta dos Guarás;0;0;0;0;0.0;E
+MA;Presidente Juscelino;Polo Munim;917;0;0;0;0.0;D
+MA;Primeira Cruz;Polo Lençóis & Delta;459;0;0;0;0.0;D
+MA;Raposa;Polo  São Luís;3.551;66;2;2;0.0;D
+MA;Riachão;Polo Chapada das Mesas;9.885;474;0;0;0.0;D
+MA;Rosário;Polo Munim;33.998;0;2;4;0.0;D
+MA;Santa Helena;Polo Lagos e Campos Floridos;32.973;64;0;0;0.0;D
+MA;Santo Amaro do Maranhão;Polo Lençóis & Delta;0;199;3;16;0.0;D
+MA;São João do Soter;Polo Cocais;10.601;0;0;0;0.0;D
+MA;São José de Ribamar;Polo  São Luís;3.320;129;6;105;568524.0;C
+MA;São Luís;Polo  São Luís;1.455.665;35.971;95;1.322;127000000000000,00;A
+MA;Serrano do Maranhão;Polo Floresta dos Guarás;0;0;0;0;0.0;E
+MA;Tasso Fragoso;Polo Chapada das Mesas;0;0;0;0;0.0;D
+MA;Timon;Polo Cocais;38.907;0;6;69;0.0;C
+MA;Tutóia;Polo Lençóis & Delta;31.284;1.016;2;8;0.0;D
+MA;Vargem Grande;Polo Munim;8.105;0;1;1;0.0;D
+MT;Acorizal;Região Turística Circuito das Águas;5.928;0;0;0;0.0;D
+MT;Água Boa;Região Turística Roncador Xingu;0;263;8;48;0.0;C
+MT;Alta Floresta;Região Turística da Amazônia Mato-grossense;37.445;1.034;18;130;844186.0;C
+MT;Alto Garças;Região Turística Domo de Araguainha;1.895;0;4;26;0.0;D
+MT;Araguaiana;Região Turística Roncador Xingu;0;0;0;0;0.0;E
+MT;Araguainha;Região Turística Domo de Araguainha;0;149;0;0;0.0;D
+MT;Aripuanã;Região Turística Vale do Juruena;24.248;318;5;14;0.0;D
+MT;Barra do Garças;Região Turística Roncador Xingu;186.456;1.080;22;165;923591.0;B
+MT;Brasnorte;Região Turística Vale do Juruena;0;0;3;11;0.0;D
+MT;Campinápolis;Região Turística Roncador Xingu;0;116;0;0;0.0;D
+MT;Campos de Júlio;Região Turística das Nascentes;48.165;0;4;16;0.0;C
+MT;Canarana;Região Turística Roncador Xingu;2.336;206;10;38;286399.0;C
+MT;Chapada dos Guimarães;Região Turística Circuito das Águas;31.657;665;20;387;5118818.0;B
+MT;Cocalinho;Região Turística Roncador Xingu;11.772;0;2;3;0.0;D
+MT;Comodoro;Região Turística Vale do Guaporé;3.711;0;6;30;162604.0;D
+MT;Cuiabá;Região Turística Metropolitana;1.099.626;22.923;77;1.257;109000000000000,00;A
+MT;Curvelândia;Região Turística Vale do Cabaçal;0;315;0;0;0.0;D
+MT;Itaúba;Região Turística Portal da Amazônia;1.745;0;2;11;0.0;D
+MT;Itiquira;Região Turística  Pantanal Mato-Grossense;2.028;0;4;9;0.0;D
+MT;Jaciara;Região Turística Vale do São Lourenço;41.298;0;12;66;569343.0;C
+MT;Juína;Região Turística Vale do Juruena;13.722;102;13;48;283290.0;C
+MT;Juruena;Região Turística Vale do Juruena;0;0;2;9;0.0;D
+MT;Lucas do Rio Verde;Região Turística Portal do Agronegócio;3.810;1.903;18;115;1211941.0;C
+MT;Luciara;Região Turística Norte Araguaia;0;0;0;0;0.0;E
+MT;Marcelândia;Região Turística Portal da Amazônia;3.811;0;3;16;0.0;D
+MT;Mirassol d'Oeste;Região Turística Vale do Cabaçal;8.406;354;5;32;0.0;D
+MT;Nobres;Região Turística Circuito das Águas;11.606;82;15;27;74280.0;C
+MT;Nortelândia;Região Turística Circuito das Águas;9.385;0;1;4;0.0;D
+MT;Nossa Senhora do Livramento;Região Turística  Pantanal Mato-Grossense;0;0;0;0;0.0;E
+MT;Nova Brasilândia;Região Turística Circuito das Águas;0;0;1;1;0.0;D
+MT;Nova Mutum;Região Turística Portal do Agronegócio;15.309;0;14;89;708887.0;C
+MT;Nova Santa Helena;Região Turística Portal da Amazônia;0;0;1;4;0.0;D
+MT;Nova Xavantina;Região Turística Roncador Xingu;15.975;196;5;22;191558.0;D
+MT;Novo Santo Antônio;Região Turística Norte Araguaia;0;0;0;0;0.0;D
+MT;Paranaíta;Região Turística da Amazônia Mato-grossense;3.811;155;8;20;733538.0;C
+MT;Poconé;Região Turística  Pantanal Mato-Grossense;14.093;797;20;299;4834919.0;B
+MT;Pontal do Araguaia;Região Turística Roncador Xingu;0;0;0;0;0.0;E
+MT;Ponte Branca;Região Turística Domo de Araguainha;5.764;0;0;0;0.0;D
+MT;Porto dos Gaúchos;Região Turística Portal do Agronegócio;0;0;1;2;0.0;D
+MT;Poxoréu;Região Turística Rota dos Ipês e das Águas;15.766;186;0;0;0.0;D
+MT;Querência;Região Turística Roncador Xingu;305;258;8;33;399347.0;C
+MT;Ribeirão Cascalheira;Região Turística Roncador Xingu;2.591;116;4;8;0.0;D
+MT;Rio Branco;Região Turística Vale do Cabaçal;0;64;0;0;0.0;D
+MT;Rosário Oeste;Região Turística Circuito das Águas;8.879;207;2;8;0.0;D
+MT;Salto do Céu;Região Turística Vale do Cabaçal;3.324;182;0;0;0.0;D
+MT;Santa Carmem;Região Turística Portal do Agronegócio;0;0;0;0;0.0;D
+MT;Santa Terezinha;Região Turística Norte Araguaia;1.494;0;0;0;0.0;D
+MT;Santo Antônio do Leverger;Região Turística  Pantanal Mato-Grossense;10.638;0;4;81;0.0;D
+MT;São Félix do Araguaia;Região Turística Norte Araguaia;1.503;0;5;12;0.0;D
+MT;São José do Rio Claro;Região Turística Circuito das Águas;11.603;182;4;17;0.0;D
+MT;Sapezal;Região Turística das Nascentes;123.803;389;10;63;499126.0;C
+MT;Sinop;Região Turística Portal do Agronegócio;264.856;706;31;263;2496870.0;B
+MT;Sorriso;Região Turística Portal do Agronegócio;79.398;1.131;19;194;1563181.0;B
+MT;Tangará da Serra;Região Turística das Nascentes;36.217;651;21;156;734049.0;B
+MT;Tapurah;Região Turística Portal do Agronegócio;0;0;3;9;0.0;D
+MT;Tesouro;Região Turística Roncador Xingu;0;0;1;1;0.0;D
+MT;Várzea Grande;Região Turística Metropolitana;46.651;111;35;295;3225717.0;B
+MT;Vila Bela da Santíssima Trindade;Região Turística Vale do Guaporé;1.548;111;0;0;0.0;D
+MS;Alcinópolis;Rota Cerrado Pantanal;0;0;2;2;0.0;D
+MS;Amambai;Caminhos da Natureza / Cone Sul;9.861;370;7;37;222913.0;C
+MS;Aparecida do Taboado;Costa Leste;11.328;75;7;29;0.0;C
+MS;Aquidauana;Pantanal;72.914;1.021;14;34;223852.0;C
+MS;Bataguassu;Costa Leste;40.706;0;6;34;0.0;C
+MS;Bela Vista;Bonito / Serra da Bodoquena;1.399;239;2;11;0.0;D
+MS;Bodoquena;Bonito / Serra da Bodoquena;0;119;1;4;0.0;D
+MS;Bonito;Bonito / Serra da Bodoquena;256.901;16.968;54;666;5891010.0;B
+MS;Caarapó;Grande Dourados;9.928;0;4;25;0.0;D
+MS;Campo Grande;Caminho dos Ipês;860.874;35.350;77;1.050;9635777.0;A
+MS;Cassilândia;Costa Leste;16.746;215;4;33;0.0;D
+MS;Corguinho;Caminho dos Ipês;1.399;0;2;14;0.0;D
+MS;Corumbá;Pantanal;78.771;11.596;34;225;1571940.0;B
+MS;Costa Rica;Rota Cerrado Pantanal;75.181;0;9;40;230891.0;C
+MS;Coxim;Rota Cerrado Pantanal;91.094;299;17;77;299532.0;B
+MS;Dourados;Grande Dourados;257.623;2.719;33;313;3606903.0;B
+MS;Eldorado;Caminhos da Natureza / Cone Sul;7.546;0;5;10;0.0;D
+MS;Fátima do Sul;Grande Dourados;12.565;120;3;11;0.0;D
+MS;Itaquiraí;Caminhos da Natureza / Cone Sul;0;108;3;24;0.0;D
+MS;Ivinhema;Vale das Águas;41.295;0;12;41;168884.0;C
+MS;Japorã;Caminhos da Natureza / Cone Sul;8.061;0;0;0;0.0;D
+MS;Jaraguari;Caminho dos Ipês;4.709;0;1;1;0.0;D
+MS;Jardim;Bonito / Serra da Bodoquena;57.325;231;8;32;0.0;C
+MS;Ladário;Pantanal;5.215;0;3;17;0.0;D
+MS;Maracaju;Grande Dourados;19.606;570;10;67;510491.0;C
+MS;Miranda;Pantanal;48.246;1.296;18;97;208171.0;C
+MS;Naviraí;Caminhos da Natureza / Cone Sul;6.612;112;12;62;312759.0;C
+MS;Nova Alvorada do Sul;Caminho dos Ipês;4.241;0;8;49;0.0;C
+MS;Nova Andradina;Vale das Águas;25.518;111;14;50;433087.0;C
+MS;Paranaíba;Costa Leste;30.097;415;10;72;219463.0;C
+MS;Pedro Gomes;Rota Cerrado Pantanal;0;0;2;2;0.0;D
+MS;Ponta Porã;Grande Dourados;216.544;1.819;14;173;1724616.0;B
+MS;Porto Murtinho;Bonito / Serra da Bodoquena;6.108;0;5;10;112206.0;D
+MS;Rio Negro;Caminho dos Ipês;2.096;224;1;4;0.0;D
+MS;Rio Verde de Mato Grosso;Rota Cerrado Pantanal;2.317;121;9;29;0.0;C
+MS;Rochedo;Caminho dos Ipês;9.418;0;1;1;0.0;D
+MS;Sidrolândia;Caminho dos Ipês;27.446;0;3;16;0.0;D
+MS;Taquarussu;Vale das Águas;0;0;0;0;0.0;E
+MS;Terenos;Caminho dos Ipês;9.418;121;1;1;0.0;D
+MS;Três Lagoas;Costa Leste;204.801;2.087;40;333;4959982.0;B
+MG;Abaeté;Lago de Três Marias;8.415;245;3;16;0.0;D
+MG;Abre Campo;Montanhas e Fé;14.987;0;3;16;0.0;D
+MG;Acaiaca;Serras de Minas;0;0;0;0;0.0;E
+MG;Açucena;Mata Atlântica de Minas;31.978;0;1;6;0.0;D
+MG;Água Boa;Pedras Preciosas;2.624;0;1;2;0.0;D
+MG;Águas Formosas;Vale do Jequitinhonha;2.624;91;2;7;0.0;D
+MG;Águas Vermelhas;Vale do Jequitinhonha;0;0;1;0;0.0;D
+MG;Aimorés;Trilhas do Rio Doce;28.296;461;6;32;0.0;C
+MG;Albertina;Malhas do Sul de Minas;0;0;0;0;0.0;E
+MG;Além Paraíba;Serras e Cachoeiras;17.687;319;4;17;0.0;D
+MG;Alfenas;Lago de Furnas;42.550;943;15;137;681136.0;C
+MG;Alfredo Vasconcelos;Trilha dos Inconfidentes;0;0;0;0;0.0;E
+MG;Almenara;Vale do Jequitinhonha;23.703;66;4;4;0.0;D
+MG;Alpinópolis;Nascentes das Gerais e Canastra;0;182;2;10;0.0;D
+MG;Alterosa;Lago de Furnas;27.275;116;1;1;0.0;D
+MG;Alto Caparaó;Pico da Bandeira;0;388;4;11;0.0;D
+MG;Alto Jequitibá;Pico da Bandeira;2.383;0;1;6;0.0;D
+MG;Alto Rio Doce;Nascente do Rio Doce;7.914;0;1;3;0.0;D
+MG;Alvarenga;Trilhas do Rio Doce;0;130;0;0;0.0;D
+MG;Alvorada de Minas;Diamantes;0;0;0;0;0.0;D
+MG;Andradas;Caminhos Gerais;50.113;555;4;21;0.0;C
+MG;Angelândia;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Antônio Carlos;Trilha dos Inconfidentes;0;0;0;0;0.0;E
+MG;Antônio Dias;Mata Atlântica de Minas;0;0;2;25;0.0;D
+MG;Araçaí;Guimarães Rosa;0;0;0;0;0.0;E
+MG;Araçuaí;Vale do Jequitinhonha;21.483;0;5;28;0.0;D
+MG;Araguari;Rota do Triângulo;55.726;601;13;91;546470.0;C
+MG;Arantina;Serras de Ibitipoca;0;0;1;4;0.0;D
+MG;Araponga;Serra do Brigadeiro;0;0;0;0;0.0;D
+MG;Araporã;Rota do Triângulo;0;0;0;0;0.0;D
+MG;Arapuá;Lago de Três Marias;0;0;0;0;0.0;E
+MG;Araxá;Nascentes das Gerais e Canastra;44.499;1.606;20;489;5861173.0;B
+MG;Arceburgo;Montanhas Cafeeiras de Minas;13.569;0;1;3;0.0;D
+MG;Arcos;Grutas e Mar de Minas;7.494;130;7;64;441259.0;C
+MG;Areado;Montanhas Cafeeiras de Minas;0;0;2;4;0.0;D
+MG;Argirita;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Arinos;Urucuia Grande Sertão;47.140;102;2;7;0.0;C
+MG;Astolfo Dutra;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Ataléia;Pedras Preciosas;22.372;0;0;0;0.0;D
+MG;Augusto de Lima;Serra do Cabral;0;0;2;49;0.0;D
+MG;Baependi;Águas;10.747;140;7;28;0.0;C
+MG;Baldim;Serra do Cipó;2.624;0;0;0;0.0;D
+MG;Barão de Cocais;Ouro;18.933;0;11;40;276457.0;C
+MG;Barbacena;Trilha dos Inconfidentes;59.071;879;20;168;1076344.0;B
+MG;Barra Longa;Montanhas e Fé;0;0;0;0;0.0;D
+MG;Barroso;Trilha dos Inconfidentes;0;0;2;12;0.0;D
+MG;Belo Horizonte;Capital Belo Horizonte;3.327.794;136.312;159;2.323;370000000000000,00;A
+MG;Belo Oriente;Mata Atlântica de Minas;0;140;1;2;0.0;D
+MG;Belo Vale;Veredas do Paraopeba;0;0;2;9;0.0;D
+MG;Berilo;Lago de Irapé;0;0;0;0;0.0;D
+MG;Berizal;Cachaça;0;140;0;0;0.0;D
+MG;Bertópolis;Vale do Jequitinhonha;0;60;0;0;0.0;D
+MG;Bias Fortes;Serras de Ibitipoca;0;0;0;0;0.0;E
+MG;Bicas;Caminhos Verdes de Minas;2.681;0;3;9;0.0;D
+MG;Boa Esperança;Lago de Furnas;31.757;171;8;39;233476.0;C
+MG;Bom Despacho;Verde - Trilha dos Bandeirantes;0;308;6;25;0.0;D
+MG;Bom Jesus da Penha;Montanhas Cafeeiras de Minas;0;0;2;1;0.0;D
+MG;Bom Jesus do Galho;Mata Atlântica de Minas;0;130;1;1;0.0;D
+MG;Bom Repouso;Serras Verdes do Sul de Minas;0;0;0;0;0.0;E
+MG;Bom Sucesso;Região Encantos de Minas;0;0;2;7;0.0;D
+MG;Bonfim;Veredas do Paraopeba;0;0;0;0;0.0;E
+MG;Bonfinópolis de Minas;Urucuia Grande Sertão;55.778;0;1;2;0.0;C
+MG;Bonito de Minas;Velho Chico;4.671;0;0;0;0.0;D
+MG;Borda da Mata;Malhas do Sul de Minas;2.681;0;2;8;0.0;D
+MG;Botumirim;Lago de Irapé;7.914;0;0;0;0.0;D
+MG;Brasília de Minas;Sertão Gerais;0;735;4;5;0.0;D
+MG;Brás Pires;Nascente do Rio Doce;0;0;0;0;0.0;D
+MG;Braúnas;Trilhas do Rio Doce;0;75;0;0;0.0;D
+MG;Brazópolis;Caminhos da Mantiqueira;25.587;0;3;6;0.0;D
+MG;Brumadinho;Veredas do Paraopeba;13.569;777;14;127;1254518.0;C
+MG;Bueno Brandão;Serras Verdes do Sul de Minas;0;120;6;84;0.0;C
+MG;Buenópolis;Serra do Cabral;0;243;2;9;0.0;D
+MG;Buritis;Noroeste das Gerais e Alto Paranaíba;54.787;259;2;9;0.0;C
+MG;Buritizeiro;Guimarães Rosa;0;0;3;12;0.0;D
+MG;Cabeceira Grande;Noroeste das Gerais e Alto Paranaíba;0;0;1;0;0.0;D
+MG;Cabo Verde;Caminhos Gerais;0;66;1;0;0.0;D
+MG;Cachoeira da Prata;Grutas;4.335;0;0;0;0.0;D
+MG;Cachoeira de Minas;Serras Verdes do Sul de Minas;17.011;0;1;6;0.0;D
+MG;Cachoeira de Pajeú;Lago de Irapé;0;0;2;18;0.0;D
+MG;Cachoeira Dourada;Rota do Triângulo;0;0;2;26;0.0;D
+MG;Caetanópolis;Grutas;0;0;4;43;0.0;D
+MG;Caeté;Ouro;23.757;0;11;310;4944942.0;B
+MG;Caiana;Pico da Bandeira;0;0;1;1;0.0;D
+MG;Cajuri;Serras de Minas;0;0;0;0;0.0;E
+MG;Caldas;Caminhos Gerais;38.574;442;3;5;0.0;D
+MG;Camanducaia;Serras Verdes do Sul de Minas;91.323;1.363;85;475;4904223.0;B
+MG;Cambuí;Serras Verdes do Sul de Minas;33.454;373;2;16;0.0;D
+MG;Cambuquira;Águas;25.071;188;3;15;0.0;D
+MG;Campanário;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Campanha;Águas;2.624;0;4;6;0.0;D
+MG;Campestre;Caminhos Gerais;14.032;0;2;1;0.0;D
+MG;Campo Belo;Grutas e Mar de Minas;7.645;730;5;30;0.0;D
+MG;Campo do Meio;Lago de Furnas;0;111;0;0;0.0;D
+MG;Campos Gerais;Lago de Furnas;0;0;2;7;0.0;D
+MG;Canaã;Serras de Minas;0;0;1;2;0.0;D
+MG;Caparaó;Pico da Bandeira;5.215;0;0;0;0.0;D
+MG;Capelinha;Pedras Preciosas;2.624;0;5;38;0.0;D
+MG;Capim Branco;Grutas;0;0;1;18;0.0;D
+MG;Capitão Andrade;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Capitão Enéas;Sertão Gerais;0;0;0;0;0.0;E
+MG;Capitólio;Nascentes das Gerais e Canastra;10.151;2.005;17;154;2495772.0;C
+MG;Caputira;Pico da Bandeira;0;0;0;0;0.0;E
+MG;Caranaíba;Villas e Fazendas de Minas;0;0;0;0;0.0;E
+MG;Carandaí;Trilha dos Inconfidentes;0;0;4;23;0.0;D
+MG;Carangola;Pico da Bandeira;25.696;496;6;21;0.0;C
+MG;Carbonita;Diamantes;0;0;2;1;0.0;D
+MG;Carlos Chagas;Pedras Preciosas;2.681;0;5;16;0.0;D
+MG;Carmo da Cachoeira;Região Encantos de Minas;4.510;112;3;11;0.0;D
+MG;Carmo da Mata;Campo das Vertentes;2.624;0;1;1;0.0;D
+MG;Carmo de Minas;Águas;28.286;0;5;23;0.0;D
+MG;Carmo do Cajuru;Campo das Vertentes;0;0;2;10;0.0;D
+MG;Carmo do Paranaíba;Caminhos do Cerrado;18.428;341;2;9;0.0;D
+MG;Carmo do Rio Claro;Nascentes das Gerais e Canastra;5.380;80;5;24;0.0;D
+MG;Carmópolis de Minas;Campo das Vertentes;0;0;1;3;0.0;D
+MG;Carrancas;Trilha dos Inconfidentes;19.242;388;6;20;0.0;C
+MG;Carvalhópolis;Caminhos Gerais;0;0;0;0;0.0;E
+MG;Casa Grande;Villas e Fazendas de Minas;0;0;3;41;0.0;D
+MG;Cássia;Nascentes das Gerais e Canastra;10.109;258;2;3;0.0;D
+MG;Cataguases;Serras e Cachoeiras;41.908;796;8;71;704418.0;C
+MG;Catas Altas;Ouro;0;124;6;8;0.0;D
+MG;Catas Altas da Noruega;Villas e Fazendas de Minas;0;0;0;0;0.0;E
+MG;Catuji;Pedras Preciosas;0;149;0;0;0.0;D
+MG;Caxambu;Águas;59.100;1.422;13;289;1958366.0;B
+MG;Centralina;Rota do Triângulo;7.914;170;2;6;0.0;D
+MG;Chácara;Caminhos Verdes de Minas;0;0;1;6;0.0;D
+MG;Chapada do Norte;Lago de Irapé;0;0;0;0;0.0;E
+MG;Chapada Gaúcha;Noroeste das Gerais e Alto Paranaíba;0;120;3;6;0.0;D
+MG;Chiador;Caminhos Verdes de Minas;0;0;0;0;0.0;D
+MG;Cipotânea;Nascente do Rio Doce;0;0;0;0;0.0;E
+MG;Claraval;Nascentes das Gerais e Canastra;0;0;0;0;0.0;E
+MG;Claro dos Poções;Sertão Gerais;0;0;0;0;0.0;E
+MG;Cláudio;Grutas e Mar de Minas;6.033;0;3;8;0.0;D
+MG;Coimbra;Serras de Minas;2.624;0;1;2;0.0;D
+MG;Coluna;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Comercinho;Vale do Jequitinhonha;0;0;1;1;0.0;D
+MG;Conceição da Aparecida;Montanhas Cafeeiras de Minas;29.865;0;1;3;0.0;D
+MG;Conceição da Barra de Minas;Trilha dos Inconfidentes;0;0;0;0;0.0;E
+MG;Conceição das Alagoas;Rota do Triângulo;0;0;6;59;0.0;C
+MG;Conceição das Pedras;Caminhos da Mantiqueira;0;0;0;0;0.0;E
+MG;Conceição de Ipanema;Mata Atlântica de Minas;0;0;0;0;0.0;E
+MG;Conceição do Mato Dentro;Serra do Cipó;8.657;418;18;61;821529.0;C
+MG;Conceição do Rio Verde;Águas;1.688;233;1;2;0.0;D
+MG;Conceição dos Ouros;Serras Verdes do Sul de Minas;0;347;0;0;0.0;D
+MG;Confins;Grutas;14.856;456;2;13;0.0;D
+MG;Congonhal;Serras Verdes do Sul de Minas;0;0;2;3;0.0;D
+MG;Congonhas do Norte;Serra do Cipó;0;0;0;0;0.0;E
+MG;Conselheiro Lafaiete;Villas e Fazendas de Minas;99.139;1.099;21;137;949063.0;B
+MG;Conselheiro Pena;Trilhas do Rio Doce;7.995;978;3;18;0.0;D
+MG;Consolação;Serras Verdes do Sul de Minas;0;0;0;0;0.0;E
+MG;Coqueiral;Região Encantos de Minas;0;0;1;4;0.0;D
+MG;Coração de Jesus;Lago de Irapé;0;0;0;0;0.0;D
+MG;Cordisburgo;Grutas;7.914;0;3;63;0.0;D
+MG;Corinto;Guimarães Rosa;1.697;0;3;16;0.0;D
+MG;Coroaci;Trilhas do Rio Doce;4.988;0;0;0;0.0;D
+MG;Coromandel;Caminhos do Cerrado;0;135;4;27;0.0;D
+MG;Coronel Fabriciano;Mata Atlântica de Minas;34.469;1.178;8;81;0.0;C
+MG;Coronel Murta;Vale do Jequitinhonha;13.057;0;0;0;0.0;D
+MG;Coronel Xavier Chaves;Trilha dos Inconfidentes;0;0;1;2;0.0;D
+MG;Córrego do Bom Jesus;Serras Verdes do Sul de Minas;25.587;0;1;1;0.0;D
+MG;Córrego Fundo;Grutas e Mar de Minas;0;0;1;5;0.0;D
+MG;Couto de Magalhães de Minas;Diamantes;0;0;0;0;0.0;D
+MG;Cristais;Grutas e Mar de Minas;0;0;0;0;0.0;E
+MG;Cristália;Lago de Irapé;0;0;1;1;0.0;D
+MG;Cristiano Otoni;Villas e Fazendas de Minas;0;0;2;3;0.0;D
+MG;Cristina;Caminhos da Mantiqueira;0;0;1;5;0.0;D
+MG;Cruzília;Águas;392;230;1;2;0.0;D
+MG;Cuparaque;Trilhas do Rio Doce;0;182;0;0;0.0;D
+MG;Curral de Dentro;Lago de Irapé;0;0;0;0;0.0;E
+MG;Curvelo;Guimarães Rosa;13.748;738;14;148;799036.0;C
+MG;Delfim Moreira;Caminhos da Mantiqueira;4.903;0;5;12;0.0;D
+MG;Delfinópolis;Nascentes das Gerais e Canastra;0;0;10;17;0.0;C
+MG;Descoberto;Caminhos Verdes de Minas;21.129;0;0;0;0.0;D
+MG;Desterro do Melo;Trilha dos Inconfidentes;0;0;0;0;0.0;E
+MG;Diamantina;Diamantes;54.744;723;21;189;983079.0;B
+MG;Diogo de Vasconcelos;Montanhas e Fé;0;0;0;0;0.0;E
+MG;Dionísio;Mata Atlântica de Minas;0;0;1;1;0.0;D
+MG;Divinésia;Serras de Minas;0;0;0;0;0.0;E
+MG;Divino;Serra do Brigadeiro;0;0;2;12;0.0;D
+MG;Divino das Laranjeiras;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Divinolândia de Minas;Trilhas do Rio Doce;4.335;223;0;0;0.0;D
+MG;Divinópolis;Verde - Trilha dos Bandeirantes;85.048;1.761;23;271;2706862.0;B
+MG;Divisa Alegre;Vale do Jequitinhonha;0;0;1;2;0.0;D
+MG;Divisa Nova;Lago de Furnas;0;0;0;0;0.0;E
+MG;Dom Bosco;Noroeste das Gerais e Alto Paranaíba;6.699;0;0;0;0.0;D
+MG;Dom Joaquim;Trilhas do Rio Doce;0;0;0;0;0.0;D
+MG;Dom Silvério;Montanhas e Fé;12.250;0;1;4;0.0;D
+MG;Dom Viçoso;Águas;0;0;0;0;0.0;E
+MG;Dona Euzébia;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Dores de Campos;Trilha dos Inconfidentes;7.494;0;1;2;0.0;D
+MG;Dores de Guanhães;Trilhas do Rio Doce;0;0;1;5;0.0;D
+MG;Dores do Indaiá;Verde - Trilha dos Bandeirantes;0;75;2;8;0.0;D
+MG;Durandé;Pico da Bandeira;0;0;0;0;0.0;E
+MG;Elói Mendes;Lago de Furnas;0;91;3;10;0.0;D
+MG;Engenheiro Caldas;Trilhas do Rio Doce;0;0;2;7;0.0;D
+MG;Entre Rios de Minas;Trilha dos Inconfidentes;0;0;4;3;0.0;D
+MG;Ervália;Serra do Brigadeiro;22.372;0;2;7;0.0;D
+MG;Espera Feliz;Pico da Bandeira;29.043;400;4;15;0.0;D
+MG;Espinosa;Serra Geral do Norte de Minas;38.120;0;2;9;0.0;D
+MG;Espírito Santo do Dourado;Caminhos da Mantiqueira;0;0;0;0;0.0;E
+MG;Estiva;Serras Verdes do Sul de Minas;6.316;0;1;6;0.0;D
+MG;Estrela Dalva;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Estrela do Indaiá;Lago de Três Marias;2.624;116;0;0;0.0;D
+MG;Eugenópolis;Serra do Brigadeiro;0;0;0;0;0.0;E
+MG;Extrema;Serras Verdes do Sul de Minas;42.957;896;13;157;858326.0;C
+MG;Fama;Lago de Furnas;0;111;3;8;0.0;D
+MG;Faria Lemos;Pico da Bandeira;0;0;0;0;0.0;E
+MG;Felício dos Santos;Diamantes;2.624;0;0;0;0.0;D
+MG;Felixlândia;Guimarães Rosa;18.656;0;3;7;0.0;D
+MG;Fervedouro;Serra do Brigadeiro;0;0;0;0;0.0;E
+MG;Formiga;Grutas e Mar de Minas;2.624;319;11;105;401864.0;C
+MG;Formoso;Urucuia Grande Sertão;0;0;0;0;0.0;D
+MG;Fortuna de Minas;Grutas;0;0;0;0;0.0;E
+MG;Francisco Badaró;Pedras Preciosas;0;0;0;0;0.0;D
+MG;Francisco Dumont;Serra do Cabral;0;0;2;2;0.0;D
+MG;Franciscópolis;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Frei Gaspar;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Fronteira;Rota do Triângulo;0;0;5;15;0.0;D
+MG;Fruta de Leite;Cachaça;0;0;0;0;0.0;E
+MG;Galiléia;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Gameleiras;Serra Geral do Norte de Minas;0;0;0;0;0.0;D
+MG;Goiabeira;Trilhas do Rio Doce;0;363;1;2;0.0;D
+MG;Goianá;Caminhos Verdes de Minas;7.914;504;1;13;0.0;D
+MG;Gonçalves;Serras Verdes do Sul de Minas;13.569;284;15;58;319962.0;C
+MG;Gonzaga;Trilhas do Rio Doce;29.297;0;2;1;0.0;D
+MG;Governador Valadares;Trilhas do Rio Doce;213.306;13.613;30;351;3556495.0;B
+MG;Grão Mogol;Lago de Irapé;0;0;2;7;0.0;D
+MG;Guanhães;Trilhas do Rio Doce;0;302;11;42;238908.0;C
+MG;Guapé;Nascentes das Gerais e Canastra;0;196;4;14;0.0;D
+MG;Guaraciaba;Montanhas e Fé;0;0;2;12;0.0;D
+MG;Guaranésia;Montanhas Cafeeiras de Minas;6.794;363;2;11;0.0;D
+MG;Guarani;Caminhos Verdes de Minas;0;121;0;0;0.0;D
+MG;Guaxupé;Montanhas Cafeeiras de Minas;23.450;499;8;77;2522023.0;C
+MG;Guidoval;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Guimarânia;Caminhos do Cerrado;0;152;1;3;0.0;D
+MG;Guiricema;Serras de Minas;22.868;0;3;5;0.0;D
+MG;Ibiracatu;Sertão Gerais;0;0;0;0;0.0;E
+MG;Ibiraci;Nascentes das Gerais e Canastra;0;0;0;0;0.0;D
+MG;Ibirité;Veredas do Paraopeba;0;0;0;0;0.0;E
+MG;Ibitiúra de Minas;Caminhos Gerais;0;0;1;6;0.0;D
+MG;Ibituruna;Trilha dos Inconfidentes;4.556;0;0;0;0.0;D
+MG;Igarapé;Veredas do Paraopeba;0;0;5;55;0.0;D
+MG;Iguatama;Grutas e Mar de Minas;0;130;1;3;0.0;D
+MG;Ijaci;Região Encantos de Minas;6.316;0;2;7;0.0;D
+MG;Ilicínea;Nascentes das Gerais e Canastra;2.624;0;1;1;0.0;D
+MG;Inconfidentes;Malhas do Sul de Minas;0;0;1;2;0.0;D
+MG;Inimutaba;Guimarães Rosa;4.335;0;0;0;0.0;D
+MG;Ipaba;Mata Atlântica de Minas;0;0;0;0;0.0;E
+MG;Ipatinga;Mata Atlântica de Minas;160.172;9.884;22;295;2268039.0;B
+MG;Itabirinha;Trilhas do Rio Doce;0;0;1;1;0.0;D
+MG;Itabirito;Ouro;28.088;404;11;102;808968.0;C
+MG;Itacambira;Sertão Gerais;0;188;0;0;0.0;D
+MG;Itacarambi;Velho Chico;4.567;82;4;6;0.0;D
+MG;Itaguara;Veredas do Paraopeba;24.996;120;3;10;0.0;D
+MG;Itaipé;Pedras Preciosas;0;182;0;0;0.0;D
+MG;Itajubá;Caminhos da Mantiqueira;121.365;2.471;15;131;947498.0;B
+MG;Itamarandiba;Pedras Preciosas;8.671;0;4;27;0.0;D
+MG;Itamarati de Minas;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Itambacuri;Pedras Preciosas;22.372;0;2;9;0.0;D
+MG;Itambé do Mato Dentro;Serra do Cipó;0;0;1;2;0.0;D
+MG;Itamogi;Montanhas Cafeeiras de Minas;0;0;0;0;0.0;E
+MG;Itanhomi;Trilhas do Rio Doce;0;312;0;0;0.0;D
+MG;Itapagipe;Rota do Triângulo;0;0;2;5;0.0;D
+MG;Itapecerica;Campo das Vertentes;2.624;119;3;29;0.0;D
+MG;Itapeva;Serras Verdes do Sul de Minas;12.633;332;3;45;0.0;D
+MG;Itaúna;Verde - Trilha dos Bandeirantes;45.336;866;6;68;715553.0;C
+MG;Itaverava;Villas e Fazendas de Minas;0;0;1;1;0.0;D
+MG;Itinga;Vale do Jequitinhonha;2.624;0;1;3;0.0;D
+MG;Iturama;Rota do Triângulo;51.122;0;6;34;0.0;C
+MG;Itutinga;Trilha dos Inconfidentes;0;0;1;1;0.0;D
+MG;Jaboticatubas;Serra do Cipó;9.569;1.091;8;106;0.0;C
+MG;Jacuí;Montanhas Cafeeiras de Minas;0;248;1;4;0.0;D
+MG;Jacutinga;Malhas do Sul de Minas;0;628;5;31;0.0;D
+MG;Jaguaraçu;Mata Atlântica de Minas;0;0;1;1;0.0;D
+MG;Jaíba;Serra Geral do Norte de Minas;0;0;5;23;0.0;D
+MG;Janaúba;Serra Geral do Norte de Minas;0;587;4;44;0.0;D
+MG;Januária;Velho Chico;45.769;304;6;27;0.0;C
+MG;Japonvar;Velho Chico;0;0;0;0;0.0;E
+MG;Jeceaba;Veredas do Paraopeba;0;182;1;1;0.0;D
+MG;Jenipapo de Minas;Pedras Preciosas;0;0;0;0;0.0;D
+MG;Jequeri;Montanhas e Fé;0;0;1;1;0.0;D
+MG;Jequitaí;Serra do Cabral;0;0;1;1;0.0;D
+MG;Jequitibá;Grutas;7.914;0;2;2;0.0;D
+MG;Jequitinhonha;Vale do Jequitinhonha;8.515;0;3;22;0.0;D
+MG;Jesuânia;Águas;0;0;0;0;0.0;E
+MG;Joaíma;Vale do Jequitinhonha;15.063;0;0;0;0.0;D
+MG;João Pinheiro;Noroeste das Gerais e Alto Paranaíba;60.609;0;18;78;396916.0;C
+MG;Joaquim Felício;Serra do Cabral;0;0;0;0;0.0;E
+MG;Jordânia;Vale do Jequitinhonha;0;121;0;0;0.0;D
+MG;José Gonçalves de Minas;Lago de Irapé;0;130;0;0;0.0;D
+MG;José Raydan;Trilhas do Rio Doce;4.335;0;0;0;0.0;D
+MG;Juatuba;Veredas do Paraopeba;5.248;0;5;15;0.0;D
+MG;Juiz de Fora;Caminho Novo;323.096;10.777;49;682;8954021.0;B
+MG;Juramento;Sertão Gerais;0;0;0;0;0.0;D
+MG;Juruaia;Montanhas Cafeeiras de Minas;0;0;2;7;0.0;D
+MG;Ladainha;Pedras Preciosas;7.494;0;1;1;0.0;D
+MG;Lagamar;Noroeste das Gerais e Alto Paranaíba;22.372;0;1;6;0.0;D
+MG;Lagoa da Prata;Grutas e Mar de Minas;3.560;0;6;51;328285.0;C
+MG;Lagoa dos Patos;Lago de Irapé;0;0;0;0;0.0;E
+MG;Lagoa Dourada;Trilha dos Inconfidentes;0;0;2;4;0.0;D
+MG;Lagoa Grande;Noroeste das Gerais e Alto Paranaíba;4.818;120;0;0;0.0;D
+MG;Lagoa Santa;Grutas;50.337;1.462;12;201;1408194.0;C
+MG;Lajinha;Pico da Bandeira;0;0;2;9;0.0;D
+MG;Lambari;Águas;35.529;0;8;105;0.0;C
+MG;Lamim;Villas e Fazendas de Minas;2.700;0;0;0;0.0;D
+MG;Laranjal;Serras e Cachoeiras;8.857;120;2;2;0.0;D
+MG;Lassance;Serra do Cabral;0;0;0;0;0.0;E
+MG;Lavras;Região Encantos de Minas;14.505;2.018;15;149;1539462.0;C
+MG;Leandro Ferreira;Verde - Trilha dos Bandeirantes;0;0;0;0;0.0;E
+MG;Leme do Prado;Lago de Irapé;0;0;0;0;0.0;E
+MG;Leopoldina;Serras e Cachoeiras;50.821;710;8;69;0.0;C
+MG;Lima Duarte;Serras de Ibitipoca;14.231;372;14;75;385393.0;C
+MG;Limeira do Oeste;Rota do Triângulo;0;0;1;5;0.0;D
+MG;Luisburgo;Pico da Bandeira;0;0;0;0;0.0;E
+MG;Luminárias;Região Encantos de Minas;0;0;0;0;0.0;E
+MG;Machacalis;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Machado;Caminhos Gerais;38.201;454;6;36;208416.0;C
+MG;Madre de Deus de Minas;Trilha dos Inconfidentes;0;0;1;1;0.0;D
+MG;Malacacheta;Pedras Preciosas;0;0;1;1;0.0;D
+MG;Mamonas;Serra Geral do Norte de Minas;0;0;0;0;0.0;E
+MG;Manga;Velho Chico;7.493;566;3;6;0.0;D
+MG;Manhuaçu;Pico da Bandeira;35.208;800;12;129;455012.0;C
+MG;Manhumirim;Pico da Bandeira;2.624;0;3;15;0.0;D
+MG;Mantena;Trilhas do Rio Doce;18.137;1.161;3;9;0.0;D
+MG;Maravilhas;Verde - Trilha dos Bandeirantes;0;0;1;3;0.0;D
+MG;Mar de Espanha;Caminhos Verdes de Minas;10.278;170;1;3;0.0;D
+MG;Maria da Fé;Caminhos da Mantiqueira;0;0;3;9;0.0;D
+MG;Mariana;Ouro;28.962;1.449;19;112;1027120.0;C
+MG;Marilac;Trilhas do Rio Doce;0;91;0;0;0.0;D
+MG;Marliéria;Mata Atlântica de Minas;0;0;1;12;0.0;D
+MG;Marmelópolis;Caminhos da Mantiqueira;7.494;0;1;1;0.0;D
+MG;Martinho Campos;Guimarães Rosa;8.671;182;2;9;0.0;D
+MG;Martins Soares;Pico da Bandeira;0;0;0;0;0.0;E
+MG;Mata Verde;Vale do Jequitinhonha;0;0;0;0;0.0;E
+MG;Materlândia;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Mateus Leme;Veredas do Paraopeba;0;0;4;38;0.0;D
+MG;Mathias Lobato;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Matipó;Montanhas e Fé;0;0;2;6;0.0;D
+MG;Mato Verde;Serra Geral do Norte de Minas;7.914;0;1;5;0.0;D
+MG;Matutina;Lago de Três Marias;0;0;0;0;0.0;E
+MG;Medina;Vale do Jequitinhonha;27.227;0;1;4;0.0;D
+MG;Minas Novas;Pedras Preciosas;2.624;917;3;18;0.0;D
+MG;Mirabela;Velho Chico;0;116;0;0;0.0;D
+MG;Moeda;Veredas do Paraopeba;2.624;102;4;22;0.0;D
+MG;Monsenhor Paulo;Lago de Furnas;0;0;1;5;0.0;D
+MG;Monte Azul;Serra Geral do Norte de Minas;0;0;2;5;0.0;D
+MG;Monte Santo de Minas;Montanhas Cafeeiras de Minas;25.587;0;2;14;0.0;D
+MG;Montes Claros;Sertão Gerais;205.443;6.094;48;365;2253742.0;B
+MG;Monte Sião;Malhas do Sul de Minas;18.812;682;14;98;618169.0;C
+MG;Montezuma;Lago de Irapé;0;0;2;10;0.0;D
+MG;Morada Nova de Minas;Lago de Três Marias;4.335;91;0;0;0.0;D
+MG;Morro da Garça;Guimarães Rosa;0;0;0;0;0.0;E
+MG;Morro do Pilar;Serra do Cipó;4.335;0;1;1;0.0;D
+MG;Munhoz;Serras Verdes do Sul de Minas;0;0;0;0;0.0;E
+MG;Muriaé;Serra do Brigadeiro;55.230;611;16;180;1201710.0;B
+MG;Muzambinho;Montanhas Cafeeiras de Minas;8.014;91;3;4;0.0;D
+MG;Nacip Raydan;Trilhas do Rio Doce;0;0;0;0;0.0;D
+MG;Nanuque;Pedras Preciosas;28.031;595;6;39;0.0;C
+MG;Natalândia;Noroeste das Gerais e Alto Paranaíba;0;0;1;3;0.0;D
+MG;Nazareno;Trilha dos Inconfidentes;0;0;1;3;0.0;D
+MG;Nepomuceno;Lago de Furnas;4.335;75;1;5;0.0;D
+MG;Ninheira;Cachaça;0;0;0;0;0.0;E
+MG;Nova Belém;Trilhas do Rio Doce;4.988;0;0;0;0.0;D
+MG;Nova Era;Ouro;7.914;39;4;35;0.0;D
+MG;Nova Lima;Ouro;9.834;262;13;71;1182522.0;C
+MG;Nova Módica;Trilhas do Rio Doce;17.011;0;0;0;0.0;D
+MG;Nova Resende;Montanhas Cafeeiras de Minas;0;0;2;3;0.0;D
+MG;Nova Serrana;Verde - Trilha dos Bandeirantes;73.097;170;6;71;0.0;C
+MG;Nova União;Serra do Cipó;6.959;0;1;8;0.0;D
+MG;Novo Cruzeiro;Pedras Preciosas;30.286;0;1;1;0.0;D
+MG;Novo Oriente de Minas;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Novorizonte;Cachaça;0;0;0;0;0.0;E
+MG;Olaria;Serras de Ibitipoca;0;0;0;0;0.0;E
+MG;Olhos-d'Água;Sertão Gerais;0;0;1;1;0.0;D
+MG;Oliveira;Região Encantos de Minas;0;369;6;26;0.0;D
+MG;Onça de Pitangui;Verde - Trilha dos Bandeirantes;0;0;0;0;0.0;E
+MG;Ouro Branco;Ouro;7.494;1.501;11;96;1050033.0;C
+MG;Ouro Fino;Malhas do Sul de Minas;42.160;170;6;30;0.0;C
+MG;Ouro Preto;Ouro;206.293;25.689;68;558;4691202.0;B
+MG;Padre Paraíso;Pedras Preciosas;18.287;0;2;16;0.0;D
+MG;Pains;Grutas e Mar de Minas;0;52;1;5;0.0;D
+MG;Pai Pedro;Serra Geral do Norte de Minas;0;0;0;0;0.0;E
+MG;Palma;Serras e Cachoeiras;0;163;0;0;0.0;D
+MG;Papagaios;Verde - Trilha dos Bandeirantes;0;188;3;4;0.0;D
+MG;Paracatu;Noroeste das Gerais e Alto Paranaíba;112.366;338;21;209;2580922.0;B
+MG;Pará de Minas;Verde - Trilha dos Bandeirantes;13.773;404;7;54;873923.0;C
+MG;Paraguaçu;Lago de Furnas;2.567;111;3;17;0.0;D
+MG;Paraisópolis;Serras Verdes do Sul de Minas;13.569;75;5;24;0.0;D
+MG;Passa Tempo;Região Encantos de Minas;0;0;1;8;0.0;D
+MG;Passos;Nascentes das Gerais e Canastra;97.542;1.143;17;163;1249504.0;B
+MG;Patos de Minas;Noroeste das Gerais e Alto Paranaíba;99.868;3.627;25;266;2095019.0;B
+MG;Patrocínio;Caminhos do Cerrado;48.384;938;15;117;1117326.0;C
+MG;Patrocínio do Muriaé;Serra do Brigadeiro;22.372;375;0;0;0.0;D
+MG;Paula Cândido;Montanhas e Fé;0;0;1;1;0.0;D
+MG;Paulistas;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Pavão;Pedras Preciosas;2.681;0;0;0;0.0;D
+MG;Peçanha;Trilhas do Rio Doce;2.624;0;2;10;0.0;D
+MG;Pedra Azul;Vale do Jequitinhonha;496;535;3;11;0.0;D
+MG;Pedra Bonita;Serra do Brigadeiro;2.383;0;0;0;0.0;D
+MG;Pedra do Anta;Montanhas e Fé;0;0;0;0;0.0;E
+MG;Pedra do Indaiá;Grutas e Mar de Minas;0;0;0;0;0.0;E
+MG;Pedra Dourada;Pico da Bandeira;0;0;1;12;0.0;D
+MG;Pedralva;Caminhos da Mantiqueira;0;182;0;0;0.0;D
+MG;Pedras de Maria da Cruz;Velho Chico;0;0;0;0;0.0;D
+MG;Pedro Leopoldo;Grutas;7.767;161;4;29;0.0;D
+MG;Pequeri;Caminhos Verdes de Minas;1.168;0;0;0;0.0;D
+MG;Pequi;Verde - Trilha dos Bandeirantes;0;0;1;2;0.0;D
+MG;Perdões;Região Encantos de Minas;0;0;2;19;0.0;D
+MG;Periquito;Trilhas do Rio Doce;0;130;0;0;0.0;D
+MG;Piau;Caminhos Verdes de Minas;7.914;0;0;0;0.0;D
+MG;Piedade do Rio Grande;Trilha dos Inconfidentes;35.463;0;0;0;0.0;D
+MG;Piedade dos Gerais;Veredas do Paraopeba;2.624;0;0;0;0.0;D
+MG;Pimenta;Grutas e Mar de Minas;0;0;3;18;0.0;D
+MG;Pintópolis;Urucuia Grande Sertão;0;0;0;0;0.0;E
+MG;Pirajuba;Rota do Triângulo;0;0;0;0;0.0;D
+MG;Piranga;Villas e Fazendas de Minas;6.316;0;3;11;0.0;D
+MG;Piranguçu;Caminhos da Mantiqueira;0;0;0;0;0.0;E
+MG;Pirapora;Guimarães Rosa;16.022;1.287;17;76;637869.0;C
+MG;Piraúba;Serras e Cachoeiras;0;130;1;5;0.0;D
+MG;Piumhi;Nascentes das Gerais e Canastra;13.001;257;6;36;0.0;C
+MG;Planura;Rota do Triângulo;0;232;4;16;0.0;D
+MG;Poço Fundo;Caminhos Gerais;0;80;0;0;0.0;D
+MG;Poços de Caldas;Caminhos Gerais;434.995;6.355;53;1.318;157000000000000,00;A
+MG;Pompéu;Guimarães Rosa;2.624;0;4;34;0.0;D
+MG;Ponte Nova;Montanhas e Fé;48.531;50;11;70;678263.0;C
+MG;Ponto Chique;Guimarães Rosa;0;0;0;0;0.0;E
+MG;Ponto dos Volantes;Vale do Jequitinhonha;6.699;0;1;1;0.0;D
+MG;Porteirinha;Serra Geral do Norte de Minas;0;234;4;5;0.0;D
+MG;Poté;Pedras Preciosas;0;0;1;7;0.0;D
+MG;Pouso Alegre;Caminhos da Mantiqueira;134.128;2.646;25;328;3306848.0;B
+MG;Prados;Trilha dos Inconfidentes;49.959;60;5;11;0.0;C
+MG;Pratápolis;Nascentes das Gerais e Canastra;6.316;0;1;2;0.0;D
+MG;Presidente Bernardes;Nascente do Rio Doce;0;0;0;0;0.0;E
+MG;Presidente Juscelino;Guimarães Rosa;0;0;0;0;0.0;E
+MG;Presidente Kubitschek;Diamantes;0;0;1;0;0.0;D
+MG;Presidente Olegário;Noroeste das Gerais e Alto Paranaíba;34.068;0;2;5;0.0;D
+MG;Prudente de Morais;Grutas;0;0;0;0;0.0;E
+MG;Queluzito;Villas e Fazendas de Minas;0;0;2;8;0.0;D
+MG;Raposos;Ouro;7.914;0;0;0;0.0;D
+MG;Raul Soares;Montanhas e Fé;20.556;149;4;17;0.0;D
+MG;Recreio;Serras e Cachoeiras;18.859;0;2;3;0.0;D
+MG;Resende Costa;Trilha dos Inconfidentes;19.140;276;1;1;0.0;D
+MG;Resplendor;Trilhas do Rio Doce;27.672;498;4;56;0.0;D
+MG;Ressaquinha;Nascente do Rio Doce;0;0;0;0;0.0;D
+MG;Riachinho;Noroeste das Gerais e Alto Paranaíba;22.372;0;2;4;0.0;D
+MG;Rio Casca;Montanhas e Fé;26.707;0;3;16;0.0;D
+MG;Rio Doce;Montanhas e Fé;0;0;0;0;0.0;E
+MG;Rio Espera;Villas e Fazendas de Minas;0;0;0;0;0.0;D
+MG;Rio Novo;Caminhos Verdes de Minas;0;0;2;4;0.0;D
+MG;Rio Paranaíba;Caminhos do Cerrado;26.928;0;5;9;0.0;D
+MG;Rio Pardo de Minas;Serra Geral do Norte de Minas;0;182;1;5;0.0;D
+MG;Rio Pomba;Caminhos Verdes de Minas;2.624;0;4;25;0.0;D
+MG;Rio Preto;Serras de Ibitipoca;7.494;572;3;8;0.0;D
+MG;Rio Vermelho;Diamantes;0;0;1;7;0.0;D
+MG;Ritápolis;Trilha dos Inconfidentes;0;0;0;0;0.0;D
+MG;Rochedo de Minas;Caminhos Verdes de Minas;0;0;0;0;0.0;E
+MG;Rodeiro;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Rosário da Limeira;Serra do Brigadeiro;0;0;0;0;0.0;E
+MG;Rubelita;Cachaça;0;0;0;0;0.0;E
+MG;Rubim;Vale do Jequitinhonha;0;0;0;0;0.0;E
+MG;Sabará;Ouro;35.531;261;3;39;0.0;C
+MG;Sabinópolis;Trilhas do Rio Doce;0;0;1;4;0.0;D
+MG;Sacramento;Nascentes das Gerais e Canastra;0;0;7;46;0.0;C
+MG;Salinas;Cachaça;5.143;729;13;48;219767.0;C
+MG;Santa Bárbara;Ouro;0;293;6;62;876056.0;C
+MG;Santa Bárbara do Tugúrio;Trilha dos Inconfidentes;0;0;0;0;0.0;E
+MG;Santa Cruz de Minas;Trilha dos Inconfidentes;0;0;1;5;0.0;D
+MG;Santa Cruz do Escalvado;Montanhas e Fé;0;0;0;0;0.0;E
+MG;Santa Efigênia de Minas;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Santa Fé de Minas;Urucuia Grande Sertão;0;0;1;0;0.0;D
+MG;Santa Helena de Minas;Vale do Jequitinhonha;0;0;0;0;0.0;D
+MG;Santa Luzia;Ouro;3.092;120;4;13;0.0;D
+MG;Santa Maria de Itabira;Serra do Cipó;0;0;1;4;0.0;D
+MG;Santa Maria do Suaçuí;Trilhas do Rio Doce;24.996;112;2;4;0.0;D
+MG;Santana da Vargem;Lago de Furnas;0;0;1;2;0.0;D
+MG;Santana de Cataguases;Serras e Cachoeiras;0;0;0;0;0.0;E
+MG;Santana de Pirapama;Grutas;0;152;0;0;0.0;D
+MG;Santana do Manhuaçu;Pico da Bandeira;0;0;0;0;0.0;E
+MG;Santana do Paraíso;Mata Atlântica de Minas;0;0;4;11;0.0;D
+MG;Santana do Riacho;Serra do Cipó;2.624;527;24;150;828355.0;B
+MG;Santana dos Montes;Villas e Fazendas de Minas;0;0;4;27;0.0;D
+MG;Santa Rita de Jacutinga;Serras de Ibitipoca;15.091;0;1;4;0.0;D
+MG;Santa Rita de Ibitipoca;Serras de Ibitipoca;0;597;0;0;0.0;D
+MG;Santa Rita do Itueto;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;Santa Rita do Sapucaí;Caminhos da Mantiqueira;1.305;929;4;39;0.0;D
+MG;Santa Vitória;Rota do Triângulo;0;0;8;30;89185.0;C
+MG;Santo Antônio do Amparo;Campo das Vertentes;0;0;3;10;0.0;D
+MG;Santo Antônio do Aventureiro;Serras e Cachoeiras;0;0;1;67;0.0;D
+MG;Santo Antônio do Grama;Montanhas e Fé;0;135;1;1;0.0;D
+MG;Santo Antônio do Retiro;Lago de Irapé;0;0;0;0;0.0;E
+MG;Santo Antônio do Rio Abaixo;Trilhas do Rio Doce;0;0;1;0;0.0;D
+MG;Santo Hipólito;Guimarães Rosa;0;0;0;0;0.0;E
+MG;Santos Dumont;Caminho Novo;0;163;4;19;0.0;D
+MG;São Bento Abade;Região Encantos de Minas;0;0;0;0;0.0;E
+MG;São Brás do Suaçuí;Veredas do Paraopeba;0;0;3;31;0.0;D
+MG;São Domingos do Prata;Montanhas e Fé;7.914;182;5;15;0.0;D
+MG;São Félix de Minas;Trilhas do Rio Doce;0;149;1;1;0.0;D
+MG;São Francisco;Velho Chico;27.662;212;6;11;0.0;C
+MG;São Francisco de Paula;Campo das Vertentes;2.624;0;1;73;0.0;D
+MG;São Francisco de Sales;Rota do Triângulo;7.914;0;1;1;0.0;D
+MG;São Francisco do Glória;Pico da Bandeira;0;0;0;0;0.0;E
+MG;São Geraldo;Serra do Brigadeiro;2.383;0;1;3;0.0;D
+MG;São Gonçalo do Abaeté;Lago de Três Marias;0;0;6;18;0.0;D
+MG;São Gonçalo do Rio Preto;Diamantes;0;0;1;3;0.0;D
+MG;São Gotardo;Caminhos do Cerrado;14.505;490;6;36;0.0;C
+MG;São João Batista do Glória;Nascentes das Gerais e Canastra;0;52;3;3;0.0;D
+MG;São João da Lagoa;Lago de Irapé;0;0;0;0;0.0;E
+MG;São João da Ponte;Sertão Gerais;4.335;0;1;4;0.0;D
+MG;São João das Missões;Velho Chico;0;0;0;0;0.0;E
+MG;São João del Rei;Trilha dos Inconfidentes;134.743;5.013;33;227;1444690.0;B
+MG;São João do Paraíso;Cachaça;7.914;0;2;5;0.0;D
+MG;São João Evangelista;Trilhas do Rio Doce;13.276;256;2;7;0.0;D
+MG;São João Nepomuceno;Caminhos Verdes de Minas;44.451;116;2;7;0.0;C
+MG;São Joaquim de Bicas;Veredas do Paraopeba;0;0;4;27;0.0;D
+MG;São José da Barra;Nascentes das Gerais e Canastra;7.914;0;2;8;0.0;D
+MG;São José da Lapa;Grutas;0;61;1;2;0.0;D
+MG;São José da Safira;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;São José do Divino;Trilhas do Rio Doce;0;0;0;0;0.0;E
+MG;São José do Jacuri;Trilhas do Rio Doce;0;61;1;0;0.0;D
+MG;São José do Mantimento;Pico da Bandeira;0;0;0;0;0.0;E
+MG;São Lourenço;Águas;295.415;2.073;45;705;4592822.0;B
+MG;São Miguel do Anta;Montanhas e Fé;0;0;1;1;0.0;D
+MG;São Pedro da União;Montanhas Cafeeiras de Minas;0;0;0;0;0.0;E
+MG;São Pedro dos Ferros;Montanhas e Fé;0;0;1;1;0.0;D
+MG;São Pedro do Suaçuí;Trilhas do Rio Doce;0;0;1;2;0.0;D
+MG;São Roque de Minas;Nascentes das Gerais e Canastra;4.510;562;3;14;0.0;D
+MG;São Sebastião da Vargem Alegre;Serras e Cachoeiras;0;0;0;0;0.0;D
+MG;São Sebastião do Maranhão;Trilhas do Rio Doce;0;182;0;0;0.0;D
+MG;São Sebastião do Paraíso;Montanhas Cafeeiras de Minas;48.815;241;8;156;1008217.0;C
+MG;São Tomé das Letras;Região Encantos de Minas;57.376;1.192;14;33;178819.0;C
+MG;São Tiago;Trilha dos Inconfidentes;14.406;0;1;4;0.0;D
+MG;São Vicente de Minas;Trilha dos Inconfidentes;7.494;82;2;6;0.0;D
+MG;Sapucaí-Mirim;Serras Verdes do Sul de Minas;18.079;0;2;7;0.0;D
+MG;Sardoá;Trilhas do Rio Doce;0;0;2;2;0.0;D
+MG;Sem-Peixe;Montanhas e Fé;0;0;0;0;0.0;E
+MG;Senador Amaral;Serras Verdes do Sul de Minas;0;0;0;0;0.0;E
+MG;Senador José Bento;Serras Verdes do Sul de Minas;0;0;0;0;0.0;E
+MG;Senhora de Oliveira;Villas e Fazendas de Minas;0;0;1;2;0.0;D
+MG;Senhora do Porto;Trilhas do Rio Doce;0;0;0;0;0.0;D
+MG;Senhora dos Remédios;Nascente do Rio Doce;0;0;0;0;0.0;E
+MG;Sericita;Montanhas e Fé;0;0;0;0;0.0;D
+MG;Serra Azul de Minas;Diamantes;0;0;0;0;0.0;E
+MG;Serra da Saudade;Lago de Três Marias;0;0;0;0;0.0;E
+MG;Serra dos Aimorés;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Serra do Salitre;Caminhos do Cerrado;7.914;112;2;25;0.0;D
+MG;Serrania;Lago de Furnas;22.372;0;0;0;0.0;D
+MG;Serranópolis de Minas;Serra Geral do Norte de Minas;0;322;0;0;0.0;D
+MG;Serro;Diamantes;9.820;821;9;24;0.0;C
+MG;Sete Lagoas;Grutas;112.022;3.646;26;204;1860113.0;B
+MG;Setubinha;Pedras Preciosas;0;0;0;0;0.0;E
+MG;Silvianópolis;Caminhos da Mantiqueira;0;0;0;0;0.0;E
+MG;Simão Pereira;Caminho Novo;0;170;2;24;0.0;D
+MG;Simonésia;Pico da Bandeira;21.129;0;1;1;0.0;D
+MG;Sobrália;Trilhas do Rio Doce;0;364;0;0;0.0;D
+MG;Soledade de Minas;Águas;7.914;0;2;35;0.0;D
+MG;Tabuleiro;Caminhos Verdes de Minas;22.372;0;1;9;0.0;D
+MG;Taiobeiras;Cachaça;756;231;3;6;0.0;D
+MG;Tapira;Nascentes das Gerais e Canastra;0;0;1;1;0.0;D
+MG;Teixeiras;Serras de Minas;43.814;182;4;12;0.0;C
+MG;Teófilo Otoni;Pedras Preciosas;74.040;1.236;18;175;1489205.0;B
+MG;Timóteo;Mata Atlântica de Minas;43.695;1.386;10;77;787428.0;C
+MG;Tiradentes;Trilha dos Inconfidentes;66.573;7.012;72;407;4456298.0;B
+MG;Tiros;Lago de Três Marias;7.914;182;2;2;0.0;D
+MG;Tocos do Moji;Serras Verdes do Sul de Minas;0;0;0;0;0.0;E
+MG;Toledo;Serras Verdes do Sul de Minas;0;0;1;1;0.0;D
+MG;Três Corações;Águas;39.958;530;6;50;311361.0;C
+MG;Três Marias;Lago de Três Marias;23.124;0;13;97;548791.0;C
+MG;Três Pontas;Região Encantos de Minas;5.900;352;5;44;0.0;D
+MG;Tumiritinga;Trilhas do Rio Doce;0;0;0;0;0.0;D
+MG;Turmalina;Lago de Irapé;17.011;121;3;24;0.0;D
+MG;Turvolândia;Lago de Furnas;7.914;0;0;0;0.0;D
+MG;Ubá;Serras de Minas;14.420;652;10;77;745067.0;C
+MG;Ubaporanga;Mata Atlântica de Minas;0;182;1;7;0.0;D
+MG;Uberaba;Rota do Triângulo;169.288;5.554;41;593;5424041.0;B
+MG;Uberlândia;Rota do Triângulo;584.716;18.732;54;907;15900000000000,00;A
+MG;Unaí;Noroeste das Gerais e Alto Paranaíba;50.011;606;17;135;1137023.0;B
+MG;Uruana de Minas;Noroeste das Gerais e Alto Paranaíba;0;0;0;0;0.0;E
+MG;Urucânia;Montanhas e Fé;0;0;0;0;0.0;E
+MG;Urucuia;Urucuia Grande Sertão;4.671;0;1;2;0.0;D
+MG;Vargem Bonita;Nascentes das Gerais e Canastra;0;0;2;6;0.0;D
+MG;Vargem Grande do Rio Pardo;Lago de Irapé;0;0;0;0;0.0;E
+MG;Varginha;Região Encantos de Minas;46.879;1.605;21;198;1489818.0;B
+MG;Varjão de Minas;Lago de Três Marias;25.053;0;1;4;0.0;D
+MG;Várzea da Palma;Serra do Cabral;3.499;121;4;15;0.0;D
+MG;Varzelândia;Sertão Gerais;22.656;0;0;0;0.0;D
+MG;Vazante;Noroeste das Gerais e Alto Paranaíba;36.222;182;2;11;0.0;D
+MG;Veredinha;Lago de Irapé;0;0;0;0;0.0;E
+MG;Virgem da Lapa;Vale do Jequitinhonha;11.366;0;2;1;0.0;D
+MG;Virginópolis;Trilhas do Rio Doce;0;0;2;7;0.0;D
+MG;Virgolândia;Trilhas do Rio Doce;4.335;0;0;0;0.0;D
+MG;Visconde do Rio Branco;Serras de Minas;6.685;0;3;15;0.0;D
+MG;Volta Grande;Serras e Cachoeiras;22.372;0;0;0;0.0;D
+PA;Abaetetuba;Região Turística do Tocantins;29.939;181;5;12;0.0;D
+PA;Altamira;Região Turística Xingu;20.369;1.940;30;165;1274213.0;B
+PA;Ananindeua;Região Turística de Belém;0;478;12;233;2387815.0;C
+PA;Barcarena;Região Turística do Tocantins;55.785;864;9;147;1040839.0;C
+PA;Belém;Região Turística de Belém;1.402.632;43.143;90;1.436;142000000000000,00;A
+PA;Bom Jesus do Tocantins;Região Turística  Carajás;0;0;0;0;0.0;E
+PA;Bragança;Região Turística Amazônia Atlântica Caeté;111.766;1.016;11;63;256369.0;C
+PA;Breu Branco;Região Turística do Lago de Tucuruí;17.425;0;3;21;0.0;D
+PA;Cachoeira do Arari;Região Turística dos Campos do Marajó;652;0;0;0;0.0;D
+PA;Canaã dos Carajás;Região Turística  Carajás;20.900;64;18;97;1348797.0;C
+PA;Castanhal;Região Turística Amazônia Atlântica Guamá;24.729;952;9;93;941031.0;C
+PA;Curuçá;Região Turística Amazônia Atlântica Guamá;22.530;272;0;0;0.0;D
+PA;Dom Eliseu;Região Turística do Capim;1.054;0;6;41;0.0;C
+PA;Jacareacanga;Região Turística do Alto Tapajós;2.468;0;5;55;0.0;D
+PA;Marabá;Região Turística  Carajás;358.588;3.666;36;366;1770427.0;B
+PA;Marapanim;Região Turística Amazônia Atlântica Guamá;63.263;182;0;0;0.0;C
+PA;Marituba;Região Turística de Belém;2.468;0;2;19;0.0;D
+PA;Óbidos;Região Turística Rio Amazonas;36.532;0;3;10;0.0;D
+PA;Paragominas;Região Turística do Capim;56.406;713;13;104;1202974.0;C
+PA;Parauapebas;Região Turística  Carajás;200.040;926;34;278;2134923.0;B
+PA;São Félix do Xingu;Região Turística do Araguaia;131.396;0;8;23;56090.0;C
+PA;São Geraldo do Araguaia;Região Turística  Carajás;16.341;64;1;1;0.0;D
+PA;São João do Araguaia;Região Turística  Carajás;912;0;1;1;0.0;D
+PA;Soure;Região Turística dos Campos do Marajó;25.952;1.854;6;30;0.0;C
+PA;Tomé-Açu;Região Turística do Capim;8.027;117;5;14;0.0;D
+PA;Ulianópolis;Região Turística do Capim;0;0;1;6;0.0;D
+PA;Vitória do Xingu;Região Turística Xingu;0;0;2;7;0.0;D
+PB;Água Branca;Vale dos Sertões;756;0;0;0;0.0;D
+PB;Alagoa Nova;Brejo;48.208;0;0;0;0.0;D
+PB;Araruna;Curimataú;3.721;0;0;0;0.0;D
+PB;Areia;Brejo;14.719;0;2;19;0.0;D
+PB;Bananeiras;Brejo;16.135;0;3;38;0.0;D
+PB;Baraúna;Fórum Regional de Turismo Sustentável do Seridó;0;0;0;0;0.0;E
+PB;Belém;Brejo;6.609;0;0;0;0.0;D
+PB;Borborema;Brejo;756;0;0;0;0.0;D
+PB;Brejo do Cruz;Vale dos Sertões;4.543;127;0;0;0.0;D
+PB;Cabaceiras;Cariri;4.136;0;1;1;0.0;D
+PB;Cabedelo;Rota Sanhauá;17.550;621;4;13;537241.0;D
+PB;Campina Grande;Serra da Borborema;461.667;4.608;31;425;3057423.0;B
+PB;Caraúbas;Cariri;0;0;0;0;0.0;E
+PB;Catolé do Rocha;Vale dos Sertões;20.254;182;1;4;0.0;D
+PB;Conde;Costa das Falésias;20.694;783;21;193;1632929.0;B
+PB;Congo;Cariri;0;0;0;0;0.0;E
+PB;Dona Inês;Brejo;4.477;0;0;0;0.0;D
+PB;Duas Estradas;Brejo;756;0;0;0;0.0;D
+PB;Guarabira;Brejo;37.103;116;3;23;0.0;D
+PB;Ingá;Vale do Paraíba;18.310;0;0;0;0.0;D
+PB;Itabaiana;Vale do Paraíba;2.964;0;3;9;0.0;D
+PB;Itapororoca;Vale do Mamanguape;2.964;0;0;0;0.0;D
+PB;Itatuba;Vale do Paraíba;756;0;0;0;0.0;D
+PB;João Pessoa;Rota Sanhauá;1.988.236;33.933;79;1.266;191000000000000,00;A
+PB;Joca Claudino;Vale dos Dinossauros;0;936;0;0;0.0;D
+PB;Mamanguape;Vale do Mamanguape;21.335;0;2;11;0.0;D
+PB;Matinhas;Brejo;0;0;0;0;0.0;E
+PB;Monte Horebe;Vale dos Dinossauros;0;0;0;0;0.0;E
+PB;Monteiro;Cariri;21.747;0;5;16;0.0;D
+PB;Natuba;Vale do Paraíba;0;0;0;0;0.0;E
+PB;Pedras de Fogo;Vale do Paraíba;0;0;0;0;0.0;D
+PB;Picuí;Fórum Regional de Turismo Sustentável do Seridó;0;97;2;4;0.0;D
+PB;Pilar;Vale do Paraíba;14.127;182;0;0;0.0;D
+PB;Pilõezinhos;Brejo;0;0;0;0;0.0;E
+PB;Pitimbu;Costa das Falésias;24.797;427;3;22;0.0;D
+PB;Pocinhos;Serra da Borborema;2.964;0;0;0;0.0;D
+PB;Prata;Cariri;14.505;0;0;0;0.0;D
+PB;Queimadas;Serra da Borborema;14.505;0;0;0;0.0;D
+PB;Salgadinho;Vale dos Sertões;0;0;0;0;0.0;E
+PB;São José dos Ramos;Vale do Paraíba;0;0;0;0;0.0;E
+PB;São Miguel de Taipu;Vale do Paraíba;0;0;0;0;0.0;E
+PB;São Sebastião do Umbuzeiro;Cariri;0;0;0;0;0.0;E
+PB;Serra Grande;Vale dos Dinossauros;0;70;0;0;0.0;D
+PB;Solânea;Brejo;12.426;0;3;12;0.0;D
+PB;Sousa;Vale dos Dinossauros;68.389;0;4;36;0.0;C
+PB;Sumé;Cariri;21.823;0;0;0;0.0;D
+PB;Tacima;Curimataú;756;0;0;0;0.0;D
+PB;Taperoá;Cariri;18.906;132;1;2;0.0;D
+PR;Almirante Tamandaré;Rotas do Pinhão;0;0;3;51;641273.0;D
+PR;Alto Piquiri;Caminho das Águas;25.587;0;1;5;0.0;D
+PR;Ampére;Vales do Iguaçu;14.813;724;4;10;0.0;D
+PR;Antonina;Litoral do Paraná;23.350;791;4;27;0.0;D
+PR;Antônio Olinto;Sul do Paraná;0;0;1;4;0.0;D
+PR;Apucarana;Vale do Ivaí;90.771;1.018;8;68;1141372.0;C
+PR;Arapoti;Campos Gerais;30.721;291;4;25;0.0;D
+PR;Araruna;Ecoaventuras, Histórias e Sabores;0;0;0;0;0.0;E
+PR;Araucária;Rotas do Pinhão;6.648;0;10;66;799346.0;C
+PR;Astorga;Encantos dos Ipês;2.317;0;2;14;0.0;D
+PR;Balsa Nova;Rotas do Pinhão;0;0;4;14;0.0;D
+PR;Bandeirantes;Norte Pioneiro;0;268;4;24;0.0;D
+PR;Bituruna;Sul do Paraná;0;0;4;9;0.0;D
+PR;Boa Ventura de São Roque;Entre Matas, Morros e Rios;0;0;0;0;0.0;E
+PR;Boa Vista da Aparecida;Riquezas do Oeste;0;0;1;2;0.0;D
+PR;Bom Sucesso;Vale do Ivaí;0;0;0;0;0.0;E
+PR;Borrazópolis;Vale do Ivaí;0;0;1;6;0.0;D
+PR;Braganey;Riquezas do Oeste;0;0;1;1;0.0;D
+PR;Califórnia;Vale do Ivaí;13.569;0;0;0;0.0;D
+PR;Cambé;Norte do Paraná;3.352;140;2;19;587274.0;D
+PR;Cambira;Vale do Ivaí;0;0;1;2;0.0;D
+PR;Campina Grande do Sul;Rotas do Pinhão;0;0;5;99;0.0;C
+PR;Campo do Tenente;Rotas do Pinhão;2.473;0;0;0;0.0;D
+PR;Campo Largo;Rotas do Pinhão;51.208;1.774;5;64;0.0;C
+PR;Campo Magro;Rotas do Pinhão;0;182;2;27;0.0;D
+PR;Campo Mourão;Ecoaventuras, Histórias e Sabores;99.147;1.583;14;170;1409295.0;B
+PR;Capanema;Vales do Iguaçu;0;774;1;6;0.0;D
+PR;Capitão Leônidas Marques;Riquezas do Oeste;0;0;3;11;0.0;D
+PR;Cascavel;Riquezas do Oeste;494.928;26.427;40;418;7234823.0;B
+PR;Castro;Campos Gerais;2.473;1.334;9;68;622695.0;C
+PR;Chopinzinho;Vales do Iguaçu;21.611;64;2;4;0.0;D
+PR;Colombo;Rotas do Pinhão;0;0;8;97;818247.0;C
+PR;Colorado;Encantos dos Ipês;46.001;656;2;16;0.0;C
+PR;Corbélia;Riquezas do Oeste;0;0;2;6;0.0;D
+PR;Coronel Domingos Soares;Vales do Iguaçu;0;0;0;0;0.0;E
+PR;Coronel Vivida;Vales do Iguaçu;4.657;296;3;16;0.0;D
+PR;Cruzeiro do Iguaçu;Vales do Iguaçu;9.881;0;0;0;0.0;D
+PR;Cruz Machado;Sul do Paraná;0;0;1;1;0.0;D
+PR;Curitiba;Rotas do Pinhão;3.868.494;190.705;185;3.445;738000000000000,00;A
+PR;Diamante do Norte;Encontro das Águas e Biomas;0;0;1;2;0.0;D
+PR;Dois Vizinhos;Vales do Iguaçu;10.005;585;6;36;407239.0;C
+PR;Faxinal;Vale do Ivaí;0;121;2;8;0.0;D
+PR;Fazenda Rio Grande;Rotas do Pinhão;0;0;4;29;0.0;D
+PR;Fênix;Ecoaventuras, Histórias e Sabores;0;0;1;8;0.0;D
+PR;Fernandes Pinheiro;Terra dos Pinheirais;17.011;258;2;42;0.0;D
+PR;Floresta;Encantos dos Ipês;0;258;0;0;0.0;D
+PR;Foz do Iguaçu;Cataratas do Iguaçu e Caminhos ao Lago de Itaipu;1.107.641;595.662;151;5.044;960000000000000,00;A
+PR;Foz do Jordão;Lagos e Colinas;0;1.703;1;3;0.0;D
+PR;Francisco Beltrão;Vales do Iguaçu;48.096;1.392;11;104;919479.0;C
+PR;General Carneiro;Sul do Paraná;0;67;3;7;0.0;D
+PR;Goioerê;Ecoaventuras, Histórias e Sabores;39.344;764;3;17;0.0;C
+PR;Guarapuava;Terra dos Pinheirais;250.161;7.617;27;298;2802926.0;B
+PR;Guaraqueçaba;Litoral do Paraná;7.375;376;3;4;0.0;D
+PR;Guaratuba;Litoral do Paraná;300.792;13.870;25;265;1241365.0;B
+PR;Honório Serpa;Vales do Iguaçu;0;0;0;0;0.0;D
+PR;Iguaraçu;Encantos dos Ipês;0;0;1;23;0.0;D
+PR;Inajá;Águas do Arenito Caiuá;0;0;0;0;0.0;E
+PR;Irati;Terra dos Pinheirais;34.562;1.778;9;60;404095.0;C
+PR;Iretama;Ecoaventuras, Histórias e Sabores;13.124;84;1;348;0.0;C
+PR;Itaguajé;Encantos dos Ipês;9.881;0;0;0;0.0;D
+PR;Itapejara d'Oeste;Vales do Iguaçu;0;0;1;7;0.0;D
+PR;Ivaiporã;Vale do Ivaí;58.786;349;5;31;0.0;C
+PR;Jaguariaíva;Campos Gerais;0;726;9;68;397756.0;C
+PR;Jardim Alegre;Vale do Ivaí;0;0;0;0;0.0;D
+PR;Jardim Olinda;Corredores das Águas;0;0;0;0;0.0;E
+PR;Juranda;Ecoaventuras, Histórias e Sabores;0;182;2;9;0.0;D
+PR;Lapa;Rotas do Pinhão;17.011;796;7;12;77292.0;C
+PR;Lidianópolis;Vale do Ivaí;0;0;0;0;0.0;E
+PR;Loanda;Encontro das Águas e Biomas;33.680;0;3;16;0.0;D
+PR;Londrina;Norte do Paraná;695.250;26.665;37;572;138000000000000,00;A
+PR;Lunardelli;Vale do Ivaí;0;258;0;0;0.0;D
+PR;Mallet;Terra dos Pinheirais;4.945;0;1;46;0.0;D
+PR;Mandaguari;Corredores das Águas;3.352;333;1;7;0.0;D
+PR;Mandirituba;Rotas do Pinhão;3.352;0;1;1;0.0;D
+PR;Mangueirinha;Vales do Iguaçu;0;0;3;8;0.0;D
+PR;Manoel Ribas;Entre Matas, Morros e Rios;20.944;0;1;1;0.0;D
+PR;Marechal Cândido Rondon;Cataratas do Iguaçu e Caminhos ao Lago de Itaipu;3.872;3.169;5;25;458012.0;D
+PR;Marilena;Encontro das Águas e Biomas;0;112;0;0;0.0;D
+PR;Maringá;Encantos dos Ipês;563.477;19.854;35;672;7250512.0;B
+PR;Mato Rico;Entre Matas, Morros e Rios;11.214;0;0;0;0.0;D
+PR;Medianeira;Cataratas do Iguaçu e Caminhos ao Lago de Itaipu;1.305;4.244;4;19;0.0;D
+PR;Moreira Sales;Ecoaventuras, Histórias e Sabores;0;0;1;2;0.0;D
+PR;Morretes;Litoral do Paraná;14.765;1.355;11;57;202463.0;C
+PR;Munhoz de Melo;Corredores das Águas;0;0;0;0;0.0;E
+PR;Nova Cantu;Ecoaventuras, Histórias e Sabores;6.316;0;0;0;0.0;D
+PR;Nova Londrina;Encontro das Águas e Biomas;6.127;198;2;21;0.0;D
+PR;Nova Tebas;Entre Matas, Morros e Rios;0;0;0;0;0.0;D
+PR;Ortigueira;Campos Gerais;20.363;0;3;13;0.0;D
+PR;Paiçandu;Encantos dos Ipês;0;0;2;15;0.0;D
+PR;Palmeira;Campos Gerais;4.945;116;6;27;197322.0;D
+PR;Palmital;Entre Matas, Morros e Rios;0;258;2;2;0.0;D
+PR;Palotina;Riquezas do Oeste;8.543;1.013;4;40;0.0;D
+PR;Paranacity;Encantos dos Ipês;0;549;1;1;0.0;D
+PR;Paranaguá;Litoral do Paraná;198.623;13.673;50;223;2311120.0;B
+PR;Paranavaí;Águas do Arenito Caiuá;29.113;1.631;8;83;0.0;C
+PR;Pato Branco;Vales do Iguaçu;69.704;1.926;18;151;1473253.0;B
+PR;Paula Freitas;Sul do Paraná;0;0;0;0;0.0;E
+PR;Paulo Frontin;Sul do Paraná;0;0;0;0;0.0;D
+PR;Peabiru;Ecoaventuras, Histórias e Sabores;3.352;0;1;1;0.0;D
+PR;Pinhais;Rotas do Pinhão;0;0;3;5;0.0;D
+PR;Pinhão;Sul do Paraná;6.070;0;2;14;0.0;D
+PR;Piraí do Sul;Campos Gerais;0;0;2;3;0.0;D
+PR;Piraquara;Rotas do Pinhão;0;0;2;52;0.0;D
+PR;Pitanga;Entre Matas, Morros e Rios;20.504;0;7;22;0.0;C
+PR;Planaltina do Paraná;Encontro das Águas e Biomas;2.317;0;0;0;0.0;D
+PR;Ponta Grossa;Campos Gerais;114.198;7.283;34;361;5384713.0;B
+PR;Pontal do Paraná;Litoral do Paraná;183.320;2.877;11;47;183676.0;B
+PR;Porecatu;Norte do Paraná;29.397;0;2;3;0.0;D
+PR;Porto Amazonas;Campos Gerais;0;0;0;0;0.0;E
+PR;Porto Barreiro;Lagos e Colinas;0;375;0;0;0.0;D
+PR;Porto Rico;Encontro das Águas e Biomas;29.643;182;4;17;0.0;D
+PR;Porto Vitória;Sul do Paraná;0;0;0;0;0.0;E
+PR;Primeiro de Maio;Norte do Paraná;10.817;121;2;3;0.0;D
+PR;Prudentópolis;Terra dos Pinheirais;17.039;690;6;29;0.0;C
+PR;Quatro Barras;Rotas do Pinhão;0;75;4;50;0.0;D
+PR;Querência do Norte;Encontro das Águas e Biomas;0;0;1;5;0.0;D
+PR;Reserva do Iguaçu;Lagos e Colinas;0;473;1;0;0.0;D
+PR;Ribeirão Claro;Norte Pioneiro;2.350;111;1;3;0.0;D
+PR;Rio Bom;Vale do Ivaí;0;0;1;1;0.0;D
+PR;Rio Branco do Ivaí;Entre Matas, Morros e Rios;0;0;0;0;0.0;D
+PR;Rio Negro;Rotas do Pinhão;15.578;0;3;19;0.0;D
+PR;Rolândia;Norte do Paraná;25.587;553;2;23;0.0;D
+PR;Roncador;Entre Matas, Morros e Rios;16.041;0;1;2;0.0;D
+PR;Rosário do Ivaí;Vale do Ivaí;4.903;0;0;0;0.0;D
+PR;Salgado Filho;Vales do Iguaçu;0;0;0;0;0.0;E
+PR;Santa Fé;Encantos dos Ipês;0;120;2;10;0.0;D
+PR;Santa Isabel do Ivaí;Encontro das Águas e Biomas;0;231;1;5;0.0;D
+PR;Santa Lúcia;Riquezas do Oeste;0;0;0;0;0.0;E
+PR;Santa Maria do Oeste;Entre Matas, Morros e Rios;17.011;0;0;0;0.0;D
+PR;Santo Antônio da Platina;Norte Pioneiro;18.833;761;8;47;0.0;C
+PR;Santo Antônio do Sudoeste;Vales do Iguaçu;36.773;258;3;12;0.0;D
+PR;Santo Inácio;Corredores das Águas;0;0;2;7;0.0;D
+PR;São João;Vales do Iguaçu;0;258;0;0;0.0;D
+PR;São João do Ivaí;Vale do Ivaí;27.937;0;1;8;0.0;D
+PR;São José dos Pinhais;Rotas do Pinhão;17.209;361;20;199;3605830.0;B
+PR;São Manoel do Paraná;Cinturão Verde;0;0;0;0;0.0;E
+PR;São Mateus do Sul;Sul do Paraná;5.741;353;9;46;224751.0;C
+PR;São Pedro do Paraná;Encontro das Águas e Biomas;0;241;0;0;0.0;D
+PR;Sapopema;Norte do Paraná;0;0;1;0;0.0;D
+PR;Sarandi;Corredores das Águas;8.042;0;3;25;0.0;D
+PR;Sengés;Campos Gerais;0;0;1;9;0.0;D
+PR;Sertaneja;Norte do Paraná;0;0;1;1;0.0;D
+PR;Siqueira Campos;Norte Pioneiro;5.282;141;3;16;0.0;D
+PR;Sulina;Vales do Iguaçu;18.117;67;1;18;0.0;D
+PR;Terra Boa;Ecoaventuras, Histórias e Sabores;9.881;120;1;1;0.0;D
+PR;Terra Rica;Águas do Arenito Caiuá;7.956;0;2;10;0.0;D
+PR;Tibagi;Campos Gerais;12.354;149;8;38;348812.0;C
+PR;Tijucas do Sul;Rotas do Pinhão;2.473;0;2;66;0.0;D
+PR;Toledo;Riquezas do Oeste;201.066;7.817;18;159;1959796.0;B
+PR;Três Barras do Paraná;Riquezas do Oeste;0;258;1;2;0.0;D
+PR;Turvo;Entre Matas, Morros e Rios;9.881;0;1;0;0.0;D
+PR;Umuarama;Caminho das Águas;134.223;2.060;15;157;1547428.0;B
+PR;União da Vitória;Sul do Paraná;4.436;2.290;5;44;526870.0;D
+PR;Vera Cruz do Oeste;Riquezas do Oeste;0;0;1;2;0.0;D
+PR;Verê;Vales do Iguaçu;29.771;0;3;90;0.0;C
+PE;Afogados da Ingazeira;TERRITÓRIO DA POESIA E DA CANTORIA;54.616;125;5;43;0.0;C
+PE;Afrânio;ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO;21.502;0;2;10;0.0;D
+PE;Agrestina;ENCANTOS DO AGRESTE;6.316;170;0;0;0.0;D
+PE;Águas Belas;FÉ E ARTE;676;282;2;1;0.0;D
+PE;Alagoinha;FÉ E ARTE;0;170;0;0;0.0;D
+PE;Aliança;ENGENHOS E MARACATUS;4.542;0;1;5;0.0;D
+PE;Altinho;ENCANTOS DO AGRESTE;16.881;0;0;0;0.0;D
+PE;Arcoverde;FÉ E ARTE;141.213;472;13;177;0.0;B
+PE;Barreiros;Rota 60 - Litoral Sul;11.284;0;2;3;0.0;D
+PE;Belém do São Francisco;ILHAS E LAGOS DO SÃO FRANCISCO;7.240;0;1;7;0.0;D
+PE;Belo Jardim;FÉ E ARTE;84.512;132;5;56;0.0;C
+PE;Bezerros;SERRAS E ARTES DE PERNAMBUCO;55.775;98;6;43;0.0;C
+PE;Bodocó;CHAPADA DO ARARIPE GONZAGUEANO;0;0;1;4;0.0;D
+PE;Bonito;SERRAS E ARTES DE PERNAMBUCO;116.617;121;8;55;180997.0;C
+PE;Brejo da Madre de Deus;MODA E ECOTURISMO;25.038;217;2;19;0.0;D
+PE;Buíque;FÉ E ARTE;20.821;108;1;1;0.0;D
+PE;Cabo de Santo Agostinho;Rota 60 - Litoral Sul;112.480;1.274;21;408;7620706.0;B
+PE;Cabrobó;ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO;3.499;139;4;18;0.0;D
+PE;Cachoeirinha;FÉ E ARTE;16.707;0;0;0;0.0;D
+PE;Camaragibe;ENGENHOS E MARACATUS;6.298;286;3;52;0.0;D
+PE;Carnaubeira da Penha;ILHAS E LAGOS DO SÃO FRANCISCO;0;0;0;0;0.0;E
+PE;Caruaru;SERRAS E ARTES DE PERNAMBUCO;693.464;2.653;28;397;3597999.0;B
+PE;Catende;ÁGUAS DA MATA SUL;37.489;0;0;0;0.0;D
+PE;Chã Grande;SERRAS E ARTES DE PERNAMBUCO;903;0;1;3;0.0;D
+PE;Cortês;ÁGUAS DA MATA SUL;4.846;0;0;0;0.0;D
+PE;Cupira;ENCANTOS DO AGRESTE;19.351;0;1;1;0.0;D
+PE;Dormentes;ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO;18.003;0;0;0;0.0;D
+PE;Exu;CHAPADA DO ARARIPE GONZAGUEANO;24.994;0;0;0;0.0;D
+PE;Feira Nova;Encantos da Nossa Gente: Serras, Raízes Culturais,;4.846;0;0;0;0.0;D
+PE;Fernando de Noronha;HISTÓRIA E MAR;125.670;8.062;76;597;1040000000000,00;B
+PE;Flores;CANGAÇO E LAMPIÃO;8.345;0;0;0;0.0;D
+PE;Floresta;ILHAS E LAGOS DO SÃO FRANCISCO;14.834;0;3;9;0.0;D
+PE;Garanhuns;FÉ E ARTE;247.991;1.248;25;192;1065720.0;B
+PE;Goiana;COSTA NÁUTICA COROA DO AVIÃO;130.850;379;9;35;437235.0;C
+PE;Granito;CHAPADA DO ARARIPE GONZAGUEANO;0;0;0;0;0.0;E
+PE;Gravatá;SERRAS E ARTES DE PERNAMBUCO;211.852;634;13;323;2979984.0;B
+PE;Igarassu;COSTA NÁUTICA COROA DO AVIÃO;25.667;515;2;26;0.0;D
+PE;Ilha de Itamaracá;COSTA NÁUTICA COROA DO AVIÃO;158.368;355;6;55;0.0;C
+PE;Ipojuca;Rota 60 - Litoral Sul;515.092;94.117;131;4.270;562000000000000,00;A
+PE;Itacuruba;ILHAS E LAGOS DO SÃO FRANCISCO;0;0;0;0;0.0;E
+PE;Itambé;ENGENHOS E MARACATUS;3.756;0;1;3;0.0;D
+PE;Itapissuma;COSTA NÁUTICA COROA DO AVIÃO;0;0;0;0;0.0;E
+PE;Jaboatão dos Guararapes;HISTÓRIA E MAR;75.315;1.347;21;331;4179260.0;B
+PE;Jatobá;ILHAS E LAGOS DO SÃO FRANCISCO;0;0;0;0;0.0;E
+PE;Lagoa do Carro;ENGENHOS E MARACATUS;15.408;0;2;3;0.0;D
+PE;Lagoa de Itaenga;Encantos da Nossa Gente: Serras, Raízes Culturais,;14.505;0;0;0;0.0;D
+PE;Lagoa dos Gatos;ENCANTOS DO AGRESTE;48.799;108;0;0;0.0;D
+PE;Lagoa Grande;ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO;0;0;2;4;0.0;D
+PE;Lajedo;FÉ E ARTE;10.601;0;0;0;0.0;D
+PE;Limoeiro;Encantos da Nossa Gente: Serras, Raízes Culturais,;13.004;124;7;36;135425.0;C
+PE;Moreno;SERRAS E ARTES DE PERNAMBUCO;9.692;0;1;22;0.0;D
+PE;Nazaré da Mata;ENGENHOS E MARACATUS;19.659;0;1;3;0.0;D
+PE;Olinda;COSTA NÁUTICA COROA DO AVIÃO;173.519;10.489;25;350;3309224.0;B
+PE;Orocó;ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO;3.499;0;0;0;0.0;D
+PE;Panelas;ENCANTOS DO AGRESTE;8.122;0;0;0;0.0;D
+PE;Paranatama;FÉ E ARTE;0;0;0;0;0.0;E
+PE;Passira;Encantos da Nossa Gente: Serras, Raízes Culturais,;1.806;0;1;4;0.0;D
+PE;Paudalho;ENGENHOS E MARACATUS;10.151;0;2;9;0.0;D
+PE;Paulista;COSTA NÁUTICA COROA DO AVIÃO;52.190;526;10;168;1171442.0;C
+PE;Pesqueira;FÉ E ARTE;38.929;358;7;55;0.0;C
+PE;Petrolândia;ILHAS E LAGOS DO SÃO FRANCISCO;12.583;553;3;10;0.0;D
+PE;Petrolina;ÁGUAS E VINHOS DO VALE DO SÃO FRANCISCO;168.301;5.140;29;319;2744406.0;B
+PE;Primavera;ÁGUAS DA MATA SUL;0;0;0;0;0.0;D
+PE;Recife;HISTÓRIA E MAR;3.715.522;124.979;117;2.695;367000000000000,00;A
+PE;Rio Formoso;Rota 60 - Litoral Sul;903;0;1;8;0.0;D
+PE;Sairé;SERRAS E ARTES DE PERNAMBUCO;756;0;1;45;0.0;D
+PE;São Benedito do Sul;ÁGUAS DA MATA SUL;1.844;0;1;9;0.0;D
+PE;São Joaquim do Monte;ENCANTOS DO AGRESTE;2.733;0;1;3;0.0;D
+PE;São José da Coroa Grande;Rota 60 - Litoral Sul;219.748;302;4;14;0.0;B
+PE;São José do Belmonte;CANGAÇO E LAMPIÃO;15.729;0;3;4;0.0;D
+PE;São José do Egito;TERRITÓRIO DA POESIA E DA CANTORIA;14.035;315;1;3;0.0;D
+PE;São Lourenço da Mata;ENGENHOS E MARACATUS;14.505;414;2;12;0.0;D
+PE;Serra Talhada;CANGAÇO E LAMPIÃO;89.966;474;16;126;342563.0;B
+PE;Serrita;CHAPADA DO ARARIPE GONZAGUEANO;3.499;0;0;0;0.0;D
+PE;Sertânia;TERRITÓRIO DA POESIA E DA CANTORIA;35.790;125;1;2;0.0;D
+PE;Sirinhaém;Rota 60 - Litoral Sul;5.816;252;1;2;0.0;D
+PE;Surubim;Encantos da Nossa Gente: Serras, Raízes Culturais,;21.971;80;6;37;0.0;C
+PE;Tacaratu;ILHAS E LAGOS DO SÃO FRANCISCO;5.305;116;0;0;0.0;D
+PE;Tamandaré;Rota 60 - Litoral Sul;395.296;3.147;26;224;2665340.0;B
+PE;Taquaritinga do Norte;MODA E ECOTURISMO;903;0;2;3;0.0;D
+PE;Trindade;CHAPADA DO ARARIPE GONZAGUEANO;17.969;555;1;6;0.0;D
+PE;Triunfo;CANGAÇO E LAMPIÃO;12.098;72;6;33;0.0;C
+PE;Tupanatinga;FÉ E ARTE;29.010;0;0;0;0.0;D
+PE;Vicência;ENGENHOS E MARACATUS;14.505;108;0;0;0.0;D
+PE;Vitória de Santo Antão;SERRAS E ARTES DE PERNAMBUCO;69.830;794;5;35;0.0;C
+PI;Acauã;Polo Histórico Cultural;0;0;0;0;0.0;E
+PI;Água Branca;Polo Teresina;21.090;0;0;0;0.0;D
+PI;Amarante;Polo Histórico Cultural;16.273;0;0;0;0.0;D
+PI;Barras;Polo das Águas;60.711;0;1;1;0.0;C
+PI;Batalha;Polo das Águas;17.947;0;0;0;0.0;D
+PI;Belém do Piauí;Polo Histórico Cultural;0;0;0;0;0.0;D
+PI;Beneditinos;Polo Teresina;983;0;0;0;0.0;D
+PI;Bom Jesus;Polo das Nascentes;42.735;0;4;28;0.0;C
+PI;Bom Princípio do Piauí;Polo Costa do Delta;0;0;0;0;0.0;E
+PI;Buriti dos Montes;Polo Aventura e Mistério;0;0;0;0;0.0;E
+PI;Cajazeiras do Piauí;Polo Histórico Cultural;492;0;0;0;0.0;D
+PI;Cajueiro da Praia;Polo Costa do Delta;3.656;802;10;97;0.0;C
+PI;Castelo do Piauí;Polo Aventura e Mistério;19.577;0;0;0;0.0;D
+PI;Cocal;Polo Aventura e Mistério;950;0;0;0;0.0;D
+PI;Coronel José Dias;Polo das Origens;0;0;0;0;0.0;E
+PI;Corrente;Polo das Nascentes;54.742;0;4;7;0.0;C
+PI;Cristino Castro;Polo das Nascentes;4.081;0;3;24;0.0;D
+PI;Currais;Polo das Nascentes;0;0;0;0;0.0;E
+PI;Floriano;Polo Histórico Cultural;154.364;64;12;121;1089540.0;B
+PI;Francinópolis;Polo Histórico Cultural;676;0;0;0;0.0;D
+PI;Ilha Grande;Polo Costa do Delta;0;4.834;0;0;0.0;D
+PI;Inhuma;Polo Histórico Cultural;726;0;0;0;0.0;D
+PI;José de Freitas;Polo Teresina;10.733;0;0;0;0.0;D
+PI;Juazeiro do Piauí;Polo Aventura e Mistério;4.341;0;0;0;0.0;D
+PI;Luís Correia;Polo Costa do Delta;136.173;988;18;138;601808.0;B
+PI;Marcolândia;Polo Histórico Cultural;903;0;2;8;0.0;D
+PI;Monsenhor Gil;Polo Teresina;2.151;0;0;0;0.0;D
+PI;Oeiras;Polo Histórico Cultural;20.990;0;7;16;0.0;C
+PI;Parnaíba;Polo Costa do Delta;457.364;4.759;30;229;793258.0;B
+PI;Patos do Piauí;Polo Histórico Cultural;0;0;0;0;0.0;E
+PI;Pedro II;Polo Aventura e Mistério;19.929;222;2;7;0.0;D
+PI;Pimenteiras;Polo Histórico Cultural;5.158;0;0;0;0.0;D
+PI;Piripiri;Polo Aventura e Mistério;89.985;75;6;13;0.0;C
+PI;Regeneração;Polo Histórico Cultural;4.052;0;1;6;0.0;D
+PI;Santa Cruz dos Milagres;Polo Teresina;15.706;0;0;0;0.0;D
+PI;São João do Piauí;Polo das Origens;2.980;225;3;17;0.0;D
+PI;São Raimundo Nonato;Polo das Origens;43.251;607;6;36;0.0;C
+PI;Teresina;Polo Teresina;1.763.164;9.766;54;840;10800000000000,00;A
+PI;Valença do Piauí;Polo Histórico Cultural;14.345;0;1;4;0.0;D
+RJ;Angra dos Reis;COSTA VERDE;841.279;157.173;89;612;138000000000000,00;A
+RJ;Aperibé;ÁGUAS DO NOROESTE;7.494;0;2;19;0.0;D
+RJ;Araruama;COSTA DO SOL;198.492;2.259;9;55;190393.0;B
+RJ;Areal;CAMINHOS COLONIAIS;0;0;2;15;0.0;D
+RJ;Armação dos Búzios;COSTA DO SOL;671.819;320.320;209;2.374;328000000000000,00;A
+RJ;Arraial do Cabo;COSTA DO SOL;260.542;40.933;46;368;4168108.0;B
+RJ;Barra do Piraí;VALE DO CAFÉ;25.342;935;18;293;801338.0;B
+RJ;Barra Mansa;VALE DO CAFÉ;24.183;656;14;115;1554994.0;C
+RJ;Belford Roxo;BAIXADA VERDE;10.381;0;2;30;0.0;D
+RJ;Bom Jardim;CAMINHOS DA SERRA;0;0;4;25;0.0;D
+RJ;Bom Jesus do Itabapoana;ÁGUAS DO NOROESTE;0;0;3;17;0.0;D
+RJ;Cabo Frio;COSTA DO SOL;1.209.539;41.049;89;954;115000000000000,00;A
+RJ;Cachoeiras de Macacu;SERRA VERDE IMPERIAL;0;82;11;32;267227.0;C
+RJ;Cambuci;ÁGUAS DO NOROESTE;2.700;0;0;0;0.0;D
+RJ;Campos dos Goytacazes;COSTA DOCE;398.380;5.276;34;340;3181344.0;B
+RJ;Carapebus;COSTA DO SOL;0;0;0;0;0.0;E
+RJ;Cardoso Moreira;COSTA DOCE;19.975;0;0;0;0.0;D
+RJ;Carmo;CAMINHOS DA SERRA;27.911;0;3;5;0.0;D
+RJ;Casimiro de Abreu;COSTA DO SOL;28.116;2.932;8;18;0.0;C
+RJ;Comendador Levy Gasparian;CAMINHOS COLONIAIS;2.700;0;0;0;0.0;D
+RJ;Cordeiro;CAMINHOS DA SERRA;15.802;140;2;6;0.0;D
+RJ;Duas Barras;CAMINHOS DA SERRA;0;0;0;0;0.0;D
+RJ;Duque de Caxias;BAIXADA VERDE;103.672;1.155;14;298;3907243.0;B
+RJ;Engenheiro Paulo de Frontin;VALE DO CAFÉ;8.699;80;6;60;0.0;C
+RJ;Guapimirim;SERRA VERDE IMPERIAL;5.215;441;5;60;0.0;D
+RJ;Iguaba Grande;COSTA DO SOL;55.183;262;2;7;0.0;C
+RJ;Itaguaí;COSTA VERDE;60.254;1.034;16;135;1286525.0;B
+RJ;Italva;ÁGUAS DO NOROESTE;117.349;0;1;7;0.0;C
+RJ;Itaperuna;ÁGUAS DO NOROESTE;175.606;1.146;21;251;1693154.0;B
+RJ;Itatiaia;AGULHAS NEGRAS;90.194;2.916;98;721;6129579.0;B
+RJ;Japeri;BAIXADA VERDE;30.201;130;0;0;0.0;D
+RJ;Macaé;COSTA DO SOL;486.356;15.241;59;1.275;8103191.0;A
+RJ;Macuco;CAMINHOS DA SERRA;0;0;1;4;0.0;D
+RJ;Magé;BAIXADA VERDE;13.395;82;7;35;143737.0;C
+RJ;Maricá;COSTA DO SOL;94.745;1.509;7;26;0.0;C
+RJ;Mendes;VALE DO CAFÉ;7.494;850;3;15;0.0;D
+RJ;Mesquita;BAIXADA VERDE;5.782;0;1;2;0.0;D
+RJ;Miguel Pereira;VALE DO CAFÉ;56.076;661;13;171;1044471.0;C
+RJ;Natividade;ÁGUAS DO NOROESTE;7.494;0;0;0;0.0;D
+RJ;Nilópolis;BAIXADA VERDE;22.296;130;4;58;0.0;D
+RJ;Niterói;METROPOLITANA;240.687;19.548;32;609;8506356.0;B
+RJ;Nova Friburgo;SERRA VERDE IMPERIAL;251.467;5.344;51;371;3490055.0;B
+RJ;Nova Iguaçu;BAIXADA VERDE;31.810;1.855;8;85;2281210.0;C
+RJ;Paracambi;VALE DO CAFÉ;35.814;276;4;25;0.0;C
+RJ;Paraíba do Sul;VALE DO CAFÉ;37.774;0;6;21;195850.0;C
+RJ;Paraty;COSTA VERDE;404.233;127.665;179;967;119000000000000,00;A
+RJ;Paty do Alferes;VALE DO CAFÉ;2.350;129;4;43;0.0;D
+RJ;Petrópolis;SERRA VERDE IMPERIAL;202.749;15.066;82;988;109000000000000,00;A
+RJ;Pinheiral;VALE DO CAFÉ;7.494;0;1;8;0.0;D
+RJ;Piraí;VALE DO CAFÉ;28.622;70;8;123;1491070.0;C
+RJ;Quissamã;COSTA DO SOL;28.622;0;4;7;0.0;D
+RJ;Resende;AGULHAS NEGRAS;142.391;4.897;24;347;2703529.0;B
+RJ;Rio Bonito;Caminhos da Mata;50.303;276;7;27;0.0;C
+RJ;Rio Claro;VALE DO CAFÉ;29.309;268;0;0;0.0;D
+RJ;Rio das Flores;VALE DO CAFÉ;13.413;274;1;1;0.0;D
+RJ;Rio das Ostras;COSTA DO SOL;347.607;5.394;38;147;1202230.0;B
+RJ;Rio de Janeiro;METROPOLITANA;7.119.416;1.651.696;431;17.946;40200000000000000,00;A
+RJ;São Fidélis;COSTA DOCE;15.802;130;2;15;0.0;D
+RJ;São João da Barra;COSTA DOCE;143.304;312;7;13;0.0;C
+RJ;São João de Meriti;BAIXADA VERDE;43.018;422;14;358;2530744.0;B
+RJ;Sapucaia;CAMINHOS COLONIAIS;0;207;5;20;0.0;D
+RJ;Saquarema;COSTA DO SOL;178.115;3.231;25;92;1030468.0;B
+RJ;Seropédica;BAIXADA VERDE;13.667;274;3;20;0.0;D
+RJ;Silva Jardim;Caminhos da Mata;0;245;2;1;0.0;D
+RJ;Tanguá;Caminhos da Mata;20.761;0;1;3;0.0;D
+RJ;Teresópolis;SERRA VERDE IMPERIAL;226.279;5.499;43;687;102000000000000,00;B
+RJ;Trajano de Moraes;CAMINHOS DA SERRA;12.051;0;0;0;0.0;D
+RJ;Três Rios;CAMINHOS COLONIAIS;13.129;477;11;105;543042.0;C
+RJ;Valença;VALE DO CAFÉ;13.063;1.252;40;335;3902679.0;B
+RJ;Varre-Sai;ÁGUAS DO NOROESTE;0;0;0;0;0.0;E
+RJ;Vassouras;VALE DO CAFÉ;35.714;611;10;170;1602907.0;C
+RJ;Volta Redonda;VALE DO CAFÉ;36.349;4.533;17;225;736029.0;B
+RN;Acari;Polo Seridó;2.090;0;2;4;0.0;D
+RN;Alexandria;Polo Serrano;1.844;170;0;0;0.0;D
+RN;Alto do Rodrigues;POLO DO SERTÃO PARA O MAR;0;0;2;7;0.0;D
+RN;Angicos;POLO CABUGI CENTRAL;5.082;52;0;0;0.0;D
+RN;Apodi;Polo Serrano;66.870;0;2;8;0.0;C
+RN;Areia Branca;Polo Costa Branca;53.377;394;6;35;0.0;C
+RN;Arês;Polo Costa das Dunas;0;0;0;0;0.0;E
+RN;Baía Formosa;Polo Costa das Dunas;74.326;533;9;46;276508.0;C
+RN;Baraúna;Polo Costa Branca;29.010;66;2;20;0.0;D
+RN;Barcelona;POLO POTENGI;5.688;0;0;0;0.0;D
+RN;Brejinho;Polo Agreste/Trairi;5.082;0;0;0;0.0;D
+RN;Caicó;Polo Seridó;162.441;232;9;39;287951.0;B
+RN;Campo Redondo;Polo Agreste/Trairi;0;0;0;0;0.0;E
+RN;Canguaretama;Polo Costa das Dunas;34.083;64;10;58;262354.0;C
+RN;Caraúbas;Polo Serrano;47.316;0;2;17;0.0;C
+RN;Ceará-Mirim;Polo Costa das Dunas;35.618;120;4;9;0.0;D
+RN;Cerro Corá;Polo Seridó;18.306;0;1;4;0.0;D
+RN;Currais Novos;Polo Seridó;36.274;197;7;36;0.0;C
+RN;Extremoz;Polo Costa das Dunas;25.072;753;3;4;0.0;D
+RN;Felipe Guerra;Polo Serrano;3.499;0;2;7;0.0;D
+RN;Fernando Pedroza;POLO CABUGI CENTRAL;0;0;0;0;0.0;E
+RN;Florânia;Polo Seridó;26.807;0;0;0;0.0;D
+RN;Galinhos;POLO DO SERTÃO PARA O MAR;2.695;387;4;21;0.0;D
+RN;Guamaré;POLO DO SERTÃO PARA O MAR;29.649;0;6;30;0.0;C
+RN;Itajá;POLO VALE MAR;0;0;1;2;0.0;D
+RN;Janduís;Polo Serrano;0;0;0;0;0.0;E
+RN;Jardim do Seridó;Polo Seridó;5.385;0;0;0;0.0;D
+RN;José da Penha;Polo Serrano;14.505;0;0;0;0.0;D
+RN;Lagoa Nova;Polo Seridó;0;0;1;1;0.0;D
+RN;Lajes;POLO CABUGI CENTRAL;9.626;484;1;1;0.0;D
+RN;Lajes Pintadas;Polo Agreste/Trairi;31.601;0;0;0;0.0;D
+RN;Lucrécia;Polo Serrano;0;64;0;0;0.0;D
+RN;Macau;POLO DO SERTÃO PARA O MAR;24.953;223;3;10;0.0;D
+RN;Major Sales;Polo Serrano;0;0;0;0;0.0;E
+RN;Martins;POLO ROTA DO FRIO;36.119;0;4;43;0.0;C
+RN;Maxaranguape;Polo Costa das Dunas;9.564;327;5;46;0.0;D
+RN;Monte das Gameleiras;POLO SERRAS DO AGRESTE POTIGUAR;303;0;1;17;0.0;D
+RN;Mossoró;Polo Costa Branca;183.638;1.708;23;448;3698053.0;B
+RN;Natal;Polo Costa das Dunas;3.163.130;138.309;170;4.379;603000000000000,00;A
+RN;Nísia Floresta;Polo Costa das Dunas;4.647;60;5;19;0.0;D
+RN;Olho d'Água do Borges;Polo Serrano;0;0;0;0;0.0;D
+RN;Parelhas;Polo Seridó;1.045;190;2;5;0.0;D
+RN;Parnamirim;Polo Costa das Dunas;84.314;303;14;76;534516.0;C
+RN;Passa e Fica;POLO SERRAS DO AGRESTE POTIGUAR;7.186;0;0;0;0.0;D
+RN;Patu;Polo Serrano;15.852;0;0;0;0.0;D
+RN;Pau dos Ferros;Polo Serrano;38.758;0;4;19;0.0;C
+RN;Pendências;POLO DO SERTÃO PARA O MAR;6.127;0;1;1;0.0;D
+RN;Portalegre;POLO ROTA DO FRIO;3.499;0;1;10;0.0;D
+RN;Porto do Mangue;POLO VALE MAR;0;0;0;0;0.0;E
+RN;Riacho da Cruz;POLO ROTA DO FRIO;5.457;0;0;0;0.0;D
+RN;Riachuelo;POLO POTENGI;15.247;0;0;0;0.0;D
+RN;Rio do Fogo;Polo Costa das Dunas;4.816;0;3;31;0.0;D
+RN;Santa Cruz;Polo Agreste/Trairi;67.583;297;6;28;0.0;C
+RN;Santa Maria;POLO POTENGI;0;0;1;4;0.0;D
+RN;São Francisco do Oeste;Polo Serrano;3.064;0;0;0;0.0;D
+RN;São Gonçalo do Amarante;Polo Costa das Dunas;10.165;0;0;0;0.0;D
+RN;São João do Sabugi;Polo Seridó;10.601;0;0;0;0.0;D
+RN;São José do Campestre;POLO SERRAS DO AGRESTE POTIGUAR;0;0;0;0;0.0;D
+RN;São Miguel;Polo Serrano;7.002;375;2;3;0.0;D
+RN;São Miguel do Gostoso;Polo Costa das Dunas;5.385;1.828;28;165;1056218.0;B
+RN;São Paulo do Potengi;POLO POTENGI;1.347;477;1;0;0.0;D
+RN;São Tomé;POLO POTENGI;3.437;0;0;0;0.0;D
+RN;Senador Georgino Avelino;Polo Costa das Dunas;0;0;0;0;0.0;E
+RN;Serra Caiada;Polo Agreste/Trairi;0;0;0;0;0.0;E
+RN;Serra de São Bento;POLO SERRAS DO AGRESTE POTIGUAR;0;0;2;10;0.0;D
+RN;Serra do Mel;Polo Costa Branca;0;0;0;0;0.0;E
+RN;Serrinha dos Pintos;POLO ROTA DO FRIO;0;0;0;0;0.0;E
+RN;Sítio Novo;Polo Agreste/Trairi;0;0;0;0;0.0;E
+RN;Tangará;Polo Agreste/Trairi;0;0;0;0;0.0;D
+RN;Tenente Laurentino Cruz;Polo Seridó;0;0;0;0;0.0;E
+RN;Tibau;Polo Costa Branca;133.494;664;2;7;0.0;C
+RN;Tibau do Sul;Polo Costa das Dunas;46.105;72.601;94;1.043;9638275.0;A
+RN;Timbaúba dos Batistas;Polo Seridó;0;0;0;0;0.0;E
+RN;Touros;Polo Costa das Dunas;31.930;136;7;48;0.0;C
+RN;Umarizal;Polo Serrano;0;0;0;0;0.0;D
+RN;Viçosa;POLO ROTA DO FRIO;0;0;0;0;0.0;E
+RS;Água Santa;Rota das Araucárias;0;0;0;0;0.0;E
+RS;Agudo;Região Turística da Quarta Colônia;0;0;2;7;0.0;D
+RS;Ajuricaba;Rota das Águas,Culturas e Sabores;1.688;0;0;0;0.0;D
+RS;Alecrim;Rota do Rio Uruguai;3.410;0;0;0;0.0;D
+RS;Alegrete;Pampa Gaúcho;93.745;1.421;8;57;602859.0;C
+RS;Alegria;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Alpestre;Rota Águas e Pedras;11.214;140;0;0;0.0;D
+RS;Alto Alegre;Rota das Terras Encantadas;0;0;0;0;0.0;E
+RS;Alto Feliz;Vale da Felicidade;0;0;0;0;0.0;E
+RS;Ametista do Sul;Rota Águas e Pedras;11.214;0;3;11;0.0;D
+RS;André da Rocha;Uva e Vinho;2.236;0;0;0;0.0;D
+RS;Anta Gorda;Vale do Taquari;0;2;2;2;0.0;D
+RS;Antônio Prado;Uva e Vinho;3.026;64;2;14;0.0;D
+RS;Arambaré;Costa Doce Gaúcha;16.472;0;4;4;0.0;D
+RS;Araricá;Vale Germânico;0;0;0;0;0.0;E
+RS;Arroio do Meio;Vale do Taquari;34.317;165;1;3;0.0;D
+RS;Arroio do Padre;Costa Doce Gaúcha;0;0;0;0;0.0;E
+RS;Arroio do Sal;Litoral Norte Gaúcho;57.509;2.594;14;48;327527.0;C
+RS;Arroio dos Ratos;Imperial Carbonífera;1.125;0;1;1;0.0;D
+RS;Arroio do Tigre;Centro-Serra;0;0;1;1;0.0;D
+RS;Arroio Grande;Costa Doce Gaúcha;14.888;50;0;0;0.0;D
+RS;Arvorezinha;Vale do Taquari;14.888;0;1;4;0.0;D
+RS;Augusto Pestana;Rota das Águas,Culturas e Sabores;1.683;0;1;2;0.0;D
+RS;Áurea;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Bagé;Pampa Gaúcho;274.902;1.639;12;124;1264817.0;B
+RS;Balneário Pinhal;Litoral Norte Gaúcho;28.494;0;2;13;0.0;D
+RS;Barão;Vale da Felicidade;0;0;0;0;0.0;E
+RS;Barão de Cotegipe;Rota Termas e Lagos;0;0;1;3;0.0;D
+RS;Barão do Triunfo;Imperial Carbonífera;0;366;0;0;0.0;D
+RS;Barracão;Rota das Araucárias;0;0;1;2;0.0;D
+RS;Barra do Guarita;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Barra do Quaraí;Fronteira;0;0;0;0;0.0;E
+RS;Barra do Ribeiro;Costa Doce Gaúcha;2.236;0;0;0;0.0;D
+RS;Barra do Rio Azul;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Barros Cassal;Alto da Serra do Botucaraí;0;77;1;1;0.0;D
+RS;Benjamin Constant do Sul;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Bento Gonçalves;Uva e Vinho;164.856;6.627;17;543;7003433.0;B
+RS;Boa Vista do Buricá;Rota do Rio Uruguai;12.746;0;3;11;0.0;D
+RS;Boa Vista do Cadeado;Rota das Terras Encantadas;0;0;0;0;0.0;E
+RS;Boa Vista do Incra;Rota das Terras Encantadas;0;0;0;0;0.0;E
+RS;Bom Jesus;Campos de Cima da Serra;0;0;2;8;0.0;D
+RS;Bom Princípio;Vale da Felicidade;24.956;170;1;1;0.0;D
+RS;Bom Retiro do Sul;Vale do Taquari;1.125;0;0;0;0.0;D
+RS;Boqueirão do Leão;Vale do Taquari;24.956;0;0;0;0.0;D
+RS;Bossoroca;Rota Missões;0;0;0;0;0.0;E
+RS;Braga;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Brochier;Vale da Felicidade;0;0;0;0;0.0;E
+RS;Butiá;Imperial Carbonífera;0;1.462;3;19;0.0;D
+RS;Caçapava do Sul;Pampa Gaúcho;88.213;731;4;14;166276.0;C
+RS;Cachoeira do Sul;Central;112.223;555;8;60;0.0;C
+RS;Cacique Doble;Rota das Araucárias;0;182;1;2;0.0;D
+RS;Caibaté;Rota Missões;0;67;0;0;0.0;D
+RS;Caiçara;Rota Águas e Pedras;0;0;1;2;0.0;D
+RS;Camaquã;Costa Doce Gaúcha;40.201;366;5;29;0.0;C
+RS;Cambará do Sul;Campos de Cima da Serra;16.230;1.659;14;47;308140.0;C
+RS;Campina das Missões;Rota do Rio Uruguai;0;0;1;3;0.0;D
+RS;Campinas do Sul;Rota Termas e Lagos;8.236;231;0;0;0.0;D
+RS;Campo Bom;Vale Germânico;38.135;579;2;12;0.0;D
+RS;Campo Novo;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Campos Borges;Alto da Serra do Botucaraí;14.240;0;0;0;0.0;D
+RS;Candelária;Vale do Rio Pardo;21.204;2.192;5;18;0.0;D
+RS;Cândido Godói;Rota do Rio Uruguai;0;121;0;0;0.0;D
+RS;Candiota;Pampa Gaúcho;11.556;312;3;8;0.0;D
+RS;Canela;Hortênsias;147.149;9.350;48;564;5492866.0;B
+RS;Canguçu;Costa Doce Gaúcha;44.663;375;2;16;0.0;C
+RS;Capão Bonito do Sul;Rota das Araucárias;0;0;0;0;0.0;E
+RS;Capão da Canoa;Litoral Norte Gaúcho;393.051;34.499;36;147;1034343.0;B
+RS;Capitão;Vale do Taquari;0;0;0;0;0.0;E
+RS;Capivari do Sul;Litoral Norte Gaúcho;0;0;0;0;0.0;D
+RS;Carazinho;Rota das Terras Encantadas;4.217;4.290;9;74;0.0;C
+RS;Carlos Barbosa;Uva e Vinho;22.930;91;2;9;0.0;D
+RS;Casca;Uva e Vinho;1.125;0;1;3;0.0;D
+RS;Caseiros;Rota das Araucárias;0;0;0;0;0.0;E
+RS;Caxias do Sul;Uva e Vinho;479.511;13.600;27;405;4894743.0;B
+RS;Cerro Branco;Centro-Serra;0;0;0;0;0.0;E
+RS;Cerro Grande do Sul;Costa Doce Gaúcha;0;432;0;0;0.0;D
+RS;Cerro Largo;Rota Missões;8.236;389;2;11;0.0;D
+RS;Chapada;Cultura e Tradição;0;0;1;1;0.0;D
+RS;Charqueadas;Imperial Carbonífera;8.553;118;3;9;0.0;D
+RS;Charrua;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Chiapetta;Rota do Yucumã;14.888;0;0;0;0.0;D
+RS;Chuí;Costa Doce Gaúcha;0;4.716;6;83;0.0;C
+RS;Colinas;Vale do Taquari;6.776;0;0;0;0.0;D
+RS;Colorado;Rota das Terras Encantadas;11.697;0;1;2;0.0;D
+RS;Condor;Rota das Águas,Culturas e Sabores;0;0;0;0;0.0;D
+RS;Constantina;Cultura e Tradição;2.236;120;0;0;0.0;D
+RS;Coqueiro Baixo;Vale do Taquari;8.236;0;0;0;0.0;D
+RS;Coqueiros do Sul;Rota das Terras Encantadas;0;0;0;0;0.0;E
+RS;Coronel Barros;Rota das Águas,Culturas e Sabores;0;84;0;0;0.0;D
+RS;Coronel Bicaco;Rota do Yucumã;0;0;0;0;0.0;D
+RS;Coronel Pilar;Uva e Vinho;0;0;0;0;0.0;E
+RS;Cotiporã;Uva e Vinho;0;0;0;0;0.0;D
+RS;Crissiumal;Rota do Yucumã;10.363;303;3;4;0.0;D
+RS;Cruz Alta;Rota das Terras Encantadas;60.559;521;14;91;565044.0;C
+RS;Cruzaltense;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Cruzeiro do Sul;Vale do Taquari;0;0;0;0;0.0;E
+RS;Derrubadas;Rota do Yucumã;0;258;1;8;0.0;D
+RS;Dezesseis de Novembro;Rota Missões;0;0;0;0;0.0;E
+RS;Dois Irmãos;Vale Germânico;14.888;370;2;8;0.0;D
+RS;Dois Irmãos das Missões;Rota Águas e Pedras;0;254;0;0;0.0;D
+RS;Dois Lajeados;Vale do Taquari;0;0;0;0;0.0;E
+RS;Dom Feliciano;Costa Doce Gaúcha;8.236;0;0;0;0.0;D
+RS;Dom Pedrito;Pampa Gaúcho;2.525;1.042;5;30;0.0;D
+RS;Dona Francisca;Região Turística da Quarta Colônia;0;0;0;0;0.0;E
+RS;Doutor Maurício Cardoso;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Doutor Ricardo;Vale do Taquari;0;0;0;0;0.0;E
+RS;Encantado;Vale do Taquari;10.472;89;4;6;0.0;D
+RS;Encruzilhada do Sul;Vale do Rio Pardo;23.124;0;4;12;0.0;D
+RS;Entre-Ijuís;Rota Missões;0;0;1;10;0.0;D
+RS;Erebango;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Erechim;Rota Termas e Lagos;87.999;2.472;21;128;1639074.0;B
+RS;Ernestina;Cultura e Tradição;8.236;0;0;0;0.0;D
+RS;Erval Grande;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Erval Seco;Rota Águas e Pedras;17.011;0;0;0;0.0;D
+RS;Esperança do Sul;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Espumoso;Rota das Terras Encantadas;24.514;0;1;6;0.0;D
+RS;Estação;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Estância Velha;Vale Germânico;8.236;288;0;0;0.0;D
+RS;Estrela;Vale do Taquari;33.899;731;2;12;0.0;D
+RS;Estrela Velha;Centro-Serra;0;100;0;0;0.0;D
+RS;Fagundes Varela;Uva e Vinho;0;0;1;0;0.0;D
+RS;Farroupilha;Uva e Vinho;29.724;862;5;76;899559.0;C
+RS;Faxinal do Soturno;Região Turística da Quarta Colônia;0;0;2;6;0.0;D
+RS;Fazenda Vilanova;Vale do Taquari;0;0;0;0;0.0;E
+RS;Feliz;Vale da Felicidade;14.888;221;1;3;0.0;D
+RS;Flores da Cunha;Uva e Vinho;17.486;75;3;34;0.0;D
+RS;Floriano Peixoto;Rota Termas e Lagos;0;731;0;0;0.0;D
+RS;Fontoura Xavier;Alto da Serra do Botucaraí;3.026;0;2;26;0.0;D
+RS;Fortaleza dos Valos;Rota das Terras Encantadas;0;328;0;0;0.0;D
+RS;Frederico Westphalen;Rota Águas e Pedras;17.011;2.367;7;39;412689.0;C
+RS;Garibaldi;Uva e Vinho;27.481;0;5;42;0.0;C
+RS;Gaurama;Rota Termas e Lagos;0;0;0;0;0.0;D
+RS;General Câmara;Imperial Carbonífera;14.888;0;0;0;0.0;D
+RS;Getúlio Vargas;Rota Termas e Lagos;591;77;2;7;0.0;D
+RS;Giruá;Rota Missões;728;242;1;9;0.0;D
+RS;Glorinha;Delta do Jacuí;0;0;0;0;0.0;E
+RS;Gramado;Hortênsias;959.445;39.774;163;2.758;60900000000000,00;A
+RS;Gramado Xavier;Alto da Serra do Botucaraí;0;182;1;1;0.0;D
+RS;Gravataí;Delta do Jacuí;25.412;2.817;7;62;622297.0;C
+RS;Guaíba;Costa Doce Gaúcha;19.039;1.658;6;34;0.0;C
+RS;Guaporé;Uva e Vinho;3.249;277;2;10;0.0;D
+RS;Harmonia;Vale da Felicidade;2.236;0;0;0;0.0;D
+RS;Herveiras;Vale do Rio Pardo;0;0;0;0;0.0;D
+RS;Horizontina;Rota do Rio Uruguai;9.881;210;4;32;0.0;D
+RS;Hulha Negra;Pampa Gaúcho;0;0;0;0;0.0;E
+RS;Humaitá;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Ibarama;Centro-Serra;0;0;0;0;0.0;E
+RS;Ibiaçá;Rota das Araucárias;12.041;0;1;4;0.0;D
+RS;Ibiraiaras;Rota das Araucárias;0;0;1;9;0.0;D
+RS;Ibirapuitã;Alto da Serra do Botucaraí;0;207;0;0;0.0;D
+RS;Ibirubá;Rota das Terras Encantadas;0;77;6;20;0.0;D
+RS;Igrejinha;Vale do Paranhana;0;159;2;21;0.0;D
+RS;Ilópolis;Vale do Taquari;0;0;0;0;0.0;D
+RS;Imbé;Litoral Norte Gaúcho;76.217;8.256;10;77;514536.0;C
+RS;Imigrante;Vale do Taquari;0;75;0;0;0.0;D
+RS;Independência;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Inhacorá;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Ipê;Campos de Cima da Serra;0;0;0;0;0.0;E
+RS;Ipiranga do Sul;Rota Termas e Lagos;8.042;0;0;0;0.0;D
+RS;Iraí;Rota Águas e Pedras;0;0;5;35;0.0;D
+RS;Itaara;Central;0;0;0;0;0.0;D
+RS;Itapuca;Vale do Taquari;0;0;0;0;0.0;E
+RS;Itaqui;Fronteira;12.104;0;5;14;0.0;D
+RS;Itati;Litoral Norte Gaúcho;0;0;0;0;0.0;E
+RS;Itatiba do Sul;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Ivorá;Região Turística da Quarta Colônia;0;0;0;0;0.0;E
+RS;Ivoti;Vale Germânico;0;67;3;8;0.0;D
+RS;Jacutinga;Rota Termas e Lagos;0;0;0;0;0.0;D
+RS;Jaguarão;Costa Doce Gaúcha;61.472;1.828;12;44;542891.0;C
+RS;Jaguari;Vale do Jaguarí;2.236;0;0;0;0.0;D
+RS;Jaquirana;Campos de Cima da Serra;0;0;1;1;0.0;D
+RS;Jóia;Rota das Águas,Culturas e Sabores;3.026;0;0;0;0.0;D
+RS;Júlio de Castilhos;Central;0;0;1;5;0.0;D
+RS;Lagoa Bonita do Sul;Centro-Serra;0;0;0;0;0.0;E
+RS;Lagoa dos Três Cantos;Rota das Terras Encantadas;0;0;0;0;0.0;D
+RS;Lagoa Vermelha;Rota das Araucárias;648;3.912;7;50;0.0;C
+RS;Lajeado;Vale do Taquari;110.079;926;11;152;1397782.0;B
+RS;Lavras do Sul;Pampa Gaúcho;1.329;72;2;4;0.0;D
+RS;Lindolfo Collor;Vale Germânico;0;0;0;0;0.0;E
+RS;Linha Nova;Vale da Felicidade;0;0;0;0;0.0;D
+RS;Machadinho;Rota das Araucárias;0;0;2;6;0.0;D
+RS;Mampituba;Litoral Norte Gaúcho;0;0;0;0;0.0;E
+RS;Manoel Viana;Fronteira;0;0;2;10;0.0;D
+RS;Maquiné;Litoral Norte Gaúcho;1.125;91;1;2;0.0;D
+RS;Maratá;Vale da Felicidade;0;121;0;0;0.0;D
+RS;Marau;Uva e Vinho;13.498;471;8;32;270838.0;C
+RS;Marcelino Ramos;Rota Termas e Lagos;3.347;0;6;56;0.0;C
+RS;Mariana Pimentel;Costa Doce Gaúcha;8.236;0;1;5;0.0;D
+RS;Mariano Moro;Rota Termas e Lagos;11.214;121;0;0;0.0;D
+RS;Marques de Souza;Vale do Taquari;0;0;0;0;0.0;E
+RS;Mata;Vale do Jaguarí;0;0;1;5;0.0;D
+RS;Mato Leitão;Vale do Rio Pardo;0;0;0;0;0.0;E
+RS;Mato Queimado;Rota Missões;0;0;0;0;0.0;E
+RS;Maximiliano de Almeida;Rota das Araucárias;0;75;0;0;0.0;D
+RS;Minas do Leão;Imperial Carbonífera;0;0;1;2;0.0;D
+RS;Miraguaí;Rota do Yucumã;14.888;0;0;0;0.0;D
+RS;Monte Alegre dos Campos;Campos de Cima da Serra;0;0;0;0;0.0;E
+RS;Monte Belo do Sul;Uva e Vinho;0;0;1;1;0.0;D
+RS;Montenegro;Vale da Felicidade;48.557;461;5;44;523740.0;C
+RS;Morrinhos do Sul;Litoral Norte Gaúcho;0;0;0;0;0.0;E
+RS;Morro Redondo;Costa Doce Gaúcha;14.888;0;1;4;0.0;D
+RS;Morro Reuter;Vale Germânico;0;92;1;2;0.0;D
+RS;Mostardas;Litoral Norte Gaúcho;16.472;535;5;5;0.0;D
+RS;Muçum;Vale do Taquari;648;0;0;0;0.0;D
+RS;Muitos Capões;Campos de Cima da Serra;0;0;0;0;0.0;E
+RS;Não-Me-Toque;Rota das Terras Encantadas;51.337;324;3;24;0.0;C
+RS;Nicolau Vergueiro;Alto da Serra do Botucaraí;0;0;0;0;0.0;E
+RS;Nonoai;Rota Águas e Pedras;26.159;0;4;11;0.0;D
+RS;Nova Araçá;Uva e Vinho;0;0;2;3;0.0;D
+RS;Nova Bassano;Uva e Vinho;0;128;2;4;0.0;D
+RS;Nova Candelária;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Nova Esperança do Sul;Vale do Jaguarí;0;0;1;3;0.0;D
+RS;Nova Hartz;Vale Germânico;0;0;1;5;0.0;D
+RS;Nova Pádua;Uva e Vinho;0;143;1;1;0.0;D
+RS;Nova Palma;Região Turística da Quarta Colônia;29.776;0;1;0;0.0;D
+RS;Nova Petrópolis;Hortênsias;46.896;2.676;15;108;1264152.0;C
+RS;Nova Prata;Uva e Vinho;2.236;1.098;3;39;0.0;D
+RS;Nova Roma do Sul;Uva e Vinho;1.125;0;2;2;0.0;D
+RS;Novo Cabrais;Centro-Serra;0;0;0;0;0.0;E
+RS;Novo Hamburgo;Vale Germânico;99.118;11.382;13;139;2829017.0;B
+RS;Novo Tiradentes;Rota Águas e Pedras;0;0;0;0;0.0;E
+RS;Osório;Litoral Norte Gaúcho;45.900;4.704;7;26;0.0;C
+RS;Paim Filho;Rota das Araucárias;0;0;0;0;0.0;D
+RS;Palmeira das Missões;Cultura e Tradição;44.319;0;4;18;0.0;C
+RS;Palmitinho;Rota Águas e Pedras;8.236;0;2;7;0.0;D
+RS;Pantano Grande;Vale do Rio Pardo;2.236;2.580;1;6;0.0;D
+RS;Paraíso do Sul;Central;0;0;0;0;0.0;E
+RS;Pareci Novo;Vale da Felicidade;0;0;0;0;0.0;E
+RS;Passa Sete;Centro-Serra;0;0;1;3;0.0;D
+RS;Passo do Sobrado;Vale do Rio Pardo;0;0;0;0;0.0;E
+RS;Passo Fundo;Cultura e Tradição;349.768;15.940;23;392;6340243.0;B
+RS;Paverama;Vale do Taquari;0;81;0;0;0.0;D
+RS;Pelotas;Costa Doce Gaúcha;283.409;30.651;34;415;4891698.0;B
+RS;Picada Café;Hortênsias;3.026;0;2;4;0.0;D
+RS;Pinhal;Rota Águas e Pedras;54.270;228;0;0;0.0;C
+RS;Pinhal da Serra;Campos de Cima da Serra;0;0;1;1;0.0;D
+RS;Pinhal Grande;Região Turística da Quarta Colônia;0;0;0;0;0.0;E
+RS;Pinheirinho do Vale;Rota Águas e Pedras;0;0;0;0;0.0;E
+RS;Pinto Bandeira;Uva e Vinho;0;0;1;1;0.0;D
+RS;Piratini;Costa Doce Gaúcha;0;0;2;6;0.0;D
+RS;Planalto;Rota Águas e Pedras;8.042;0;2;7;0.0;D
+RS;Poço das Antas;Vale do Taquari;0;0;0;0;0.0;E
+RS;Ponte Preta;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Portão;Vale da Felicidade;0;457;2;17;0.0;D
+RS;Porto Alegre;Delta do Jacuí;3.020.513;176.836;133;2.875;598000000000000,00;A
+RS;Porto Lucena;Rota do Rio Uruguai;1.125;0;0;0;0.0;D
+RS;Porto Mauá;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Porto Vera Cruz;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Porto Xavier;Rota Missões;0;731;3;3;0.0;D
+RS;Pouso Novo;Vale do Taquari;0;0;1;4;0.0;D
+RS;Presidente Lucena;Vale Germânico;0;0;0;0;0.0;E
+RS;Progresso;Vale do Taquari;0;0;0;0;0.0;E
+RS;Protásio Alves;Uva e Vinho;0;0;0;0;0.0;E
+RS;Putinga;Vale do Taquari;0;0;0;0;0.0;E
+RS;Quaraí;Fronteira;2.236;366;3;28;0.0;D
+RS;Quinze de Novembro;Rota das Terras Encantadas;0;0;1;3;0.0;D
+RS;Redentora;Rota do Yucumã;8.236;0;0;0;0.0;D
+RS;Relvado;Vale do Taquari;0;75;0;0;0.0;D
+RS;Restinga Sêca;Região Turística da Quarta Colônia;38.011;127;1;1;0.0;D
+RS;Rio dos Índios;Rota Águas e Pedras;0;0;0;0;0.0;E
+RS;Rio Grande;Costa Doce Gaúcha;696.471;33.288;33;338;3598486.0;B
+RS;Riozinho;Vale do Paranhana;0;0;0;0;0.0;E
+RS;Roca Sales;Vale do Taquari;0;0;0;0;0.0;E
+RS;Rodeio Bonito;Rota Águas e Pedras;0;0;2;5;0.0;D
+RS;Rolante;Vale do Paranhana;2.236;0;1;1;0.0;D
+RS;Roque Gonzales;Rota Missões;0;0;1;3;0.0;D
+RS;Rosário do Sul;Fronteira;49.939;4.385;7;54;0.0;C
+RS;Saldanha Marinho;Rota das Terras Encantadas;0;0;0;0;0.0;E
+RS;Salto do Jacuí;Rota das Terras Encantadas;0;0;1;3;0.0;D
+RS;Salvador das Missões;Rota Missões;0;0;0;0;0.0;E
+RS;Salvador do Sul;Vale da Felicidade;0;79;1;0;0.0;D
+RS;Sananduva;Rota das Araucárias;0;281;1;11;0.0;D
+RS;Santa Bárbara do Sul;Rota das Terras Encantadas;1.125;0;5;6;0.0;D
+RS;Santa Clara do Sul;Vale do Taquari;0;0;0;0;0.0;E
+RS;Santa Cruz do Sul;Vale do Rio Pardo;102.289;5.505;16;134;2254033.0;B
+RS;Santa Margarida do Sul;Fronteira;0;0;0;0;0.0;E
+RS;Santa Maria;Central;428.404;9.873;21;358;5217749.0;B
+RS;Santa Maria do Herval;Vale Germânico;6.776;0;0;0;0.0;D
+RS;Sant'Ana do Livramento;Pampa Gaúcho;175.810;5.256;24;310;3522952.0;B
+RS;Santa Rosa;Rota do Rio Uruguai;110.191;1.278;8;82;925611.0;C
+RS;Santa Tereza;Uva e Vinho;0;252;0;0;0.0;D
+RS;Santa Vitória do Palmar;Costa Doce Gaúcha;51.427;6.850;10;32;288816.0;C
+RS;Santiago;Vale do Jaguarí;29.929;91;4;45;561064.0;D
+RS;Santo Ângelo;Rota Missões;53.415;2.643;8;64;785772.0;C
+RS;Santo Antônio da Patrulha;Litoral Norte Gaúcho;23.124;145;4;23;0.0;D
+RS;Santo Antônio das Missões;Rota Missões;0;0;0;0;0.0;E
+RS;Santo Augusto;Rota do Yucumã;61.826;0;2;4;0.0;C
+RS;Santo Cristo;Rota do Rio Uruguai;435;100;5;18;0.0;D
+RS;Santo Expedito do Sul;Rota das Araucárias;0;0;0;0;0.0;E
+RS;São Borja;Rota Missões;39.785;5.760;13;75;448070.0;C
+RS;São Francisco de Assis;Vale do Jaguarí;2.236;874;1;1;0.0;D
+RS;São Francisco de Paula;Hortênsias;10.056;406;13;73;937118.0;C
+RS;São Gabriel;Fronteira;114.291;28.062;13;93;1735484.0;B
+RS;São Jerônimo;Imperial Carbonífera;14.888;121;2;8;0.0;D
+RS;São João da Urtiga;Rota das Araucárias;10.609;0;0;0;0.0;D
+RS;São João do Polêsine;Região Turística da Quarta Colônia;0;0;2;7;0.0;D
+RS;São José do Herval;Alto da Serra do Botucaraí;0;0;0;0;0.0;E
+RS;São José do Hortêncio;Vale Germânico;0;0;0;0;0.0;E
+RS;São José do Inhacorá;Rota do Rio Uruguai;0;731;0;0;0.0;D
+RS;São José do Norte;Costa Doce Gaúcha;0;366;3;2;0.0;D
+RS;São José do Ouro;Rota das Araucárias;0;0;1;2;0.0;D
+RS;São José dos Ausentes;Campos de Cima da Serra;1.125;2.080;4;5;0.0;D
+RS;São José do Sul;Vale da Felicidade;0;0;0;0;0.0;E
+RS;São Leopoldo;Vale Germânico;122.661;3.536;11;120;3340091.0;B
+RS;São Lourenço do Sul;Costa Doce Gaúcha;118.687;2.481;11;53;281558.0;C
+RS;São Luiz Gonzaga;Rota Missões;26.480;0;6;24;0.0;C
+RS;São Marcos;Uva e Vinho;24.956;188;2;19;0.0;D
+RS;São Martinho;Rota do Yucumã;0;91;0;0;0.0;D
+RS;São Martinho da Serra;Central;0;224;0;0;0.0;D
+RS;São Miguel das Missões;Rota Missões;1.125;898;2;32;0.0;D
+RS;São Nicolau;Rota Missões;0;0;0;0;0.0;D
+RS;São Paulo das Missões;Rota Missões;0;636;0;0;0.0;D
+RS;São Pedro da Serra;Vale da Felicidade;0;0;0;0;0.0;E
+RS;São Pedro do Butiá;Rota Missões;3.026;51;0;0;0.0;D
+RS;São Pedro do Sul;Central;8.236;100;4;20;0.0;D
+RS;São Sebastião do Caí;Vale da Felicidade;2.236;200;1;7;0.0;D
+RS;São Sepé;Central;30.113;731;2;19;0.0;D
+RS;São Valentim do Sul;Uva e Vinho;0;0;0;0;0.0;E
+RS;São Vendelino;Uva e Vinho;0;75;0;0;0.0;D
+RS;Sapiranga;Vale Germânico;24.956;773;4;23;0.0;D
+RS;Sapucaia do Sul;Delta do Jacuí;492;417;2;16;0.0;D
+RS;Sarandi;Cultura e Tradição;41.241;276;6;16;0.0;C
+RS;Seberi;Rota Águas e Pedras;0;0;2;5;0.0;D
+RS;Segredo;Centro-Serra;0;0;0;0;0.0;E
+RS;Selbach;Rota das Terras Encantadas;24.956;0;1;1;0.0;D
+RS;Senador Salgado Filho;Rota do Rio Uruguai;0;0;0;0;0.0;E
+RS;Serafina Corrêa;Uva e Vinho;0;0;2;15;0.0;D
+RS;Sério;Vale do Taquari;0;0;0;0;0.0;E
+RS;Sertão;Rota Termas e Lagos;0;81;0;0;0.0;D
+RS;Sertão Santana;Costa Doce Gaúcha;0;0;0;0;0.0;E
+RS;Silveira Martins;Região Turística da Quarta Colônia;8.236;0;1;2;0.0;D
+RS;Sinimbu;Vale do Rio Pardo;0;122;1;0;0.0;D
+RS;Sobradinho;Centro-Serra;0;91;3;9;0.0;D
+RS;Soledade;Alto da Serra do Botucaraí;20.624;318;6;31;0.0;C
+RS;Tapejara;Rota das Araucárias;10.496;913;4;24;0.0;D
+RS;Tapera;Rota das Terras Encantadas;41.505;0;3;16;0.0;C
+RS;Tapes;Costa Doce Gaúcha;5.584;0;3;16;0.0;D
+RS;Taquari;Vale do Taquari;8.236;182;2;6;0.0;D
+RS;Taquaruçu do Sul;Rota Águas e Pedras;14.888;0;0;0;0.0;D
+RS;Teutônia;Vale do Taquari;14.973;0;4;17;0.0;D
+RS;Tio Hugo;Rota das Terras Encantadas;0;0;0;0;0.0;D
+RS;Tiradentes do Sul;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Toropi;Central;0;0;0;0;0.0;E
+RS;Torres;Litoral Norte Gaúcho;354.626;90.900;43;491;2802456.0;B
+RS;Tramandaí;Litoral Norte Gaúcho;324.818;13.531;17;106;957434.0;B
+RS;Travesseiro;Vale do Taquari;0;0;0;0;0.0;E
+RS;Três Arroios;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Três Cachoeiras;Litoral Norte Gaúcho;0;731;0;0;0.0;D
+RS;Três Coroas;Vale do Paranhana;0;128;5;15;0.0;D
+RS;Três de Maio;Rota do Rio Uruguai;14.032;376;3;20;0.0;D
+RS;Três Forquilhas;Litoral Norte Gaúcho;0;0;0;0;0.0;E
+RS;Três Passos;Rota do Yucumã;25.814;0;3;15;0.0;D
+RS;Triunfo;Imperial Carbonífera;0;0;1;2;0.0;D
+RS;Tucunduva;Rota do Rio Uruguai;0;747;0;0;0.0;D
+RS;Tunas;Centro-Serra;0;0;0;0;0.0;E
+RS;Tuparendi;Rota do Rio Uruguai;0;0;0;0;0.0;D
+RS;Turuçu;Costa Doce Gaúcha;0;84;0;0;0.0;D
+RS;União da Serra;Uva e Vinho;0;0;0;0;0.0;E
+RS;Uruguaiana;Fronteira;67.243;14.090;20;188;2314966.0;B
+RS;Vacaria;Campos de Cima da Serra;141.203;10.208;16;104;727315.0;B
+RS;Vale do Sol;Vale do Rio Pardo;8.236;0;0;0;0.0;D
+RS;Vale Verde;Vale do Rio Pardo;0;0;0;0;0.0;E
+RS;Venâncio Aires;Vale do Rio Pardo;8.236;963;4;27;0.0;D
+RS;Vera Cruz;Vale do Rio Pardo;0;75;1;4;0.0;D
+RS;Veranópolis;Uva e Vinho;31.343;1.462;2;25;0.0;D
+RS;Vespasiano Corrêa;Vale do Taquari;0;0;0;0;0.0;E
+RS;Viadutos;Rota Termas e Lagos;0;0;0;0;0.0;E
+RS;Viamão;Delta do Jacuí;54.526;458;5;107;830994.0;C
+RS;Vicente Dutra;Rota Águas e Pedras;17.011;0;1;1;0.0;D
+RS;Victor Graeff;Rota das Terras Encantadas;0;0;0;0;0.0;E
+RS;Vila Flores;Uva e Vinho;0;0;0;0;0.0;D
+RS;Vila Lângaro;Rota das Araucárias;0;0;0;0;0.0;E
+RS;Vila Maria;Uva e Vinho;0;0;0;0;0.0;E
+RS;Vista Alegre do Prata;Uva e Vinho;0;0;0;0;0.0;E
+RS;Vista Gaúcha;Rota do Yucumã;0;0;0;0;0.0;E
+RS;Vitória das Missões;Rota Missões;0;0;0;0;0.0;E
+RS;Westfália;Vale do Taquari;14.888;0;0;0;0.0;D
+RO;Alto Alegre dos Parecis;POLO TURÍSTICO ZONA DA MATA;0;0;0;0;0.0;E
+RO;Ariquemes;POLO TURÍSTICO VALE DO JAMARI;3.371;1.326;20;135;739140.0;C
+RO;Cacoal;POLO TURISTICO RIOS DE RONDON;98.548;363;16;174;866406.0;B
+RO;Candeias do Jamari;Polo Turistico Madeira Mamoré;0;0;3;18;0.0;D
+RO;Colorado do Oeste;POLO TURÍSTICO VALE DO GUAPORÉ;0;0;2;1;0.0;D
+RO;Costa Marques;POLO TURÍSTICO REGIÃO DOS FORTES;1.548;0;2;3;0.0;D
+RO;Ji-Paraná;POLO TURÍSTICO ROTA DAS ÁGUAS;35.172;1.741;21;177;974488.0;B
+RO;Machadinho D'Oeste;POLO TURÍSTICO VALE DO JAMARI;7.054;140;6;22;0.0;D
+RO;Mirante da Serra;POLO TURÍSTICO ROTA DAS ÁGUAS;25.258;120;2;4;0.0;D
+RO;Nova União;POLO TURÍSTICO ROTA DAS ÁGUAS;0;0;1;7;0.0;D
+RO;Pimenta Bueno;POLO TURISTICO RIOS DE RONDON;29.225;211;6;30;0.0;C
+RO;Porto Velho;Polo Turistico Madeira Mamoré;494.534;5.512;68;550;4474482.0;A
+RO;Rolim de Moura;POLO TURÍSTICO ZONA DA MATA;12.392;112;9;50;515728.0;C
+RO;São Miguel do Guaporé;POLO TURÍSTICO REGIÃO DOS FORTES;34.080;236;2;8;0.0;D
+RO;Vilhena;POLO TURÍSTICO VALE DO GUAPORÉ;53.400;948;21;151;627441.0;B
+RR;Alto Alegre;Roraima, a Savana Amazônica;20.915;0;0;0;0.0;D
+RR;Amajari;O Extremo Norte do Brasil;7.564;0;0;0;0.0;D
+RR;Boa Vista;Roraima, a Savana Amazônica;475.033;9.669;26;272;2432889.0;A
+RR;Bonfim;O Extremo Norte do Brasil;18.570;0;1;7;0.0;D
+RR;Caracaraí;Águas e Florestas da Linha do Equador;26.645;0;3;2;0.0;D
+RR;Caroebe;Águas e Florestas da Linha do Equador;10.843;0;0;0;0.0;D
+RR;Normandia;O Extremo Norte do Brasil;5.659;0;2;4;0.0;D
+RR;Pacaraima;O Extremo Norte do Brasil;15.873;0;4;6;0.0;D
+SC;Abdon Batista;Vale dos Imigrantes;0;0;0;0;0.0;E
+SC;Abelardo Luz;Grande Oeste;10.515;0;4;14;0.0;D
+SC;Agrolândia;Caminhos do Alto Vale;0;0;0;0;0.0;D
+SC;Agronômica;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Água Doce;Vale dos Imigrantes;0;149;1;5;0.0;D
+SC;Águas Mornas;Grande Florianópolis;2.236;0;1;76;0.0;D
+SC;Alfredo Wagner;Grande Florianópolis;4.510;0;2;4;0.0;D
+SC;Alto Bela Vista;Alto Uruguai Catarinense;0;0;0;0;0.0;E
+SC;Anchieta;Caminhos da Fronteira;0;140;1;6;0.0;D
+SC;Angelina;Grande Florianópolis;648;0;0;0;0.0;D
+SC;Antônio Carlos;Grande Florianópolis;0;0;1;0;0.0;D
+SC;Arabutã;Grande Oeste;8.236;0;0;0;0.0;D
+SC;Araranguá;Caminho dos Canyons;34.015;3.044;8;34;342101.0;C
+SC;Armazém;Fórum Turístico de Regionalização do Turismo;0;0;0;0;0.0;D
+SC;Arroio Trinta;Vale dos Imigrantes;0;0;1;2;0.0;D
+SC;Ascurra;Vale Europeu;0;0;1;1;0.0;D
+SC;Atalanta;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Aurora;Caminhos do Alto Vale;0;0;1;8;0.0;D
+SC;Balneário Arroio do Silva;Caminho dos Canyons;16.278;126;2;9;0.0;D
+SC;Balneário Barra do Sul;Caminho dos Príncipes;41.507;652;2;14;0.0;D
+SC;Balneário Camboriú;Costa Verde & Mar;1.640.662;186.983;117;2.411;463000000000000,00;A
+SC;Balneário Piçarras;Costa Verde & Mar;155.991;1.380;6;120;0.0;B
+SC;Balneário Rincão;Fórum Turístico de Regionalização do Turismo;0;0;0;0;0.0;D
+SC;Benedito Novo;Vale Europeu;0;0;1;3;0.0;D
+SC;Blumenau;Vale Europeu;491.498;17.130;34;434;6133712.0;B
+SC;Bocaina do Sul;Serra Catarinense;0;0;0;0;0.0;E
+SC;Bombinhas;Costa Verde & Mar;395.872;245.813;132;995;115000000000000,00;A
+SC;Bom Jesus;Grande Oeste;0;0;0;0;0.0;E
+SC;Bom Retiro;Serra Catarinense;0;597;1;1;0.0;D
+SC;Braço do Norte;Fórum Turístico de Regionalização do Turismo;1.963;280;1;15;0.0;D
+SC;Brusque;Vale Europeu;87.413;1.135;9;148;1991248.0;C
+SC;Caçador;CAMINHOS DO CONTESTADO;76.079;852;7;41;852473.0;C
+SC;Caibi;Vale das Águas;0;516;0;0;0.0;D
+SC;Camboriú;Costa Verde & Mar;0;0;3;31;0.0;D
+SC;Campo Alegre;Caminho dos Príncipes;1.125;95;3;4;0.0;D
+SC;Campo Erê;Grande Oeste;14.888;149;0;0;0.0;D
+SC;Canoinhas;CAMINHOS DO CONTESTADO;19.204;917;7;62;792021.0;C
+SC;Capinzal;Vale dos Imigrantes;8.635;182;3;23;0.0;D
+SC;Caxambu do Sul;Vale das Águas;0;0;0;0;0.0;E
+SC;Celso Ramos;Vale dos Imigrantes;9.361;9.305;0;0;0.0;D
+SC;Chapadão do Lageado;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Chapecó;Grande Oeste;234.259;8.134;29;427;6771846.0;B
+SC;Concórdia;Alto Uruguai Catarinense;32.102;699;8;101;1002603.0;C
+SC;Cordilheira Alta;Grande Oeste;0;0;0;0;0.0;E
+SC;Criciúma;Fórum Turístico de Regionalização do Turismo;318.626;8.989;13;250;2863384.0;B
+SC;Doutor Pedrinho;Vale Europeu;8.042;0;2;2;0.0;D
+SC;Faxinal dos Guedes;Grande Oeste;0;0;1;1;0.0;D
+SC;Florianópolis;Grande Florianópolis;3.338.541;852.570;275;3.715;456000000000000,00;A
+SC;Forquilhinha;Fórum Turístico de Regionalização do Turismo;0;91;2;22;0.0;D
+SC;Fraiburgo;Vale dos Imigrantes;17.923;369;4;96;0.0;C
+SC;Garopaba;Grande Florianópolis;150.856;64.926;38;209;1147639.0;B
+SC;Garuva;Caminho dos Príncipes;0;75;5;20;0.0;D
+SC;Gaspar;Vale Europeu;52.791;367;6;430;0.0;B
+SC;Grão-Pará;Fórum Turístico de Regionalização do Turismo;0;0;0;0;0.0;E
+SC;Gravatal;Fórum Turístico de Regionalização do Turismo;43.070;129;5;331;0.0;B
+SC;Guabiruba;Vale Europeu;0;0;0;0;0.0;E
+SC;Guaraciaba;Caminhos da Fronteira;0;1.586;1;3;0.0;D
+SC;Guatambú;Grande Oeste;0;0;0;0;0.0;E
+SC;Herval d'Oeste;Vale dos Imigrantes;0;0;0;0;0.0;E
+SC;Ibirama;Caminhos do Alto Vale;10.770;196;2;10;0.0;D
+SC;Imbituba;Fórum Turístico de Regionalização do Turismo;40.471;17.100;72;460;4151959.0;B
+SC;Imbuia;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Indaial;Vale Europeu;6.294;576;4;22;0.0;D
+SC;Iomerê;Vale dos Imigrantes;0;0;0;0;0.0;E
+SC;Ipira;Alto Uruguai Catarinense;0;0;1;0;0.0;D
+SC;Iporã do Oeste;Caminhos da Fronteira;0;233;1;5;0.0;D
+SC;Ipuaçu;Grande Oeste;0;0;1;3;0.0;D
+SC;Ipumirim;Grande Oeste;0;0;2;4;0.0;D
+SC;Irani;Alto Uruguai Catarinense;33.982;0;2;6;0.0;D
+SC;Irineópolis;CAMINHOS DO CONTESTADO;11.214;143;2;10;0.0;D
+SC;Itá;Alto Uruguai Catarinense;16.765;0;5;172;0.0;C
+SC;Itajaí;Costa Verde & Mar;197.409;8.487;28;322;4454299.0;B
+SC;Itapema;Costa Verde & Mar;574.437;149.126;17;214;1522182.0;A
+SC;Ituporanga;Caminhos do Alto Vale;1.125;507;3;2;0.0;D
+SC;Jacinto Machado;Caminho dos Canyons;2.236;0;1;3;0.0;D
+SC;Jaguaruna;Fórum Turístico de Regionalização do Turismo;20.944;1.598;2;6;0.0;D
+SC;Joaçaba;Vale dos Imigrantes;84.066;753;7;80;945871.0;C
+SC;Joinville;Caminho dos Príncipes;618.768;21.027;46;681;275000000000000,00;A
+SC;Lages;Serra Catarinense;122.683;12.956;25;294;2543615.0;B
+SC;Laguna;Fórum Turístico de Regionalização do Turismo;77.073;10.788;17;125;673969.0;B
+SC;Lajeado Grande;Grande Oeste;0;91;0;0;0.0;D
+SC;Laurentino;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Lauro Müller;Fórum Turístico de Regionalização do Turismo;13.933;0;0;0;0.0;D
+SC;Leoberto Leal;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Lindóia do Sul;Grande Oeste;2.260;0;0;0;0.0;D
+SC;Mafra;CAMINHOS DO CONTESTADO;10.515;347;4;48;0.0;D
+SC;Major Gercino;Grande Florianópolis;0;0;0;0;0.0;E
+SC;Maravilha;Vale das Águas;648;224;3;27;0.0;D
+SC;Mirim Doce;Caminhos do Alto Vale;11.214;100;0;0;0.0;D
+SC;Morro da Fumaça;Fórum Turístico de Regionalização do Turismo;0;198;0;0;0.0;D
+SC;Morro Grande;Caminho dos Canyons;0;0;0;0;0.0;E
+SC;Navegantes;Costa Verde & Mar;163.822;3.253;13;58;628509.0;B
+SC;Nova Erechim;Vale das Águas;0;140;2;4;0.0;D
+SC;Nova Trento;Grande Florianópolis;29.457;0;4;23;0.0;D
+SC;Nova Veneza;Fórum Turístico de Regionalização do Turismo;9.283;64;6;36;0.0;C
+SC;Orleans;Fórum Turístico de Regionalização do Turismo;18.061;264;2;21;0.0;D
+SC;Ouro Verde;Grande Oeste;0;0;0;0;0.0;E
+SC;Palhoça;Grande Florianópolis;60.528;15.984;17;133;1731379.0;B
+SC;Palma Sola;Caminhos da Fronteira;0;188;0;0;0.0;D
+SC;Passo de Torres;Caminho dos Canyons;0;2.126;0;0;0.0;D
+SC;Penha;Costa Verde & Mar;144.918;5.781;41;248;2582275.0;B
+SC;Peritiba;Alto Uruguai Catarinense;0;0;0;0;0.0;D
+SC;Petrolândia;Caminhos do Alto Vale;0;0;0;0;0.0;E
+SC;Pinheiro Preto;Vale dos Imigrantes;0;243;0;0;0.0;D
+SC;Piratuba;Alto Uruguai Catarinense;182.086;0;14;453;7016657.0;B
+SC;Pomerode;Vale Europeu;23.630;1.214;11;58;352328.0;C
+SC;Porto Belo;Costa Verde & Mar;80.218;13.396;9;55;575841.0;C
+SC;Porto União;CAMINHOS DO CONTESTADO;48.974;382;6;26;0.0;C
+SC;Pouso Redondo;Caminhos do Alto Vale;8.042;122;3;65;0.0;D
+SC;Praia Grande;Caminho dos Canyons;0;170;6;35;0.0;C
+SC;Presidente Castello Branco;Alto Uruguai Catarinense;0;0;0;0;0.0;E
+SC;Quilombo;Vale das Águas;0;0;1;3;0.0;D
+SC;Rancho Queimado;Grande Florianópolis;1.773;0;2;8;0.0;D
+SC;Rio do Sul;Caminhos do Alto Vale;79.760;1.063;11;86;1167243.0;C
+SC;Rio Negrinho;Caminho dos Príncipes;3.410;743;6;24;0.0;D
+SC;Rodeio;Vale Europeu;0;331;0;0;0.0;D
+SC;Salete;Caminhos do Alto Vale;30.471;0;1;6;0.0;D
+SC;Salto Veloso;Vale dos Imigrantes;0;0;0;0;0.0;E
+SC;Santa Rosa de Lima;Fórum Turístico de Regionalização do Turismo;0;0;0;0;0.0;E
+SC;Santa Rosa do Sul;Caminho dos Canyons;0;0;0;0;0.0;E
+SC;Santa Terezinha;Caminhos do Alto Vale;14.888;0;1;1;0.0;D
+SC;Santo Amaro da Imperatriz;Grande Florianópolis;2.250;1.197;3;260;0.0;C
+SC;São Bento do Sul;Caminho dos Príncipes;50.856;752;9;46;984005.0;C
+SC;São Bonifácio;Grande Florianópolis;648;124;0;0;0.0;D
+SC;São Domingos;Grande Oeste;0;0;1;6;0.0;D
+SC;São Francisco do Sul;Caminho dos Príncipes;205.939;9.880;20;106;741242.0;B
+SC;São João Batista;Grande Florianópolis;0;0;2;12;0.0;D
+SC;São João do Sul;Caminho dos Canyons;0;0;0;0;0.0;D
+SC;São Joaquim;Serra Catarinense;65.932;719;7;35;0.0;C
+SC;São José;Grande Florianópolis;36.396;1.295;16;214;3182873.0;B
+SC;São Martinho;Fórum Turístico de Regionalização do Turismo;0;410;2;4;0.0;D
+SC;São Pedro de Alcântara;Grande Florianópolis;0;0;2;0;0.0;D
+SC;Siderópolis;Fórum Turístico de Regionalização do Turismo;0;250;1;1;0.0;D
+SC;Sombrio;Caminho dos Canyons;27.870;588;1;6;0.0;D
+SC;Taió;Caminhos do Alto Vale;35.613;117;2;11;0.0;D
+SC;Tangará;Vale dos Imigrantes;6.848;182;0;0;0.0;D
+SC;Tijucas;Grande Florianópolis;28.622;379;2;8;0.0;D
+SC;Timbé do Sul;Caminho dos Canyons;1.125;0;0;0;0.0;D
+SC;Timbó;Vale Europeu;8.690;633;5;60;0.0;C
+SC;Três Barras;CAMINHOS DO CONTESTADO;14.614;232;3;3;0.0;D
+SC;Treviso;Fórum Turístico de Regionalização do Turismo;0;0;0;0;0.0;E
+SC;Treze Tílias;Vale dos Imigrantes;12.269;1.396;6;55;0.0;C
+SC;Tubarão;Fórum Turístico de Regionalização do Turismo;39.502;2.347;13;187;1245162.0;C
+SC;Tunápolis;Caminhos da Fronteira;0;0;0;0;0.0;E
+SC;Turvo;Caminho dos Canyons;0;0;2;8;0.0;D
+SC;Urubici;Serra Catarinense;26.679;692;24;69;533448.0;B
+SC;Urussanga;Fórum Turístico de Regionalização do Turismo;648;709;2;17;0.0;D
+SC;Vargeão;Grande Oeste;0;0;0;0;0.0;E
+SC;Vidal Ramos;Caminhos do Alto Vale;0;0;2;6;0.0;D
+SC;Videira;Vale dos Imigrantes;64.284;121;5;67;0.0;C
+SC;Xanxerê;Grande Oeste;44.175;546;5;85;0.0;C
+SP;Adamantina;Sol do Oeste;29.822;368;5;28;0.0;D
+SP;Adolfo;Águas, Sabores e Saberes;0;0;1;1;0.0;D
+SP;Águas da Prata;Entre Rios, Serras e Cafés;0;1.125;3;11;0.0;D
+SP;Águas de Santa Bárbara;ANGRA PAULISTA;36.116;120;3;34;0.0;D
+SP;Agudos;Coração Paulista;0;0;4;30;0.0;D
+SP;Altinópolis;Alta Mogiana;4.510;140;6;17;0.0;D
+SP;Americana;Bem Viver;70.944;4.763;16;160;1940317.0;B
+SP;Andradina;Pantanal Paulista;49.044;75;8;62;902620.0;C
+SP;Angatuba;Veredas da Mata Atlântica;5.919;251;4;12;0.0;D
+SP;Anhumas;PONTAL PAULISTA;0;0;0;0;0.0;E
+SP;Aparecida;Fé;1.208.586;4.053;175;1.451;115000000000000,00;A
+SP;Apiaí;Cavernas da Mata Atlântica;0;223;10;21;0.0;C
+SP;Araçariguama;Roteiro dos Bandeirantes;0;0;2;9;0.0;D
+SP;Araçatuba;Tietê Vivo;142.507;3.037;26;273;3237702.0;B
+SP;Araras;Encantos da Anhanguera Central;69.495;1.552;13;92;965575.0;C
+SP;Assis;Circuito das Nações;95.740;2.283;22;149;1686293.0;B
+SP;Atibaia;Circuito das Frutas;265.670;5.340;26;1.548;122000000000000,00;B
+SP;Avaré;ANGRA PAULISTA;82.765;985;17;241;2232927.0;B
+SP;Bananal;Vale Histórico;43.061;130;5;18;200876.0;C
+SP;Bariri;Caminhos do Tietê;19.709;111;2;11;0.0;D
+SP;Barra do Chapéu;Cavernas da Mata Atlântica;0;0;0;0;0.0;E
+SP;Barra do Turvo;Cavernas da Mata Atlântica;27.578;0;1;1;0.0;D
+SP;Barretos;Águas Sertanejas;247.044;4.744;28;139;3032273.0;B
+SP;Batatais;Lagos do Rio Grande;45.122;182;6;29;0.0;C
+SP;Bauru;Coração Paulista;681.324;11.796;40;300;4613568.0;B
+SP;Bernardino de Campos;ANGRA PAULISTA;25.587;188;1;0;0.0;D
+SP;Bertioga;Litoral Norte de São Paulo;652.523;6.755;35;202;2338332.0;B
+SP;Birigui;Tietê Vivo;48.214;950;8;90;1027233.0;C
+SP;Boa Esperança do Sul;Centro Paulista;0;0;1;3;0.0;D
+SP;Bocaina;Caminhos do Tietê;0;165;2;5;0.0;D
+SP;Bofete;Cuesta Paulista;6.316;61;1;2;0.0;D
+SP;Boituva;Raízes do Interior Paulista;35.723;1.213;7;49;0.0;C
+SP;Bom Jesus dos Perdões;Entre Serras e Águas;11.328;376;1;3;0.0;D
+SP;Borborema;Caminhos do Tietê;0;0;2;4;0.0;D
+SP;Brejo Alegre;Tietê Vivo;0;0;0;0;0.0;D
+SP;Brodowski;Raízes do Campo;0;112;1;1;0.0;D
+SP;Brotas;Serra do Itaqueri;74.532;1.531;27;227;2188140.0;B
+SP;Buritizal;Lagos do Rio Grande;0;75;1;1;0.0;D
+SP;Cabreúva;Roteiro dos Bandeirantes;4.903;985;6;134;0.0;C
+SP;Caçapava;Rios do Vale;14.311;870;3;30;0.0;D
+SP;Caieiras;Negócios e Cultura;0;342;1;2;0.0;D
+SP;Cajamar;Negócios e Cultura;4.510;329;1;4;0.0;D
+SP;Cajati;Cavernas da Mata Atlântica;0;207;2;11;0.0;D
+SP;Cajuru;Alta Mogiana;0;91;4;7;0.0;D
+SP;Campina do Monte Alegre;Veredas da Mata Atlântica;13.569;0;0;0;0.0;D
+SP;Campinas;Bem Viver;1.265.590;71.490;83;1.811;408000000000000,00;A
+SP;Campo Limpo Paulista;Negócios e Cultura;13.569;0;3;22;0.0;D
+SP;Campos do Jordão;MANTIQUEIRA PAULISTA;550.468;8.548;137;1.422;2170000000000,00;A
+SP;Canas;Fé;0;170;0;0;0.0;D
+SP;Capão Bonito;Veredas da Mata Atlântica;26.863;303;5;55;0.0;C
+SP;Carapicuíba;Negócios e Cultura;6.848;765;6;130;0.0;C
+SP;Cardoso;MARAVILHAS  DO RIO GRANDE;54.275;0;3;64;0.0;C
+SP;Casa Branca;Entre Rios, Serras e Cafés;0;176;2;10;0.0;D
+SP;Cássia dos Coqueiros;Alta Mogiana;0;0;1;4;0.0;D
+SP;Castilho;Pantanal Paulista;18.727;381;2;10;0.0;D
+SP;Catanduva;Águas, Cultura e Negócios;74.069;1.732;7;83;1262465.0;C
+SP;Cerquilho;Raízes do Interior Paulista;24.897;251;3;22;0.0;D
+SP;Charqueada;Serra do Itaqueri;0;0;3;8;0.0;D
+SP;Chavantes;ANGRA PAULISTA;2.681;0;0;0;0.0;D
+SP;Colina;Águas Sertanejas;0;294;2;7;0.0;D
+SP;Colômbia;Águas Sertanejas;0;0;0;0;0.0;E
+SP;Conchal;Trilhos e Trilhas da Baixa Mogiana;41.116;0;2;9;0.0;D
+SP;Cravinhos;Raízes do Campo;6.316;188;3;30;0.0;D
+SP;Cruzeiro;Vale Histórico;496;839;11;51;193917.0;C
+SP;Cunha;Fé;0;3.240;15;57;291295.0;C
+SP;Divinolândia;Entre Rios, Serras e Cafés;6.316;0;1;3;0.0;D
+SP;Dois Córregos;Caminhos do Tietê;6.316;207;2;5;0.0;D
+SP;Dumont;Raízes do Campo;0;0;0;0;0.0;D
+SP;Eldorado;Cavernas da Mata Atlântica;0;427;2;6;0.0;D
+SP;Embu-Guaçu;Mananciais, Aventura, Artes e Negócios;31.903;170;2;4;0.0;D
+SP;Espírito Santo do Pinhal;Entre Rios, Serras e Cafés;0;1.019;5;31;0.0;D
+SP;Estiva Gerbi;Trilhos e Trilhas da Baixa Mogiana;0;120;0;0;0.0;D
+SP;Estrela do Norte;PONTAL PAULISTA;0;0;0;0;0.0;E
+SP;Euclides da Cunha Paulista;PONTAL PAULISTA;0;80;0;0;0.0;D
+SP;Fartura;ANGRA PAULISTA;6.316;174;2;20;0.0;D
+SP;Fernandópolis;MARAVILHAS  DO RIO GRANDE;39.009;407;8;96;630076.0;C
+SP;Floreal;Tietê Vivo;4.903;120;0;0;0.0;D
+SP;Florínea;Circuito das Nações;7.716;0;0;0;0.0;D
+SP;Franca;Lagos do Rio Grande;133.616;3.593;18;217;2886551.0;B
+SP;Gabriel Monteiro;Tietê Vivo;0;0;0;0;0.0;E
+SP;Gália;Alto Cafezal;0;0;0;0;0.0;E
+SP;Gastão Vidigal;Tietê Vivo;0;0;1;3;0.0;D
+SP;Guapiara;Cavernas da Mata Atlântica;6.316;0;2;6;0.0;D
+SP;Guará;Lagos do Rio Grande;4.903;0;2;11;0.0;D
+SP;Guaraçaí;Pantanal Paulista;0;0;1;0;0.0;D
+SP;Guarani d'Oeste;MARAVILHAS  DO RIO GRANDE;0;0;0;0;0.0;E
+SP;Guararema;Nascentes do Tietê;15.337;919;7;149;1945775.0;C
+SP;Guaratinguetá;Fé;34.532;4.191;17;321;3366549.0;B
+SP;Guariba;Raízes do Campo;17.379;285;2;17;0.0;D
+SP;Guarujá;Costa da Mata Atlântica;1.225.406;29.526;73;1.376;128000000000000,00;A
+SP;Guarulhos;Nascentes do Tietê;153.011;24.022;25;1.031;128000000000000,00;B
+SP;Holambra;Circuito das Águas Paulista;31.828;1.075;4;30;0.0;D
+SP;Ibirá;Águas, Sabores e Saberes;9.720;0;3;25;0.0;D
+SP;Ibiúna;Mananciais, Aventura, Artes e Negócios;28.362;1.249;6;80;0.0;C
+SP;Igaraçu do Tietê;Caminhos do Tietê;0;0;4;37;0.0;D
+SP;Igarapava;Lagos do Rio Grande;0;0;3;17;0.0;D
+SP;Igaratá;Rios do Vale;0;39;3;41;0.0;D
+SP;Ilha Comprida;Lagamar;106.810;597;20;60;259315.0;B
+SP;Ilha Solteira;Pantanal Paulista;4.567;702;7;38;0.0;C
+SP;Indiaporã;MARAVILHAS  DO RIO GRANDE;0;0;0;0;0.0;E
+SP;Iperó;História & Aventuras;3.499;0;1;6;0.0;D
+SP;Ipeúna;Serra do Itaqueri;0;0;1;10;0.0;D
+SP;Iporanga;Cavernas da Mata Atlântica;4.903;831;6;26;148648.0;D
+SP;Itanhaém;Costa da Mata Atlântica;356.566;1.901;20;113;481638.0;B
+SP;Itaoca;Cavernas da Mata Atlântica;3.844;0;0;0;0.0;D
+SP;Itapecerica da Serra;Mananciais, Aventura, Artes e Negócios;26.902;503;6;143;0.0;C
+SP;Itapetininga;Veredas da Mata Atlântica;29.846;2.261;11;100;869616.0;C
+SP;Itapira;Trilhos e Trilhas da Baixa Mogiana;18.079;251;9;43;373099.0;C
+SP;Itapirapuã Paulista;Cavernas da Mata Atlântica;0;0;0;0;0.0;E
+SP;Itápolis;Centro Paulista;0;256;3;13;0.0;D
+SP;Itapuí;Caminhos do Tietê;0;204;1;2;0.0;D
+SP;Itapura;Pantanal Paulista;0;234;0;0;0.0;D
+SP;Itaquaquecetuba;Nascentes do Tietê;25.587;295;5;36;798236.0;C
+SP;Itariri;Caminhos da Mata Atlântica;0;0;2;7;0.0;D
+SP;Itatiba;Circuito das Frutas;56.997;1.906;7;254;0.0;C
+SP;Itatinga;Cuesta Paulista;13.569;0;3;7;0.0;D
+SP;Itu;Roteiro dos Bandeirantes;213.786;5.135;19;446;8294308.0;B
+SP;Itupeva;Circuito das Frutas;44.370;1.043;4;122;0.0;C
+SP;Ituverava;Lagos do Rio Grande;11.025;372;8;48;0.0;C
+SP;Jaborandi;Águas Sertanejas;0;0;0;0;0.0;E
+SP;Jaboticabal;Raízes do Campo;24.906;1.648;9;71;525801.0;C
+SP;Jacareí;Rios do Vale;133.074;3.170;15;134;968049.0;B
+SP;Jacupiranga;Cavernas da Mata Atlântica;0;270;3;14;0.0;D
+SP;Jardinópolis;Raízes do Campo;0;0;3;20;0.0;D
+SP;Joanópolis;Entre Serras e Águas;24.788;64;8;141;0.0;C
+SP;Jundiaí;Circuito das Frutas;135.690;14.596;23;346;5056068.0;B
+SP;Juquiá;Caminhos da Mata Atlântica;0;77;4;9;0.0;D
+SP;Lagoinha;Fé;0;395;1;3;0.0;D
+SP;Laranjal Paulista;Raízes do Interior Paulista;32.518;361;2;16;0.0;D
+SP;Lavínia;Pantanal Paulista;61.160;0;0;0;0.0;C
+SP;Lençóis Paulista;Coração Paulista;0;0;8;57;0.0;C
+SP;Limeira;Serra do Itaqueri;91.492;4.939;13;186;2251008.0;B
+SP;Lindóia;Circuito das Águas Paulista;23.374;102;5;13;0.0;D
+SP;Lourdes;Tietê Vivo;0;0;0;0;0.0;E
+SP;Luiz Antônio;Alta Mogiana;0;0;1;4;0.0;D
+SP;Luiziânia;Tietê Vivo;0;84;0;0;0.0;D
+SP;Macedônia;MARAVILHAS  DO RIO GRANDE;0;0;0;0;0.0;E
+SP;Mairiporã;Entre Serras e Águas;33.823;763;15;261;2715057.0;B
+SP;Marília;Alto Cafezal;304.535;3.755;26;264;3296168.0;B
+SP;Martinópolis;Sol do Oeste;24.788;0;1;13;0.0;D
+SP;Mauá;ABCTur - Roteiro da Natureza e da Indústria;17.498;596;7;69;963608.0;C
+SP;Mendonça;Águas, Sabores e Saberes;0;0;0;0;0.0;E
+SP;Meridiano;MARAVILHAS  DO RIO GRANDE;0;0;0;0;0.0;E
+SP;Mesópolis;Entre Rios;0;0;0;0;0.0;E
+SP;Miguelópolis;Lagos do Rio Grande;40.687;0;3;2;0.0;C
+SP;Mineiros do Tietê;Caminhos do Tietê;0;39;1;2;0.0;D
+SP;Mira Estrela;MARAVILHAS  DO RIO GRANDE;22.372;0;0;0;0.0;D
+SP;Mirandópolis;Pantanal Paulista;2.350;363;0;0;0.0;D
+SP;Mirante do Paranapanema;PONTAL PAULISTA;13.569;0;1;1;0.0;D
+SP;Mococa;Raízes do Campo;30.468;408;6;42;0.0;C
+SP;Mogi Guaçu;Trilhos e Trilhas da Baixa Mogiana;31.161;506;9;75;684618.0;C
+SP;Mogi Mirim;Trilhos e Trilhas da Baixa Mogiana;118.650;2.437;9;105;1184847.0;B
+SP;Monções;Tietê Vivo;0;0;0;0;0.0;E
+SP;Mongaguá;Costa da Mata Atlântica;367.697;2.623;3;8;0.0;B
+SP;Monte Alto;Raízes do Campo;10.030;462;4;19;0.0;D
+SP;Monte Aprazível;Águas, Cultura e Negócios;1.697;182;3;8;0.0;D
+SP;Monteiro Lobato;MANTIQUEIRA PAULISTA;19.885;246;3;22;0.0;D
+SP;Monte Mor;Bem Viver;0;514;4;123;0.0;C
+SP;Morungaba;Circuito das Frutas;0;0;2;11;0.0;D
+SP;Murutinga do Sul;Pantanal Paulista;0;0;0;0;0.0;E
+SP;Narandiba;PONTAL PAULISTA;0;0;0;0;0.0;E
+SP;Natividade da Serra;Rios do Vale;0;226;0;0;0.0;D
+SP;Nazaré Paulista;Entre Serras e Águas;11.219;364;16;208;1658273.0;C
+SP;Nova Campina;Região Turística dos Cânions Paulista;21.129;0;0;0;0.0;D
+SP;Nova Granada;Águas, Cultura e Negócios;0;0;0;0;0.0;E
+SP;Nova Odessa;Bem Viver;41.116;575;4;41;0.0;C
+SP;Novo Horizonte;Águas, Sabores e Saberes;0;0;4;17;0.0;D
+SP;Ocauçu;Alto Cafezal;0;0;1;4;0.0;D
+SP;Orlândia;Lagos do Rio Grande;0;236;4;22;0.0;D
+SP;Osasco;Negócios e Cultura;113.388;2.263;21;285;9463206.0;B
+SP;Ouroeste;MARAVILHAS  DO RIO GRANDE;0;0;2;5;0.0;D
+SP;Paraguaçu Paulista;Circuito das Nações;29.884;465;5;77;0.0;C
+SP;Paraibuna;Rios do Vale;35.941;0;3;11;0.0;D
+SP;Paranapanema;ANGRA PAULISTA;0;567;4;24;0.0;D
+SP;Paulicéia;Sol do Oeste;43.433;0;3;5;0.0;C
+SP;Paulo de Faria;MARAVILHAS  DO RIO GRANDE;0;0;1;12;0.0;D
+SP;Pederneiras;Coração Paulista;0;77;6;28;0.0;D
+SP;Pedra Bela;Entre Serras e Águas;0;0;1;0;0.0;D
+SP;Pedranópolis;MARAVILHAS  DO RIO GRANDE;0;0;0;0;0.0;E
+SP;Pedregulho;Lagos do Rio Grande;0;0;2;12;0.0;D
+SP;Pedreira;Circuito das Águas Paulista;9.459;311;2;7;0.0;D
+SP;Pedrinhas Paulista;Circuito das Nações;0;182;0;0;0.0;D
+SP;Penápolis;Tietê Vivo;45.065;1.273;11;63;211532.0;C
+SP;Pereira Barreto;Pantanal Paulista;4.903;158;11;10;65307.0;C
+SP;Piacatu;Tietê Vivo;0;0;0;0;0.0;E
+SP;Piedade;Veredas da Mata Atlântica;11.328;636;4;44;0.0;D
+SP;Pindamonhangaba;MANTIQUEIRA PAULISTA;42.489;1.816;16;168;1188080.0;B
+SP;Pinhalzinho;Entre Serras e Águas;0;152;3;30;0.0;D
+SP;Piquete;Fé;0;0;1;2;0.0;D
+SP;Piracicaba;Serra do Itaqueri;201.805;9.267;28;373;5002148.0;B
+SP;Piraju;ANGRA PAULISTA;27.596;561;5;32;0.0;D
+SP;Pirapora do Bom Jesus;Roteiro dos Bandeirantes;0;0;0;0;0.0;E
+SP;Pirapozinho;PONTAL PAULISTA;0;124;3;92;0.0;D
+SP;Piratininga;Coração Paulista;2.700;265;3;21;0.0;D
+SP;Pitangueiras;Raízes do Campo;0;0;1;3;0.0;D
+SP;Pongaí;Coração do Tietê;0;0;0;0;0.0;E
+SP;Pontal;Raízes do Campo;0;373;0;0;0.0;D
+SP;Populina;MARAVILHAS  DO RIO GRANDE;0;0;0;0;0.0;E
+SP;Porangaba;Raízes do Interior Paulista;19.140;0;0;0;0.0;D
+SP;Porto Feliz;Roteiro dos Bandeirantes;42.555;595;6;180;0.0;C
+SP;Porto Ferreira;Encantos da Anhanguera Central;24.539;385;6;28;248212.0;C
+SP;Potim;Fé;0;0;0;0;0.0;E
+SP;Pradópolis;Raízes do Campo;0;0;2;14;0.0;D
+SP;Praia Grande;Costa da Mata Atlântica;1.294.998;3.851;21;110;2091663.0;A
+SP;Pratânia;Cuesta Paulista;0;0;0;0;0.0;E
+SP;Presidente Prudente;Sol do Oeste;242.705;5.176;27;306;4452701.0;B
+SP;Rancharia;Sol do Oeste;25.587;120;3;24;0.0;D
+SP;Registro;Caminhos da Mata Atlântica;64.343;869;14;123;869900.0;C
+SP;Ribeirão Grande;Cavernas da Mata Atlântica;14.569;818;2;11;0.0;D
+SP;Ribeirão Preto;Raízes do Campo;923.926;21.292;72;976;151000000000000,00;A
+SP;Rifaina;Lagos do Rio Grande;0;236;2;12;0.0;D
+SP;Rincão;Centro Paulista;8.042;0;0;0;0.0;D
+SP;Riolândia;MARAVILHAS  DO RIO GRANDE;0;0;1;4;0.0;D
+SP;Rosana;PONTAL PAULISTA;38.820;122;4;24;0.0;C
+SP;Rubiácea;Pantanal Paulista;0;0;0;0;0.0;E
+SP;Rubinéia;Entre Rios;0;0;3;6;0.0;D
+SP;Sabino;Coração do Tietê;0;0;1;1;0.0;D
+SP;Sales;Águas, Sabores e Saberes;25.587;0;2;46;0.0;D
+SP;Sales Oliveira;Raízes do Campo;0;0;2;5;0.0;D
+SP;Salesópolis;Nascentes do Tietê;0;306;5;56;0.0;D
+SP;Salto de Pirapora;História & Aventuras;28.688;0;2;5;0.0;D
+SP;Sandovalina;PONTAL PAULISTA;0;0;1;1;0.0;D
+SP;Santa Bárbara d'Oeste;Bem Viver;22.485;524;8;80;1196109.0;C
+SP;Santa Clara d'Oeste;Entre Rios;7.716;0;0;0;0.0;D
+SP;Santa Cruz da Conceição;Encantos da Anhanguera Central;0;0;0;0;0.0;E
+SP;Santa Cruz da Esperança;Raízes do Campo;0;0;0;0;0.0;E
+SP;Santa Cruz das Palmeiras;Encantos da Anhanguera Central;0;0;2;11;0.0;D
+SP;Santa Cruz do Rio Pardo;ANGRA PAULISTA;0;182;4;24;0.0;D
+SP;Santa Fé do Sul;Entre Rios;113.141;399;10;60;272410.0;C
+SP;Santa Isabel;Nascentes do Tietê;13.569;199;5;25;0.0;D
+SP;Santana de Parnaíba;Roteiro dos Bandeirantes;20.731;766;3;25;0.0;D
+SP;Santa Rita do Passa Quatro;Encantos da Anhanguera Central;4.903;116;3;5;0.0;D
+SP;Santa Rosa de Viterbo;Alta Mogiana;41.116;0;1;5;0.0;D
+SP;Santo André;ABCTur - Roteiro da Natureza e da Indústria;21.416;9.234;18;299;2190000000000,00;B
+SP;Santo Antônio da Alegria;Alta Mogiana;0;0;0;0;0.0;E
+SP;Santo Antônio do Aracanguá;Tietê Vivo;4.903;0;1;2;0.0;D
+SP;Santo Antônio do Jardim;Entre Rios, Serras e Cafés;0;0;0;0;0.0;E
+SP;Santo Antônio do Pinhal;MANTIQUEIRA PAULISTA;19.885;243;22;119;1018219.0;B
+SP;Santo Expedito;Sol do Oeste;0;0;0;0;0.0;E
+SP;Santos;Costa da Mata Atlântica;1.216.191;49.802;52;949;135000000000000,00;A
+SP;São Bento do Sapucaí;MANTIQUEIRA PAULISTA;18.079;257;13;27;612756.0;C
+SP;São Bernardo do Campo;Negócios e Cultura;96.325;5.657;40;591;6079433.0;B
+SP;São João da Boa Vista;Entre Rios, Serras e Cafés;48.602;691;10;62;673370.0;C
+SP;São José do Barreiro;Vale Histórico;0;116;4;8;0.0;D
+SP;São José do Rio Pardo;Entre Rios, Serras e Cafés;46.278;422;5;36;0.0;C
+SP;São José do Rio Preto;Águas, Cultura e Negócios;682.060;9.545;32;521;8523221.0;B
+SP;São José dos Campos;MANTIQUEIRA PAULISTA;295.005;25.942;59;697;8397833.0;B
+SP;São Lourenço da Serra;Mananciais, Aventura, Artes e Negócios;0;120;1;1;0.0;D
+SP;São Miguel Arcanjo;Veredas da Mata Atlântica;0;555;2;7;0.0;D
+SP;São Pedro;Serra do Itaqueri;17.143;1.996;14;302;1684237.0;B
+SP;São Roque;Roteiro dos Bandeirantes;57.339;2.370;16;280;3730859.0;B
+SP;São Sebastião;Litoral Norte de São Paulo;459.996;18.668;157;1.667;207000000000000,00;A
+SP;São Sebastião da Grama;Entre Rios, Serras e Cafés;0;448;2;4;0.0;D
+SP;São Simão;Alta Mogiana;0;0;1;1;0.0;D
+SP;São Vicente;Costa da Mata Atlântica;192.893;4.371;20;264;2549404.0;B
+SP;Sarapuí;Veredas da Mata Atlântica;260;163;1;8;0.0;D
+SP;Serra Negra;Circuito das Águas Paulista;167.317;978;45;739;9423924.0;B
+SP;Sertãozinho;Raízes do Campo;27.138;907;13;82;947058.0;C
+SP;Sete Barras;Caminhos da Mata Atlântica;0;746;0;0;0.0;D
+SP;Silveiras;Vale Histórico;0;0;0;0;0.0;D
+SP;Sorocaba;História & Aventuras;466.746;20.500;58;699;7707018.0;B
+SP;Sud Mennucci;Pantanal Paulista;6.316;121;3;4;0.0;D
+SP;Suzanápolis;Pantanal Paulista;0;0;0;0;0.0;E
+SP;Suzano;Nascentes do Tietê;55.026;1.551;5;27;944462.0;C
+SP;Tabatinga;Centro Paulista;0;251;1;3;0.0;D
+SP;Tambaú;Encantos da Anhanguera Central;17.011;120;1;1;0.0;D
+SP;Tapiraí;Veredas da Mata Atlântica;0;0;3;3;0.0;D
+SP;Taquaritinga;Centro Paulista;48.662;140;4;21;0.0;C
+SP;Tarumã;Circuito das Nações;0;126;2;3;0.0;D
+SP;Tatuí;Raízes do Interior Paulista;73.269;1.798;8;127;1521533.0;C
+SP;Taubaté;Rios do Vale;76.841;6.226;23;325;5422443.0;B
+SP;Torre de Pedra;Raízes do Interior Paulista;0;0;0;0;0.0;E
+SP;Torrinha;Serra do Itaqueri;0;0;3;50;0.0;D
+SP;Tremembé;Fé;0;170;2;5;0.0;D
+SP;Três Fronteiras;Entre Rios;0;0;2;5;0.0;D
+SP;Tuiuti;Entre Serras e Águas;0;0;1;4;0.0;D
+SP;Tupã;Circuito das Nações;87.090;676;4;34;246160.0;C
+SP;Turmalina;Entre Rios;0;0;0;0;0.0;E
+SP;Ubarana;Águas, Sabores e Saberes;0;182;1;4;0.0;D
+SP;Uchoa;Águas, Cultura e Negócios;0;0;0;0;0.0;D
+SP;Uru;Coração do Tietê;0;0;0;0;0.0;E
+SP;Valentim Gentil;MARAVILHAS  DO RIO GRANDE;25.587;0;1;7;0.0;D
+SP;Valinhos;Circuito das Frutas;8.223;2.998;6;75;2572583.0;C
+SP;Valparaíso;Pantanal Paulista;44.106;0;5;23;0.0;C
+SP;Vargem Grande Paulista;Mananciais, Aventura, Artes e Negócios;15.985;0;5;48;0.0;C
+SP;Vera Cruz;Alto Cafezal;19.366;0;1;5;0.0;D
+SP;Viradouro;Águas Sertanejas;6.794;0;1;2;0.0;D
+SP;Votorantim;História & Aventuras;0;126;3;31;0.0;D
+SP;Votuporanga;MARAVILHAS  DO RIO GRANDE;53.925;891;8;63;970288.0;C
+SP;Zacarias;Tietê Vivo;0;0;1;1;0.0;D
+SE;Aquidabã;Polo dos Tabuleiros;3.461;0;0;0;0.0;D
+SE;Aracaju;Polo Costa dos Coqueirais;1.112.959;16.161;100;1.888;149000000000000,00;A
+SE;Areia Branca;Polo Serras Sergipanas;0;0;0;0;0.0;E
+SE;Barra dos Coqueiros;Polo Costa dos Coqueirais;17.067;0;3;196;0.0;C
+SE;Boquim;Polo Sertão das Águas;16.798;0;1;1;0.0;D
+SE;Canindé de São Francisco;Polo Velho Chico;16.301;0;4;46;0.0;D
+SE;Capela;Polo dos Tabuleiros;5.985;149;1;0;0.0;D
+SE;Carmópolis;Polo dos Tabuleiros;468;0;2;12;0.0;D
+SE;Cedro de São João;Polo Velho Chico;794;0;0;0;0.0;D
+SE;Cumbe;Polo dos Tabuleiros;0;0;0;0;0.0;E
+SE;Divina Pastora;Polo dos Tabuleiros;0;0;0;0;0.0;E
+SE;Estância;Polo Costa dos Coqueirais;69.021;0;10;39;145816.0;C
+SE;Frei Paulo;Polo Serras Sergipanas;21.682;0;0;0;0.0;D
+SE;Gararu;Polo Velho Chico;1.697;227;0;0;0.0;D
+SE;Indiaroba;Polo Costa dos Coqueirais;0;0;0;0;0.0;E
+SE;Itabaiana;Polo Serras Sergipanas;23.053;88;10;55;162608.0;C
+SE;Itabaianinha;Polo Sertão das Águas;16.457;0;1;2;0.0;D
+SE;Itaporanga d'Ajuda;Polo Costa dos Coqueirais;0;0;1;1;0.0;D
+SE;Lagarto;Polo Sertão das Águas;45.118;0;6;22;206889.0;C
+SE;Laranjeiras;Polo Costa dos Coqueirais;0;0;2;17;0.0;D
+SE;Maruim;Polo dos Tabuleiros;0;0;0;0;0.0;E
+SE;Moita Bonita;Polo Serras Sergipanas;0;0;0;0;0.0;E
+SE;Monte Alegre de Sergipe;Polo Velho Chico;0;91;0;0;0.0;D
+SE;Neópolis;Polo Velho Chico;3.669;182;1;1;0.0;D
+SE;Nossa Senhora da Glória;Polo Velho Chico;5.517;207;3;20;0.0;D
+SE;Nossa Senhora das Dores;Polo dos Tabuleiros;15.299;0;2;9;0.0;D
+SE;Nossa Senhora do Socorro;Polo Costa dos Coqueirais;17.966;0;6;93;0.0;C
+SE;Pacatuba;Polo Costa dos Coqueirais;0;108;1;1;0.0;D
+SE;Pirambu;Polo Costa dos Coqueirais;15.299;108;1;3;0.0;D
+SE;Poço Redondo;Polo Velho Chico;0;0;1;7;0.0;D
+SE;Porto da Folha;Polo Velho Chico;30.272;0;0;0;0.0;D
+SE;Propriá;Polo Velho Chico;18.930;0;7;27;0.0;C
+SE;Riachuelo;Polo dos Tabuleiros;0;0;0;0;0.0;E
+SE;Salgado;Polo Sertão das Águas;468;0;2;14;0.0;D
+SE;Santa Luzia do Itanhy;Polo Costa dos Coqueirais;0;0;0;0;0.0;E
+SE;Santana do São Francisco;Polo Velho Chico;0;0;0;0;0.0;E
+SE;Santa Rosa de Lima;Polo dos Tabuleiros;0;0;0;0;0.0;E
+SE;Santo Amaro das Brotas;Polo Costa dos Coqueirais;21.923;0;0;0;0.0;D
+SE;São Cristóvão;Polo Costa dos Coqueirais;0;0;2;19;0.0;D
+SE;Simão Dias;Polo Sertão das Águas;4.255;0;2;6;0.0;D
+SE;Siriri;Polo dos Tabuleiros;14.505;0;0;0;0.0;D
+SE;Tobias Barreto;Polo Sertão das Águas;84.631;0;4;16;0.0;C
+SE;Tomar do Geru;Polo Sertão das Águas;3.499;0;0;0;0.0;D
+SE;Umbaúba;Polo Sertão das Águas;36.683;0;2;8;0.0;D
+TO;Araguacema;Lagos e Praias do Cantão;10.808;0;3;6;0.0;D
+TO;Araguanã;Vale dos Grandes Rios;0;64;0;0;0.0;D
+TO;Araguatins;Bico do Papagaio;7.486;335;5;16;0.0;D
+TO;Arraias;Serras Gerais;16.264;0;2;11;0.0;D
+TO;Aurora do Tocantins;Serras Gerais;0;0;0;0;0.0;E
+TO;Babaçulândia;Vale dos Grandes Rios;0;0;0;0;0.0;E
+TO;Caseara;Lagos e Praias do Cantão;4.780;120;1;1;0.0;D
+TO;Dianópolis;Serras Gerais;36.830;245;6;11;0.0;C
+TO;Filadélfia;Vale dos Grandes Rios;3.064;64;0;0;0.0;D
+TO;Formoso do Araguaia;Ilha do Bananal;9.224;0;3;11;0.0;D
+TO;Gurupi;Ilha do Bananal;102.406;478;18;135;757828.0;B
+TO;Itaguatins;Bico do Papagaio;3.499;0;0;0;0.0;D
+TO;Juarina;Vale dos Grandes Rios;728;0;0;0;0.0;D
+TO;Lagoa da Confusão;Ilha do Bananal;3.579;188;4;19;0.0;D
+TO;Lajeado;Serras e Lago;0;0;1;1;0.0;D
+TO;Lavandeira;Serras Gerais;0;0;0;0;0.0;E
+TO;Lizarda;Encantos do Jalapão;0;207;0;0;0.0;D
+TO;Miracema do Tocantins;Serras e Lago;14.014;0;3;8;0.0;D
+TO;Novo Acordo;Encantos do Jalapão;0;0;0;0;0.0;E
+TO;Novo Jardim;Serras Gerais;0;0;0;0;0.0;E
+TO;Palmas;Serras e Lago;439.469;6.625;63;530;5066140.0;A
+TO;Paraíso do Tocantins;Serras e Lago;29.464;317;12;61;316775.0;C
+TO;Paranã;Serras Gerais;14.940;140;1;0;0.0;D
+TO;Peixe;Ilha do Bananal;7.186;0;2;3;0.0;D
+TO;Pium;Lagos e Praias do Cantão;0;0;0;0;0.0;E
+TO;Ponte Alta do Tocantins;Encantos do Jalapão;30.915;0;1;1;0.0;D
+TO;Porto Alegre do Tocantins;Serras Gerais;0;0;0;0;0.0;E
+TO;Porto Nacional;Serras e Lago;42.308;413;9;34;167510.0;C
+TO;Praia Norte;Bico do Papagaio;0;0;0;0;0.0;E
+TO;Rio da Conceição;Serras Gerais;0;0;0;0;0.0;D
+TO;Sandolândia;Ilha do Bananal;0;0;1;1;0.0;D
+TO;São Félix do Tocantins;Encantos do Jalapão;1.494;0;1;2;0.0;D
+TO;Tocantínia;Serras e Lago;0;130;0;0;0.0;D
